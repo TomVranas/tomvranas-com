@@ -10,6 +10,10 @@ const writing = defineCollection({
     date: z.coerce.date(),
     heroImage: z.string().optional(),
     excerpt: z.string().optional(),
+    // Featured posts are the only ones listed on the /writing index. Every
+    // post still builds at its own URL (preserving SEO + old redirects); the
+    // index just stays restrained. Migrated archive posts default to false.
+    featured: z.boolean().default(false),
   }),
 });
 

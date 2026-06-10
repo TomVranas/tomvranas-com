@@ -4,6 +4,7 @@ date: 2026-01-14
 slug: why-im-trading-heroic-bursts-for-boring-systems
 heroImage: "/images/blog/why-im-trading-heroic-bursts-for-boring-systems/unnamed.jpg"
 excerpt: "Intensity makes for a great story. Consistency makes for a great life."
+featured: true
 ---
 ## Intensity makes for a great story. Consistency makes for a great life.
 

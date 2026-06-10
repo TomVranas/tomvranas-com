@@ -4,6 +4,7 @@ date: 2025-12-02
 slug: why-move-fast-and-break-things-eventually-just-breaks-things
 heroImage: "/images/blog/why-move-fast-and-break-things-eventually-just-breaks-things/1.png"
 excerpt: "Everyone loves \"Day 1\" of a startup. The press release. The funding news. The adrenaline. Very few people talk about \"Day 47.\" Day 47 is when the sexy vision meets the unsexy reality of vendor onboarding logic, payroll compliance, and figuring out why the API broke at 3 AM."
+featured: true
 ---
 **Turning Momentum into Maturity Without Killing Your Company’s Soul.**
 

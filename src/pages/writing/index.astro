@@ -3,9 +3,12 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import { SITE } from '../../config';
 
-const posts = (await getCollection('writing')).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-);
+// Only featured posts are listed here. The full Squarespace archive (200+
+// migrated posts) still builds at /writing/<slug> for SEO and old redirects,
+// but the index stays restrained — evidence, not a back catalogue.
+const posts = (await getCollection('writing'))
+  .filter((post) => post.data.featured)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const fmt = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
