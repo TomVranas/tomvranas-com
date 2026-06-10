@@ -37,6 +37,7 @@ npm run generate-og  # regenerate og-default.png + favicons from tokens
 | `src/config.ts` | **All site-wide settings: scheduling URL, analytics token, social URLs, email** |
 | `src/styles/global.css` | Design tokens and every style on the site |
 | `src/assets/logos/` | Drop ~8 clean grayscale client logos here (see below) |
+| `src/assets/photos/` | Site photography — replace the `placeholder-*.svg` files (see below) |
 | `public/admin/` | Decap CMS |
 | `public/_redirects` | Cloudflare redirect map from old Squarespace paths |
 | `scripts/migrate-blog.mjs` | Squarespace → markdown blog migration |
@@ -102,6 +103,27 @@ real filenames like `everywhere-wireless.svg`), and drop them in
 `src/assets/logos/`. The homepage logo row picks them up automatically,
 renders them uniform-height grayscale, and the yellow placeholder disappears.
 Do **not** reuse the old site's logo images — many are screenshots.
+
+### 7. Photos
+
+Photos render as deal-book exhibits via `src/components/Figure.astro`:
+hairline border, grayscale filter, IBM Plex Mono caption. Five slots exist,
+each currently a `placeholder-*.svg` in `src/assets/photos/`:
+
+| Slot | Page | Shape | File to replace |
+| --- | --- | --- | --- |
+| Headshot (formal) | Home, beside the intro | 4:5 portrait | `placeholder-headshot.svg` |
+| Team photo | Work, under "Seats held" | 3:2 landscape | `placeholder-team.svg` |
+| Action / all-hands | Work, in the case study | 3:2 landscape | `placeholder-action.svg` |
+| Speaking / workshop | Advisory, after the intro | 3:2 landscape | `placeholder-speaking.svg` |
+| Candid (off the clock) | Contact, beside the sign-off | 4:5 portrait | `placeholder-candid.svg` |
+
+To fill a slot: drop the full-resolution original (JPG is fine — Astro
+resizes at build time, the grayscale treatment is applied in CSS) in
+`src/assets/photos/`, update the import in the page, write a real caption
+(true place/company/year — captions are evidence, never invent them), and
+remove the `pending` prop. Keep it to these five; photos are exhibits,
+not decoration.
 
 ## Visibly highlighted placeholders
 

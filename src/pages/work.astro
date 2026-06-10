@@ -1,6 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import Ph from '../components/Ph.astro';
+import Figure from '../components/Figure.astro';
+import teamPhoto from '../assets/photos/placeholder-team.svg';
+import actionPhoto from '../assets/photos/placeholder-action.svg';
 ---
 
 <Base
@@ -48,6 +51,15 @@ import Ph from '../components/Ph.astro';
         The pattern across all of them: companies in transition, a strong-vision leader in the
         first seat, and a machine that needed building. Industry changes; the job doesn&rsquo;t.
       </p>
+
+      <div style="margin-top: 2.5rem;">
+        <Figure
+          src={teamPhoto}
+          alt="Placeholder for a photo of Tom Vranas with one of his operating teams"
+          caption="[Team photo — drop in src/assets/photos/, then real caption: company, team, year]"
+          pending
+        />
+      </div>
     </div>
   </section>
 
@@ -85,7 +97,16 @@ import Ph from '../components/Ph.astro';
         revenue, and the people worth keeping.
       </p>
 
-      <p style="margin-top: 1.5rem;">
+      <div style="margin-top: 2rem;">
+        <Figure
+          src={actionPhoto}
+          alt="Placeholder for a photo of Tom Vranas leading an all-hands or integration review"
+          caption="[Action shot — all-hands / integration review — real caption: event, company, year]"
+          pending
+        />
+      </div>
+
+      <p style="margin-top: 2rem;">
         <strong>The three things that decide whether an integration works:</strong>
       </p>
 

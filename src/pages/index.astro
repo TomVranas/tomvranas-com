@@ -2,24 +2,37 @@
 import Base from '../layouts/Base.astro';
 import Ph from '../components/Ph.astro';
 import LogoRow from '../components/LogoRow.astro';
+import Figure from '../components/Figure.astro';
 import { SITE } from '../config';
+import headshot from '../assets/photos/placeholder-headshot.svg';
 ---
 
 <Base title={SITE.metaTitle} description={SITE.metaDescription}>
   <section class="section">
-    <div class="container">
-      <p class="eyebrow">Operating Executive &middot; Chicago</p>
-      <h1 style="margin-top: 0.9rem;">Every Visionary needs an Integrator.</h1>
-      <p style="margin-top: 1.5rem; font-size: 1.1rem;">
-        I&rsquo;m Tom Vranas &mdash; the second-seat executive for founders, CEOs, and PE-backed
-        companies in transition. COO, Chief of Staff, EOS Integrator: the person who turns vision
-        into a company that actually runs. Twenty-five years, two exits, and a tour through every
-        seat in the building &mdash; people, marketing, operations, innovation, and the deals in
-        between.
-      </p>
-      <p style="margin-top: 2rem;">
-        <a class="btn" href="/contact">Start a conversation</a>
-      </p>
+    <div class="container-wide">
+      <div class="figure-split">
+        <div>
+          <p class="eyebrow">Operating Executive &middot; Chicago</p>
+          <h1 style="margin-top: 0.9rem;">Every Visionary needs an Integrator.</h1>
+          <p style="margin-top: 1.5rem; font-size: 1.1rem;">
+            I&rsquo;m Tom Vranas &mdash; the second-seat executive for founders, CEOs, and
+            PE-backed companies in transition. COO, Chief of Staff, EOS Integrator: the person who
+            turns vision into a company that actually runs. Twenty-five years, two exits, and a
+            tour through every seat in the building &mdash; people, marketing, operations,
+            innovation, and the deals in between.
+          </p>
+          <p style="margin-top: 2rem;">
+            <a class="btn" href="/contact">Start a conversation</a>
+          </p>
+        </div>
+        <Figure
+          src={headshot}
+          alt="Placeholder for a headshot of Tom Vranas"
+          caption="[Headshot — drop in src/assets/photos/, then real caption: Tom Vranas, Chicago]"
+          pending
+          eager
+        />
+      </div>
     </div>
   </section>
 

@@ -1,5 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
+import Figure from '../components/Figure.astro';
+import speakingPhoto from '../assets/photos/placeholder-speaking.svg';
 ---
 
 <Base
@@ -16,6 +18,15 @@ import Base from '../layouts/Base.astro';
         making it run better &mdash; at different depths. Pick the depth that matches your
         situation.
       </p>
+
+      <div style="margin-top: 2.5rem;">
+        <Figure
+          src={speakingPhoto}
+          alt="Placeholder for a photo of Tom Vranas leading a workshop or leadership session"
+          caption="[Speaking shot — workshop / session — real caption: event, year]"
+          pending
+        />
+      </div>
 
       <h2 style="margin-top: 3rem;">Engagements</h2>
 

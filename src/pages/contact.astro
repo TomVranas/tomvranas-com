@@ -1,6 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
+import Figure from '../components/Figure.astro';
 import { SITE } from '../config';
+import candidPhoto from '../assets/photos/placeholder-candid.svg';
 
 const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
 ---
@@ -33,12 +35,20 @@ const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
         Or email directly: <strong><a href={`mailto:${SITE.email}`}>{SITE.email}</a></strong>
       </p>
 
-      <p style="margin-top: 2.5rem;">
-        Off the clock: Glenview, Illinois. Married to Allison. Tennis, pickleball, a 1957 Porsche
-        Speedster, and a reading habit that occasionally gets out of hand. The full list of past
-        adventures is long and includes a brief career as a magician &mdash; ask me about it on
-        the call.
-      </p>
+      <div class="figure-split figure-split--narrow" style="margin-top: 2.5rem;">
+        <p>
+          Off the clock: Glenview, Illinois. Married to Allison. Tennis, pickleball, a 1957
+          Porsche Speedster, and a reading habit that occasionally gets out of hand. The full list
+          of past adventures is long and includes a brief career as a magician &mdash; ask me
+          about it on the call.
+        </p>
+        <Figure
+          src={candidPhoto}
+          alt="Placeholder for a candid photo of Tom Vranas off the clock"
+          caption="[Candid — off the clock — real caption: where, what]"
+          pending
+        />
+      </div>
 
       <p style="margin-top: 2rem; font-family: var(--font-mono); font-size: 0.85rem;">
         <a href={SITE.linkedin} rel="me noopener">LinkedIn</a> &middot;
