@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../config';
+
+const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
+---
+
+<Base
+  title="Contact — Start a conversation | Tom Vranas"
+  description="The best engagements start with a thirty-minute call about your situation — the deal, the company, the thing that isn't working. No deck required."
+>
+  <section class="section">
+    <div class="container">
+      <h1>Start a conversation.</h1>
+
+      <p style="margin-top: 1.5rem;">
+        The best engagements start with a thirty-minute call about your situation &mdash; the
+        deal, the company, the thing that isn&rsquo;t working. No deck required.
+      </p>
+
+      <p style="margin-top: 2rem;">
+        <a class="btn" href={SITE.schedulingUrl}>Schedule a call</a>
+        {
+          schedulingIsPlaceholder && (
+            <mark class="ph" style="margin-left: 0.75rem;">
+              [Set SCHEDULING_URL in src/config.ts — Calendly/SavvyCal]
+            </mark>
+          )
+        }
+      </p>
+
+      <p style="margin-top: 1.5rem;">
+        Or email directly: <strong><a href={`mailto:${SITE.email}`}>{SITE.email}</a></strong>
+      </p>
+
+      <p style="margin-top: 2.5rem;">
+        Off the clock: Glenview, Illinois. Married to Allison. Tennis, pickleball, a 1957 Porsche
+        Speedster, and a reading habit that occasionally gets out of hand. The full list of past
+        adventures is long and includes a brief career as a magician &mdash; ask me about it on
+        the call.
+      </p>
+
+      <p style="margin-top: 2rem; font-family: var(--font-mono); font-size: 0.85rem;">
+        <a href={SITE.linkedin} rel="me noopener">LinkedIn</a> &middot;
+        <a href={SITE.medium} rel="me noopener">Medium</a> &middot;
+        <a href={SITE.goodreads} rel="noopener">Goodreads</a>
+      </p>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,120 @@
+---
+import Base from '../layouts/Base.astro';
+import Ph from '../components/Ph.astro';
+import LogoRow from '../components/LogoRow.astro';
+import { SITE } from '../config';
+---
+
+<Base title={SITE.metaTitle} description={SITE.metaDescription}>
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Operating Executive &middot; Chicago</p>
+      <h1 style="margin-top: 0.9rem;">Every Visionary needs an Integrator.</h1>
+      <p style="margin-top: 1.5rem; font-size: 1.1rem;">
+        I&rsquo;m Tom Vranas &mdash; the second-seat executive for founders, CEOs, and PE-backed
+        companies in transition. COO, Chief of Staff, EOS Integrator: the person who turns vision
+        into a company that actually runs. Twenty-five years, two exits, and a tour through every
+        seat in the building &mdash; people, marketing, operations, innovation, and the deals in
+        between.
+      </p>
+      <p style="margin-top: 2rem;">
+        <a class="btn" href="/contact">Start a conversation</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="section" aria-label="Selected transactions">
+    <div class="container-wide">
+      <div class="tombstones">
+        <article class="tombstone">
+          <p class="tombstone__name">EVERYWHERE WIRELESS</p>
+          <hr class="tombstone__rule" />
+          <p class="tombstone__outcome">Acquired by MC&nbsp;Partners</p>
+          <p class="tombstone__role">Role: <Ph>[TITLE]</Ph> &middot; <Ph>[YEAR]</Ph></p>
+        </article>
+        <article class="tombstone">
+          <p class="tombstone__name">ZENTRO INTERNET</p>
+          <hr class="tombstone__rule" />
+          <p class="tombstone__outcome">Acquired by Greystar&nbsp;/&nbsp;GIP</p>
+          <p class="tombstone__role">
+            Role: <Ph>[TITLE]</Ph> &middot; Led 3 add-on integrations &middot; <Ph>[YEAR]</Ph>
+          </p>
+        </article>
+        <article class="tombstone">
+          <p class="tombstone__name">BULQIT</p>
+          <hr class="tombstone__rule" />
+          <p class="tombstone__outcome">Co-Founder &amp; COO</p>
+          <p class="tombstone__role"><Ph>[YEAR]</Ph>&ndash;present</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>What I actually do</h2>
+      <p style="margin-top: 1.2rem;">
+        Strong-vision leaders are usually terrible at running the machine &mdash; and they
+        shouldn&rsquo;t have to be. That&rsquo;s the seat I take. I&rsquo;ve been the COO, the
+        Chief of Staff, the Chief People Officer, the head of innovation, the guy who built the
+        call center and ran national marketing. Not as a tourist: as the operator accountable for
+        the number. That range is the point &mdash; when I walk into your company, no function is
+        foreign territory, so I can diagnose what&rsquo;s actually broken instead of what my
+        specialty says is broken.
+      </p>
+      <p style="margin-top: 1.2rem;">
+        I&rsquo;m built for the transition, not the steady state: the new platform, the post-close
+        mess, the company that grew faster than its systems. I diagnose, install the operating
+        rhythm, build the team that runs it, and hand it off working.
+      </p>
+
+      <div class="proof-blocks" style="margin-top: 2.5rem;">
+        <div class="proof-block">
+          <h3>Operating rhythm</h3>
+          <p>
+            EOS Integrator in practice, not just vocabulary. Scorecards, L10s, accountability
+            charts &mdash; the boring machinery that replaces founder intuition with a company
+            that runs on purpose.
+          </p>
+        </div>
+        <div class="proof-block">
+          <h3>Functional range</h3>
+          <p>
+            Built and ran a <Ph>[X]</Ph>-seat call center. Led national marketing. Served as Chief
+            People Officer through <Ph>[headcount growth / transition]</Ph>. Ran innovation teams.
+            Every seat held as the accountable owner, not an advisor.
+          </p>
+        </div>
+        <div class="proof-block">
+          <h3>Integration</h3>
+          <p>
+            Three add-on acquisitions integrated as operating lead through the Zentro platform:
+            systems, billing, people, and customers merged without breaking revenue. The deepest
+            version of the same skill &mdash; making two operating realities run as one.
+          </p>
+        </div>
+        <div class="proof-block">
+          <h3>Exits</h3>
+          <p>
+            Two companies built and sold to institutional buyers (MC Partners; Greystar / GIP). I
+            know what diligence looks for because I&rsquo;ve sat on the sell side of it twice.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container-wide">
+      <p class="eyebrow">Companies and institutions I&rsquo;ve worked with</p>
+      <LogoRow />
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <div class="container">
+      <h2>Have a company that&rsquo;s outgrown how it runs?</h2>
+      <a class="btn" href="/contact">Start a conversation</a>
+    </div>
+  </section>
+</Base>

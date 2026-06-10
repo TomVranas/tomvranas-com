@@ -1,0 +1,36 @@
+---
+// Logo row. Tom hand-selects ~8 strong logos and supplies clean files
+// (uniform grayscale, real filenames) into src/assets/logos/ — the old
+// site's logo images are NOT to be scraped (many are screenshots).
+// Until files exist, a highlighted placeholder renders so this can't
+// ship unnoticed.
+const logos = Object.entries(
+  import.meta.glob<{ default: ImageMetadata }>('../assets/logos/*.{png,svg,jpg,jpeg,webp}', {
+    eager: true,
+  })
+);
+---
+
+{
+  logos.length > 0 ? (
+    <div class="logo-row">
+      {logos.map(([path, mod]) => (
+        <img
+          src={mod.default.src}
+          alt={path
+            .split('/')
+            .pop()!
+            .replace(/\.[^.]+$/, '')
+            .replace(/[-_]/g, ' ')}
+          loading="lazy"
+        />
+      ))}
+    </div>
+  ) : (
+    <p style="margin-top: 1.25rem;">
+      <mark class="ph">
+        [LOGO ROW PLACEHOLDER — drop ~8 clean grayscale logo files into src/assets/logos/]
+      </mark>
+    </p>
+  )
+}

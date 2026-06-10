@@ -1,0 +1,34 @@
+---
+import { SITE } from '../config';
+
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const nav = [
+  { label: 'Home', href: '/' },
+  { label: 'Work', href: '/work' },
+  { label: 'Advisory', href: '/advisory' },
+  { label: 'Writing', href: '/writing' },
+  { label: 'Contact', href: '/contact' },
+];
+const isCurrent = (href: string) =>
+  href === '/' ? path === '/' : path === href || path.startsWith(href + '/');
+---
+
+<header class="site-header">
+  <div class="container-wide site-header__inner">
+    <a class="site-header__name" href="/">Tom Vranas</a>
+    <nav class="site-nav" aria-label="Primary">
+      {
+        nav.map((item) => (
+          <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>
+            {item.label}
+          </a>
+        ))
+      }
+    </nav>
+    <div class="site-header__ext">
+      <a href={SITE.linkedin} rel="me noopener">LinkedIn</a>
+      <a href={SITE.medium} rel="me noopener">Medium</a>
+      <a href={`mailto:${SITE.email}`}>Email</a>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,61 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../config';
+
+const posts = (await getCollection('writing')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+const fmt = new Intl.DateTimeFormat('en-US', {
+  year: 'numeric',
+  month: 'short',
+  day: '2-digit',
+});
+---
+
+<Base
+  title="Writing — Field notes from the operating side | Tom Vranas"
+  description="Weekly writing on integration, operating rigor, and what actually happens inside PE-backed companies after the press release."
+>
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Writing</p>
+      <h1 style="margin-top: 0.9rem;">Field notes from the operating side.</h1>
+
+      <p style="margin-top: 1.5rem;">
+        I write weekly about integration, operating rigor, and what actually happens inside
+        PE-backed companies after the press release. The polished versions live on
+        <a href={SITE.medium} rel="noopener">Medium</a> and
+        <a href={SITE.linkedin} rel="noopener">LinkedIn</a>; this page collects them.
+      </p>
+
+      <ul class="post-list" style="margin-top: 2.5rem;">
+        {
+          posts.map((post) => (
+            <li>
+              <time class="post__date" datetime={post.data.date.toISOString().slice(0, 10)}>
+                {fmt.format(post.data.date)}
+              </time>
+              <h2>
+                <a href={`/writing/${post.id}`}>{post.data.title}</a>
+              </h2>
+              {post.data.excerpt && <p class="post__excerpt">{post.data.excerpt}</p>}
+            </li>
+          ))
+        }
+      </ul>
+
+      <aside class="reading-now">
+        <span class="eyebrow">Reading now</span>
+        <p>
+          <mark class="ph">
+            [GOODREADS WIDGET PLACEHOLDER — paste the Goodreads &ldquo;currently reading&rdquo;
+            embed here, or link the profile]
+          </mark>
+          &mdash; <a href={SITE.goodreads} rel="noopener">Goodreads</a>
+        </p>
+      </aside>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,26 @@
+{
+  "name": "tomvranas-com",
+  "version": "1.0.0",
+  "description": "tomvranas.com — deal-book style site for Tom Vranas, operating executive",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "migrate": "node scripts/migrate-blog.mjs",
+    "generate-og": "node scripts/generate-og.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "@fontsource/archivo": "^5.2.8",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@fontsource/source-serif-4": "^5.2.9",
+    "astro": "^6.4.5"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "opentype.js": "^2.0.0",
+    "turndown": "^7.2.4",
+    "wawoff2": "^2.0.1"
+  }
+}

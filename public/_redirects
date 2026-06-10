@@ -1,0 +1,10 @@
+# Cloudflare Pages redirects — protects existing Squarespace SEO.
+# Per-post 301s for any blog slugs that change during migration are
+# appended below the wildcard rule by scripts/migrate-blog.mjs.
+
+/experience        /work               301
+/coachingpress     /advisory           301
+/blog              /writing            301
+/blog/*            /writing/:splat     301
+/toms-world/*      /contact            301
+/contact           /contact            200
