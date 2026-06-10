@@ -130,17 +130,17 @@ with Ryan.
 
 Keep Squarespace live until the new site is verified.
 
-1. Verify on the `*.pages.dev` URL: all five pages, every migrated post,
-   `/admin`, and each redirect in `public/_redirects` (hit `/experience`,
-   `/coachingpress`, `/blog`, `/blog/<old-post-slug>`, `/toms-world/x`).
-2. Cloudflare Pages → **Custom domains** → add `tomvranas.com` and
-   `www.tomvranas.com`.
-3. If DNS is at Squarespace, move it: add the domain to Cloudflare (free
-   plan), let it import records, then update nameservers at the registrar.
-   Point the apex + `www` at the Pages project (Cloudflare wires this up
-   when you add the custom domain).
-4. Wait for certificates to issue; confirm `https://tomvranas.com` serves the
-   new site.
+1. Verify on the `tomvranas.netlify.app` URL: all five pages, every migrated
+   post, `/admin`, and each redirect in `public/_redirects` (hit `/experience`,
+   `/coachingpress`, `/blog`, `/blog-vranas/<old-post-slug>`, `/toms-world/x`).
+2. Netlify dashboard → **Domain management** → **Add custom domain** → add
+   `tomvranas.com` and `www.tomvranas.com`.
+3. If DNS is at Squarespace, point it at Netlify: either set Netlify as the
+   DNS provider (add the apex + `www` records Netlify shows you) or, at the
+   current registrar, add the `A`/`CNAME` records Netlify lists for the
+   custom domain.
+4. Wait for the Let's Encrypt certificate to issue; confirm
+   `https://tomvranas.com` serves the new site.
 5. Run Lighthouse against production (budget: ≥95 performance,
    ≥95 accessibility, ≥95 SEO on Home and one blog post):
    `npx lighthouse https://tomvranas.com --only-categories=performance,accessibility,seo`
