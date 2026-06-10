@@ -1,0 +1,8 @@
+---
+title: "Thursday Leadership Lessons"
+date: 2019-04-11
+slug: tom-vranas-leadership-is-the-capacity-to-translate-vision-into-reality
+heroImage: "/images/blog/tom-vranas-leadership-is-the-capacity-to-translate-vision-into-reality/Leadership_Quote_029.jpg"
+excerpt: "Leadership is the capacity to translate vision into reality."
+---
+![tom vranas](/images/blog/tom-vranas-leadership-is-the-capacity-to-translate-vision-into-reality/image-0.jpg)

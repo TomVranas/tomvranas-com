@@ -1,68 +1,227 @@
 # Blog Migration Report
 
-Status: **NOT YET RUN — blocked by build-environment network policy.**
+Generated: 2026-06-10T16:26:48.727Z
+Source: https://tomvranas.com/blog-vranas?format=json
 
 ## Summary
 
-- Posts migrated: **0**
-- Conversion failures: **0** (nothing attempted)
-- Unexplained failures: **0** — the single blocker is fully explained below.
+- Posts fetched: **204**
+- Posts written: **204**
+- Conversion/download failures: **0**
 
-## What happened
+## Failures
 
-The migration pipeline (`scripts/migrate-blog.mjs`, run via `npm run migrate`)
-is built and committed, but the environment this site was built in sits behind
-an outbound-network allowlist that does not include `tomvranas.com`:
+_None._
 
-```
-$ curl https://tomvranas.com/blog?format=json
-Host not in allowlist   (HTTP 403)
-```
+## Slug map (old Squarespace slug → new slug)
 
-No request ever reached Squarespace, so no post data could be fetched.
+The wildcard rule `/blog-vranas/* → /writing/:splat` in `public/_redirects` covers
+all preserved slugs. Changed slugs get explicit per-post 301s appended to
+`_redirects` automatically by this script.
 
-## How to complete the migration
-
-From any normal machine (laptop is fine), while the Squarespace site is still
-live:
-
-```sh
-npm install
-npm run migrate
-```
-
-The script will:
-
-1. Fetch `https://tomvranas.com/blog?format=json`, paginating via the
-   `offset` parameter until exhausted.
-2. For each post, extract title, publish date, excerpt, body HTML, and hero
-   image.
-3. Convert the body HTML to markdown (headings, links, and images preserved)
-   via Turndown.
-4. Download every body image and hero image to
-   `public/images/blog/[slug]/` and rewrite references to the local paths.
-5. Write `src/content/writing/[slug].md` with frontmatter
-   `title`, `date`, `slug` (original Squarespace slug preserved),
-   `heroImage`, `excerpt`.
-6. Append explicit per-post 301s to `public/_redirects` for any slug that had
-   to change during sanitization (the wildcard `/blog/* → /writing/:splat`
-   rule covers all preserved slugs).
-7. Overwrite this file with the real report: post count, per-post failures,
-   and the full old→new slug map.
-
-Then commit the generated files and push.
-
-### Note on image location
-
-The spec suggested `/src/assets/blog/[slug]/`. Images intentionally land in
-`public/images/blog/[slug]/` instead so the same folder works as Decap CMS's
-`media_folder` and `heroImage` frontmatter paths resolve uniformly in both the
-CMS preview and the built site. They are still fully local — nothing is
-hotlinked from the Squarespace CDN.
-
-## Current content
-
-One sample post exists (`src/content/writing/pe-doesnt-fail-at-close.md`) —
-the first new post named in the spec, with a yellow-highlighted placeholder
-body. It verifies the pipeline end to end (collection schema, index listing,
-post route, Decap editing) and must have its body written before launch.
+| Old | New | Status |
+| --- | --- | --- |
+| `why-im-trading-heroic-bursts-for-boring-systems` | `why-im-trading-heroic-bursts-for-boring-systems` | preserved |
+| `why-move-fast-and-break-things-eventually-just-breaks-things` | `why-move-fast-and-break-things-eventually-just-breaks-things` | preserved |
+| `tom-vranas-laura-hillenbrand` | `tom-vranas-laura-hillenbrand` | preserved |
+| `tom-vranas-mark-manson` | `tom-vranas-mark-manson` | preserved |
+| `tom-vranas-eckhart-tolle` | `tom-vranas-eckhart-tolle` | preserved |
+| `thomas-vranas-steven-d-levitt` | `thomas-vranas-steven-d-levitt` | preserved |
+| `thomas-vranas-steven-kotler` | `thomas-vranas-steven-kotler` | preserved |
+| `from-consumerism-to-consciousness-redefining-success-in-the-21st-century` | `from-consumerism-to-consciousness-redefining-success-in-the-21st-century` | preserved |
+| `the-end-of-privacy-what-our-digital-footprints-say-about-us-and-our-future` | `the-end-of-privacy-what-our-digital-footprints-say-about-us-and-our-future` | preserved |
+| `digital-empathy-navigating-the-challenges-of-human-connection-in-a-tech-driven-world` | `digital-empathy-navigating-the-challenges-of-human-connection-in-a-tech-driven-world` | preserved |
+| `the-new-ecology-of-business-how-sustainability-and-profit-can-coexist` | `the-new-ecology-of-business-how-sustainability-and-profit-can-coexist` | preserved |
+| `the-myth-of-meritocracy-how-inequality-is-systemically-built-into-our-success-stories` | `the-myth-of-meritocracy-how-inequality-is-systemically-built-into-our-success-stories` | preserved |
+| `capitalism-in-crisis-can-business-be-a-catalyst-for-social-change` | `capitalism-in-crisis-can-business-be-a-catalyst-for-social-change` | preserved |
+| `the-future-of-work-embracing-ai-and-automation-without-losing-humanity` | `the-future-of-work-embracing-ai-and-automation-without-losing-humanity` | preserved |
+| `the-paradox-of-progress-how-technology-is-both-saving-and-destroying-humanity` | `the-paradox-of-progress-how-technology-is-both-saving-and-destroying-humanity` | preserved |
+| `innovative-business-models-how-disruption-is-creating-new-opportunities` | `innovative-business-models-how-disruption-is-creating-new-opportunities` | preserved |
+| `the-hidden-costs-of-burnout-why-taking-care-of-your-well-being-is-good-for-business` | `the-hidden-costs-of-burnout-why-taking-care-of-your-well-being-is-good-for-business` | preserved |
+| `the-evolving-role-of-leadership-from-command-and-control-to-empowerment-and-collaboration` | `the-evolving-role-of-leadership-from-command-and-control-to-empowerment-and-collaboration` | preserved |
+| `sustainable-business-practices-how-to-build-a-profitable-and-environmentally-conscious-company` | `sustainable-business-practices-how-to-build-a-profitable-and-environmentally-conscious-company` | preserved |
+| `overcoming-impostor-syndrome-building-confidence-as-a-leader-and-entrepreneur` | `overcoming-impostor-syndrome-building-confidence-as-a-leader-and-entrepreneur` | preserved |
+| `from-vision-to-reality-the-importance-of-strategic-planning-in-achieving-long-term-goals` | `from-vision-to-reality-the-importance-of-strategic-planning-in-achieving-long-term-goals` | preserved |
+| `the-social-responsibility-of-entrepreneurs-using-business-as-a-force-for-good` | `the-social-responsibility-of-entrepreneurs-using-business-as-a-force-for-good` | preserved |
+| `mindfulness-in-business-how-meditation-and-mindfulness-practices-can-enhance-leadership` | `mindfulness-in-business-how-meditation-and-mindfulness-practices-can-enhance-leadership` | preserved |
+| `the-power-of-failure-how-embracing-mistakes-can-lead-to-greater-success` | `the-power-of-failure-how-embracing-mistakes-can-lead-to-greater-success` | preserved |
+| `building-a-culture-of-innovation-how-to-foster-creativity-and-growth-in-your-team` | `building-a-culture-of-innovation-how-to-foster-creativity-and-growth-in-your-team` | preserved |
+| `the-intersection-of-technology-and-humanity-how-to-stay-human-in-an-increasingly-digital-world` | `the-intersection-of-technology-and-humanity-how-to-stay-human-in-an-increasingly-digital-world` | preserved |
+| `reimagining-education-preparing-the-next-generation-for-a-rapidly-changing-world` | `reimagining-education-preparing-the-next-generation-for-a-rapidly-changing-world` | preserved |
+| `the-entrepreneurial-rollercoaster-navigating-the-highs-and-lows-of-building-a-business` | `the-entrepreneurial-rollercoaster-navigating-the-highs-and-lows-of-building-a-business` | preserved |
+| `the-future-of-work-how-automation-and-ai-will-redefine-our-jobs` | `the-future-of-work-how-automation-and-ai-will-redefine-our-jobs` | preserved |
+| `the-intersection-of-technology-and-work-future-trends-to-watch` | `the-intersection-of-technology-and-work-future-trends-to-watch` | preserved |
+| `from-setbacks-to-success-overcoming-challenges-in-business-and-life` | `from-setbacks-to-success-overcoming-challenges-in-business-and-life` | preserved |
+| `embracing-eos-how-the-entrepreneurial-operating-system-transformed-my-business` | `embracing-eos-how-the-entrepreneurial-operating-system-transformed-my-business` | preserved |
+| `top-4-lessons-from-my-entrepreneurial-journey` | `top-4-lessons-from-my-entrepreneurial-journey` | preserved |
+| `the-art-of-balancing-business-and-personal-growth` | `the-art-of-balancing-business-and-personal-growth` | preserved |
+| `thomas-vranas-simon-sinek` | `thomas-vranas-simon-sinek` | preserved |
+| `thomas-vranas-ray-dalio` | `thomas-vranas-ray-dalio` | preserved |
+| `thomas-vranas-carol-s-dweck` | `thomas-vranas-carol-s-dweck` | preserved |
+| `thomas-vranas-angela-duckworth` | `thomas-vranas-angela-duckworth` | preserved |
+| `thomas-vranas-steven-pinker` | `thomas-vranas-steven-pinker` | preserved |
+| `thomas-vranas-daniel-h-pink` | `thomas-vranas-daniel-h-pink` | preserved |
+| `thomas-vranas-bill-burnett` | `thomas-vranas-bill-burnett` | preserved |
+| `thomas-vranas-tony-hsieh` | `thomas-vranas-tony-hsieh` | preserved |
+| `thomas-vranas-cal-newport` | `thomas-vranas-cal-newport` | preserved |
+| `thomas-vranasdalai-lama-xiv` | `thomas-vranasdalai-lama-xiv` | preserved |
+| `thomas-vranas-john-carreyrou` | `thomas-vranas-john-carreyrou` | preserved |
+| `thomas-vranas-brett-blumenthal` | `thomas-vranas-brett-blumenthal` | preserved |
+| `tom-vranas-michael-bush-great-place` | `tom-vranas-michael-bush-great-place` | preserved |
+| `tom-vranas-where-have-all-the-generalists-gone` | `tom-vranas-where-have-all-the-generalists-gone` | preserved |
+| `tom-vranas-work-from-home` | `tom-vranas-work-from-home` | preserved |
+| `thomasvranas-branson-virginity` | `thomasvranas-branson-virginity` | preserved |
+| `thomas-vranas-bullshit-jobs` | `thomas-vranas-bullshit-jobs` | preserved |
+| `tom-vranas-ok-to-be-less-than-the-best` | `tom-vranas-ok-to-be-less-than-the-best` | preserved |
+| `tom-vranas-management-is-doing-things-right-leadership-is-doing-the-right-things` | `tom-vranas-management-is-doing-things-right-leadership-is-doing-the-right-things` | preserved |
+| `tom-vranas-a-good-leader-takes-a-little-more-than-his-share-of-the-blame-a-little-less-than-his-share-of-the-credit` | `tom-vranas-a-good-leader-takes-a-little-more-than-his-share-of-the-blame-a-little-less-than-his-share-of-the-credit` | preserved |
+| `tom-vranas-to-be-able-to-lead-others-a-man-must-be-willing-to-go-forward-alone` | `tom-vranas-to-be-able-to-lead-others-a-man-must-be-willing-to-go-forward-alone` | preserved |
+| `tom-vranas-great-leaders-are-not-defined-by-the-absence-of-weakness-but-rather-by-the-the-presence-of-clear-strengths` | `tom-vranas-great-leaders-are-not-defined-by-the-absence-of-weakness-but-rather-by-the-the-presence-of-clear-strengths` | preserved |
+| `tom-vranas-a-leader-is-one-that-knows-the-way-goes-the-way-and-shows-the-way` | `tom-vranas-a-leader-is-one-that-knows-the-way-goes-the-way-and-shows-the-way` | preserved |
+| `tom-vranas-dont-tell-people-how-to-do-things-tell-them-what-to-do-and-let-them-surprise-you-with-their-results` | `tom-vranas-dont-tell-people-how-to-do-things-tell-them-what-to-do-and-let-them-surprise-you-with-their-results` | preserved |
+| `every-time-you-have-to-speak-you-are-auditioning-for-leadership` | `every-time-you-have-to-speak-you-are-auditioning-for-leadership` | preserved |
+| `tom-vranas-if-your-actions-inspire-others-to-dream-more-learn-more-do-more-and-become-moreyou-are-a-leader` | `tom-vranas-if-your-actions-inspire-others-to-dream-more-learn-more-do-more-and-become-moreyou-are-a-leader` | preserved |
+| `tom-vranas-keep-your-fears-to-yourself-but-share-your-courage-with-others` | `tom-vranas-keep-your-fears-to-yourself-but-share-your-courage-with-others` | preserved |
+| `tom-vranas-leadership-is-not-about-titles-positions-or-flowcharts-it-is-about-one-life-influencing-another` | `tom-vranas-leadership-is-not-about-titles-positions-or-flowcharts-it-is-about-one-life-influencing-another` | preserved |
+| `tom-vranas-a-leader-takes-people-where-they-would-never-go-on-their-own` | `tom-vranas-a-leader-takes-people-where-they-would-never-go-on-their-own` | preserved |
+| `tom-vranas-a-good-leader-leads-people-fro-above-them-a-great-leader-leads-the-people-from-within-them` | `tom-vranas-a-good-leader-leads-people-fro-above-them-a-great-leader-leads-the-people-from-within-them` | preserved |
+| `tom-vranas-the-key-to-successful-leadership-is-influence-not-authority` | `tom-vranas-the-key-to-successful-leadership-is-influence-not-authority` | preserved |
+| `tom-vranas-endurance-executive-book-review` | `tom-vranas-endurance-executive-book-review` | preserved |
+| `tom-vranas-the-task-of-the-leader-is-to-get-his-people-from-where-they-are-to-where-they-have-not-been` | `tom-vranas-the-task-of-the-leader-is-to-get-his-people-from-where-they-are-to-where-they-have-not-been` | preserved |
+| `tom-vranas-leadership-is-the-capacity-to-translate-vision-into-reality` | `tom-vranas-leadership-is-the-capacity-to-translate-vision-into-reality` | preserved |
+| `tom-vranas-reading-as-a-habit` | `tom-vranas-reading-as-a-habit` | preserved |
+| `tom-vranas-creative-confidence` | `tom-vranas-creative-confidence` | preserved |
+| `tom-wvranas-do-no-follow-where-the-path-may-lead-go-instead-where-there-is-no-path-and-leave-a-trail` | `tom-wvranas-do-no-follow-where-the-path-may-lead-go-instead-where-there-is-no-path-and-leave-a-trail` | preserved |
+| `tom-vranas-people-buy-into-the-leader-before-they-buy-into-the-vision` | `tom-vranas-people-buy-into-the-leader-before-they-buy-into-the-vision` | preserved |
+| `serve-your-customer-save-your-company` | `serve-your-customer-save-your-company` | preserved |
+| `tom-vranas-leaders-think-and-talk-about-the-solutions-followers-think-and-talk-about-the-problems` | `tom-vranas-leaders-think-and-talk-about-the-solutions-followers-think-and-talk-about-the-problems` | preserved |
+| `tom-vranas-he-who-cannot-be-a-good-follower-cannot-be-a-good-leader` | `tom-vranas-he-who-cannot-be-a-good-follower-cannot-be-a-good-leader` | preserved |
+| `tom-vranas-every-great-leader-can-take-you-back-to-a-defining-moment-when-they-decided-to-lead` | `tom-vranas-every-great-leader-can-take-you-back-to-a-defining-moment-when-they-decided-to-lead` | preserved |
+| `tom-vranas-power-of-habit` | `tom-vranas-power-of-habit` | preserved |
+| `tom-vranas-dont-be-afraid-to-give-up-the-good-to-go-for-the-great` | `tom-vranas-dont-be-afraid-to-give-up-the-good-to-go-for-the-great` | preserved |
+| `tom-vranas-no-to-normal` | `tom-vranas-no-to-normal` | preserved |
+| `tom-vranas-you-do-not-lead-by-hitting-people-over-the-head-thats-assault-not-leadership` | `tom-vranas-you-do-not-lead-by-hitting-people-over-the-head-thats-assault-not-leadership` | preserved |
+| `tom-vranas-speak-softly-and-carry-a-big-stick-you-will-go-far` | `tom-vranas-speak-softly-and-carry-a-big-stick-you-will-go-far` | preserved |
+| `tom-vranas-power` | `tom-vranas-power` | preserved |
+| `tom-vranas-leadership-is-the-art-of-giving-people-a-playoff-for-spreading-ideas-that-work` | `tom-vranas-leadership-is-the-art-of-giving-people-a-playoff-for-spreading-ideas-that-work` | preserved |
+| `tom-vranas-reason-and-judgement-are-the-qualities-of-a-leader` | `tom-vranas-reason-and-judgement-are-the-qualities-of-a-leader` | preserved |
+| `tom-vranas-help` | `tom-vranas-help` | preserved |
+| `tom-vranas-to-do-great-things-is-difficult-but-to-command-great-things-is-more-difficult` | `tom-vranas-to-do-great-things-is-difficult-but-to-command-great-things-is-more-difficult` | preserved |
+| `tom-vranas-leadership-is-difficult-but-it-is-not-complex` | `tom-vranas-leadership-is-difficult-but-it-is-not-complex` | preserved |
+| `tom-vranas-real-leadership-is-being-the-person-others-will-gladly-and-confidently-follow` | `tom-vranas-real-leadership-is-being-the-person-others-will-gladly-and-confidently-follow` | preserved |
+| `tom-vranas-leaders-dont-inflict-pain-they-share-it` | `tom-vranas-leaders-dont-inflict-pain-they-share-it` | preserved |
+| `tom-vranas-pick-up-the-damn-phone` | `tom-vranas-pick-up-the-damn-phone` | preserved |
+| `tom-vranas-the-quality-of-a-leaders-is-reflected-in-the-standards-they-set-for-themselves` | `tom-vranas-the-quality-of-a-leaders-is-reflected-in-the-standards-they-set-for-themselves` | preserved |
+| `tom-vranas-leadership-is-an-action-not-a-position` | `tom-vranas-leadership-is-an-action-not-a-position` | preserved |
+| `tom-vranas-design` | `tom-vranas-design` | preserved |
+| `tom-vranas-rebel-talent` | `tom-vranas-rebel-talent` | preserved |
+| `tom-vranas-our-chief-want-is-someone-who-will-inspire-us-to-be-what-we-know-we-could-be` | `tom-vranas-our-chief-want-is-someone-who-will-inspire-us-to-be-what-we-know-we-could-be` | preserved |
+| `tom-vranas-leadership-is-an-ever-evolving-position` | `tom-vranas-leadership-is-an-ever-evolving-position` | preserved |
+| `tom-vranas-know-thyself` | `tom-vranas-know-thyself` | preserved |
+| `tom-vranas-how-to-think` | `tom-vranas-how-to-think` | preserved |
+| `tom-vranas-a-genuine-leader-is-not-a-searcher-for-consensus-but-a-molder-of-consensus` | `tom-vranas-a-genuine-leader-is-not-a-searcher-for-consensus-but-a-molder-of-consensus` | preserved |
+| `tom-vranas-uber-of-crappy-ideas` | `tom-vranas-uber-of-crappy-ideas` | preserved |
+| `tom-vranas-there-are-no-office-hours-for-leaders` | `tom-vranas-there-are-no-office-hours-for-leaders` | preserved |
+| `tom-vranas-slight-edge` | `tom-vranas-slight-edge` | preserved |
+| `tom-vranas-example-is-not-the-main-thing-in-influencing-others-it-is-the-only-thing` | `tom-vranas-example-is-not-the-main-thing-in-influencing-others-it-is-the-only-thing` | preserved |
+| `tom-vranas-leadership-january24` | `tom-vranas-leadership-january24` | preserved |
+| `tom-vranas-organizational-structures` | `tom-vranas-organizational-structures` | preserved |
+| `tom-vranasthe-growth-and-development-of-people-is-the-highest-call-of-leadership` | `tom-vranasthe-growth-and-development-of-people-is-the-highest-call-of-leadership` | preserved |
+| `tomvranas-leadership2` | `tomvranas-leadership2` | preserved |
+| `tom-vranas-lowandslow` | `tom-vranas-lowandslow` | preserved |
+| `tom-vranas-happier-harris` | `tom-vranas-happier-harris` | preserved |
+| `tom-vranas-leadership-on-the-other-hand-is-about-creating-the-change-you-believe-in` | `tom-vranas-leadership-on-the-other-hand-is-about-creating-the-change-you-believe-in` | preserved |
+| `tomvranas-leader-1` | `tomvranas-leader-1` | preserved |
+| `thomas-vranas-the-war-of-art` | `thomas-vranas-the-war-of-art` | preserved |
+| `thomas-vranas-the-last-lecture` | `thomas-vranas-the-last-lecture` | preserved |
+| `thomas-vranas-the-happiness-project` | `thomas-vranas-the-happiness-project` | preserved |
+| `thomas-vranas-warrior-pose` | `thomas-vranas-warrior-pose` | preserved |
+| `thomas-vranas-simple-rules` | `thomas-vranas-simple-rules` | preserved |
+| `thomas-vranas-seal-team-six` | `thomas-vranas-seal-team-six` | preserved |
+| `thomas-vranas-good-boss-bad-boss` | `thomas-vranas-good-boss-bad-boss` | preserved |
+| `thomas-vranas-rising-strong` | `thomas-vranas-rising-strong` | preserved |
+| `thomas-vranas-pitch-anything` | `thomas-vranas-pitch-anything` | preserved |
+| `thomas-vranas-american-sketches` | `thomas-vranas-american-sketches` | preserved |
+| `tom-vranas-writing-tools` | `tom-vranas-writing-tools` | preserved |
+| `thomas-vranas-predictably-irrational` | `thomas-vranas-predictably-irrational` | preserved |
+| `thomas-vranas-paddle-your-own-canoe` | `thomas-vranas-paddle-your-own-canoe` | preserved |
+| `tom-vranas-home-beverages` | `tom-vranas-home-beverages` | preserved |
+| `thomas-vranas-idea-man` | `thomas-vranas-idea-man` | preserved |
+| `thomas-vranas-bootstrapper` | `thomas-vranas-bootstrapper` | preserved |
+| `tom-vranas-squarespace` | `tom-vranas-squarespace` | preserved |
+| `thomas-vranas-authentic-self` | `thomas-vranas-authentic-self` | preserved |
+| `a-matter-of-principle-thomas-vranas` | `a-matter-of-principle-thomas-vranas` | preserved |
+| `thomas-vranas-do-the-kind-thing` | `thomas-vranas-do-the-kind-thing` | preserved |
+| `tom-vranas-bidet` | `tom-vranas-bidet` | preserved |
+| `thomas-vranas-shop-class-as-soulcraft` | `thomas-vranas-shop-class-as-soulcraft` | preserved |
+| `random-acts-of-flowers-thomas-vranas` | `random-acts-of-flowers-thomas-vranas` | preserved |
+| `thomas-vranas-natural-born-heroes` | `thomas-vranas-natural-born-heroes` | preserved |
+| `thomas-vranas-choose-yourself` | `thomas-vranas-choose-yourself` | preserved |
+| `salvation-army-thomas-vranas` | `salvation-army-thomas-vranas` | preserved |
+| `thomas-vranas-simplify` | `thomas-vranas-simplify` | preserved |
+| `tom-vranas-aaa` | `tom-vranas-aaa` | preserved |
+| `thomas-vranas-screw-business-as-usual` | `thomas-vranas-screw-business-as-usual` | preserved |
+| `city-year-thomas-vranas` | `city-year-thomas-vranas` | preserved |
+| `thomas-vranas-elon-musk` | `thomas-vranas-elon-musk` | preserved |
+| `thomas-vranas-economist` | `thomas-vranas-economist` | preserved |
+| `thomas-vranas-conscious-capitalism` | `thomas-vranas-conscious-capitalism` | preserved |
+| `hoby-thomas-vranas` | `hoby-thomas-vranas` | preserved |
+| `thomas-vranas-console-wars` | `thomas-vranas-console-wars` | preserved |
+| `thomas-vranas-fitbit` | `thomas-vranas-fitbit` | preserved |
+| `thomas-vranas-know-your-team` | `thomas-vranas-know-your-team` | preserved |
+| `thomas-vranas-crucial-conversations` | `thomas-vranas-crucial-conversations` | preserved |
+| `harvest-food-pantry-thomas-vranas` | `harvest-food-pantry-thomas-vranas` | preserved |
+| `thomas-vranas-the-everything-store` | `thomas-vranas-the-everything-store` | preserved |
+| `thomas-vranas-trader-joes` | `thomas-vranas-trader-joes` | preserved |
+| `thomas-vranas-the-art-of-racing-in-the-rain` | `thomas-vranas-the-art-of-racing-in-the-rain` | preserved |
+| `sierra-club-thomas-vranas` | `sierra-club-thomas-vranas` | preserved |
+| `thomas-vranas-superfreakonomics` | `thomas-vranas-superfreakonomics` | preserved |
+| `thomas-vranas-sonos` | `thomas-vranas-sonos` | preserved |
+| `thomas-vranas-the-art-of-immersion` | `thomas-vranas-the-art-of-immersion` | preserved |
+| `northwestern-thomas-vranas` | `northwestern-thomas-vranas` | preserved |
+| `thomas-vranas-steve-jobs-bio` | `thomas-vranas-steve-jobs-bio` | preserved |
+| `fave-excel-kiwi-kk8r5-1jtaQ` | `fave-excel-kiwi-kk8r5-1jtaq` | **changed** |
+| `thomas-vranas-excel-gmail` | `thomas-vranas-excel-gmail` | preserved |
+| `leadership-in-the-the-area` | `leadership-in-the-the-area` | preserved |
+| `thomas-vranas-unusually-excellent` | `thomas-vranas-unusually-excellent` | preserved |
+| `open-heart-magic-thomas-vranas` | `open-heart-magic-thomas-vranas` | preserved |
+| `thomas-vranas-the-emperors-of-chocolate` | `thomas-vranas-the-emperors-of-chocolate` | preserved |
+| `thomas-vranas-white-noise` | `thomas-vranas-white-noise` | preserved |
+| `thomas-vranas-uncontainable` | `thomas-vranas-uncontainable` | preserved |
+| `habitat-for-humanity-thomas-vranas` | `habitat-for-humanity-thomas-vranas` | preserved |
+| `thomas-vranas-the-7-habits-of-highly-effective-people` | `thomas-vranas-the-7-habits-of-highly-effective-people` | preserved |
+| `thomas-vranas-library-kindle` | `thomas-vranas-library-kindle` | preserved |
+| `thomas-vranas-small-giants` | `thomas-vranas-small-giants` | preserved |
+| `ms-thomas-vranas` | `ms-thomas-vranas` | preserved |
+| `thomas-vranas-the-five-dysfunctions-of-a-team` | `thomas-vranas-the-five-dysfunctions-of-a-team` | preserved |
+| `thomas-vranas-asics-shoes` | `thomas-vranas-asics-shoes` | preserved |
+| `thomas-vranas-patience-young-woodworker` | `thomas-vranas-patience-young-woodworker` | preserved |
+| `thomas-vranas-stumbling-on-happiness` | `thomas-vranas-stumbling-on-happiness` | preserved |
+| `goodman-steppenwolf-thomas-vranas` | `goodman-steppenwolf-thomas-vranas` | preserved |
+| `thomas-vranas-start-with-why` | `thomas-vranas-start-with-why` | preserved |
+| `thomas-vranas-2-dollars` | `thomas-vranas-2-dollars` | preserved |
+| `thomas-vranas-shoe-dog` | `thomas-vranas-shoe-dog` | preserved |
+| `vranas-greater-chicago-food-depository` | `vranas-greater-chicago-food-depository` | preserved |
+| `thomas-vranas-presence` | `thomas-vranas-presence` | preserved |
+| `thomas-vranas-brain-training` | `thomas-vranas-brain-training` | preserved |
+| `thomas-vranas-enjoy-every-sandwich` | `thomas-vranas-enjoy-every-sandwich` | preserved |
+| `vranas-volunteer-allchicago` | `vranas-volunteer-allchicago` | preserved |
+| `thomas-project-management-vranas` | `thomas-project-management-vranas` | preserved |
+| `thomas-vranas-peak` | `thomas-vranas-peak` | preserved |
+| `thomas-vranas-chicago-suburban-dining` | `thomas-vranas-chicago-suburban-dining` | preserved |
+| `thomas-vranas-getting-there` | `thomas-vranas-getting-there` | preserved |
+| `team-in-training-thomas-vranas` | `team-in-training-thomas-vranas` | preserved |
+| `delivering-happines` | `delivering-happines` | preserved |
+| `thomas-vranas-wins-losses-and-lessons` | `thomas-vranas-wins-losses-and-lessons` | preserved |
+| `thomas-vranas-outsource` | `thomas-vranas-outsource` | preserved |
+| `thomas-vranas-welcome-to-your-crisis` | `thomas-vranas-welcome-to-your-crisis` | preserved |
+| `paws-chicago-thomas-vranas` | `paws-chicago-thomas-vranas` | preserved |
+| `thomas-vranas-wooden-bio` | `thomas-vranas-wooden-bio` | preserved |
+| `thomas-vranas-favorite-things-yoga` | `thomas-vranas-favorite-things-yoga` | preserved |
+| `thomas-vranas-zag` | `thomas-vranas-zag` | preserved |
+| `theres-only-one-way-to-start-that-is-to-start` | `theres-only-one-way-to-start-that-is-to-start` | preserved |
+| `thomas-vranas-the-48-laws-of-power` | `thomas-vranas-the-48-laws-of-power` | preserved |
+| `the-ark-of-st-sabina-thomas-vranas` | `the-ark-of-st-sabina-thomas-vranas` | preserved |
+| `memorial-day-vranas` | `memorial-day-vranas` | preserved |
+| `thomas-vranas-leadership-jobs-051217` | `thomas-vranas-leadership-jobs-051217` | preserved |
+| `thomas-vranas-operations-leadership-tool` | `thomas-vranas-operations-leadership-tool` | preserved |

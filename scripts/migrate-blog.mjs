@@ -19,7 +19,7 @@ import { existsSync } from 'node:fs';
 import path from 'node:path';
 import TurndownService from 'turndown';
 
-const SOURCE = 'https://tomvranas.com/blog';
+const SOURCE = 'https://tomvranas.com/blog-vranas';
 const CONTENT_DIR = 'src/content/writing';
 const IMAGE_DIR = 'public/images/blog'; // served at /images/blog/...
 const REPORT = 'MIGRATION_REPORT.md';
@@ -88,6 +88,17 @@ function stripHtml(html) {
     .trim();
 }
 
+// Squarespace leaks per-block CSS rules (e.g.
+// `#block-3ac8… { --sqs-block-content-flex: 0; }`) into the body HTML; they
+// survive HTML→markdown conversion as literal visible text. Strip those lines
+// and collapse the blank lines they leave behind.
+function cleanMarkdown(md) {
+  return md
+    .replace(/^#block-[0-9a-f]+\s*\{[^}]*\}\s*$/gim, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 const turndown = new TurndownService({
   headingStyle: 'atx',
   codeBlockStyle: 'fenced',
@@ -123,7 +134,7 @@ async function migratePost(item) {
     }
   }
 
-  const markdown = turndown.turndown(html);
+  const markdown = cleanMarkdown(turndown.turndown(html));
   const date = new Date(item.publishOn ?? item.addedOn).toISOString().slice(0, 10);
   const excerpt = stripHtml(item.excerpt);
 
@@ -146,7 +157,7 @@ async function migratePost(item) {
 async function appendChangedSlugRedirects() {
   const changed = slugMap.filter((s) => s.changed);
   if (changed.length === 0 || !existsSync(REDIRECTS)) return;
-  const lines = changed.map((s) => `/blog/${s.old}    /writing/${s.new}    301`);
+  const lines = changed.map((s) => `/blog-vranas/${s.old}    /writing/${s.new}    301`);
   const current = await readFile(REDIRECTS, 'utf8');
   const block = `\n# Per-post redirects for slugs changed during migration\n${lines.join('\n')}\n`;
   if (!current.includes(block)) await writeFile(REDIRECTS, current + block);
@@ -175,7 +186,7 @@ ${failureList}
 
 ## Slug map (old Squarespace slug → new slug)
 
-The wildcard rule \`/blog/* → /writing/:splat\` in \`public/_redirects\` covers
+The wildcard rule \`/blog-vranas/* → /writing/:splat\` in \`public/_redirects\` covers
 all preserved slugs. Changed slugs get explicit per-post 301s appended to
 \`_redirects\` automatically by this script.
 

@@ -6,5 +6,10 @@
 /coachingpress     /advisory           301
 /blog              /writing            301
 /blog/*            /writing/:splat     301
+/blog-vranas       /writing            301
+/blog-vranas/*     /writing/:splat     301
 /toms-world/*      /contact            301
 /contact           /contact            200
+
+# Per-post redirects for slugs changed during migration
+/blog-vranas/fave-excel-kiwi-kk8r5-1jtaQ    /writing/fave-excel-kiwi-kk8r5-1jtaq    301
