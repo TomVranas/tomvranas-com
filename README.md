@@ -2,7 +2,7 @@
 
 Deal-book style site for Tom Vranas — operating executive. Built with
 [Astro](https://astro.build), edited (blog only) via
-[Decap CMS](https://decapcms.org), hosted on Cloudflare Pages.
+[Decap CMS](https://decapcms.org), hosted on Netlify.
 
 > Design rule of thumb: this site is a confidential information memorandum,
 > not a marketing site. When in doubt, remove decoration.
@@ -14,8 +14,8 @@ Deal-book style site for Tom Vranas — operating executive. Built with
 - **Fonts** self-hosted via Fontsource: Archivo (display), Source Serif 4
   (body), IBM Plex Mono (data/tombstones). No Google Fonts runtime requests.
 - **Decap CMS** at `/admin`, git-gateway backend, blog collection only
-- **Cloudflare Pages** hosting, `public/_redirects` preserves old
-  Squarespace URLs
+- **Netlify** hosting (build config in `netlify.toml`), `public/_redirects`
+  preserves old Squarespace URLs
 
 ## Local development
 
@@ -48,35 +48,28 @@ npm run generate-og  # regenerate og-default.png + favicons from tokens
 
 ### 1. GitHub
 
-The repo is `tomvranas/signature`. Production deploys come from `main`;
-work on branches and merge.
+The repo is `tomvranas/tomvranas-com`. Production deploys come from `main`:
+every push to `main` triggers a Netlify build and goes live.
 
-### 2. Cloudflare Pages
+### 2. Netlify (hosting)
 
-1. Cloudflare dashboard → **Workers & Pages → Create → Pages → Connect to
-   Git** → pick this repo.
-2. Build settings: framework preset **Astro**, build command `npm run build`,
-   output directory `dist`.
-3. Deploy. You get a `*.pages.dev` preview URL — verify everything there
-   before touching DNS.
+1. [app.netlify.com](https://app.netlify.com) → sign up with GitHub →
+   **Add new site → Import an existing project** → pick this repo.
+2. Build settings are read from `netlify.toml` — leave them as-is and
+   **Deploy**.
+3. You get a `*.netlify.app` URL — verify everything there before touching
+   DNS.
 
 ### 3. Decap CMS auth (git-gateway)
 
-Decap's git-gateway backend needs an identity/gateway service. The simplest
-path that matches `public/admin/config.yml`:
+The blog editor at `/admin` uses Decap's git-gateway backend, which the
+same Netlify account provides — no second service needed:
 
-1. Create a (free) Netlify site pointed at this repo — it's only used for
-   Identity + Git Gateway, not hosting.
-2. Netlify dashboard → **Identity** → enable; set registration to
+1. Netlify dashboard → **Identity** → enable; set registration to
    **Invite only**; invite `tom@tomvranas.com`.
-3. **Identity → Services → Git Gateway** → enable.
-4. Add the Netlify Identity widget snippet to `public/admin/index.html` if
-   prompted by Decap docs for your setup.
-
-Alternative (no Netlify): switch `backend` in `public/admin/config.yml` to
-the `github` backend with an OAuth app proxied by a Cloudflare Worker —
-see Decap's "External OAuth clients" docs. Either way, `/admin` should load
-and show the **Blog** collection; that's the test.
+2. **Identity → Services → Git Gateway** → enable.
+3. Visit `/admin` on the deployed site, accept the email invite, log in —
+   it should load and show the **Blog** collection. That's the test.
 
 ### 4. Fill in config values (`src/config.ts`)
 
