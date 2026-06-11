@@ -1,9 +1,15 @@
 ---
-title: "BLOW UP Your Crappy Shiny Balls! The Role of Tools in Modern Workplaces."
+title: BLOW UP Your Crappy Shiny Balls! The Role of Tools in Modern Workplaces.
 date: 2017-05-21
 slug: thomas-vranas-operations-leadership-tool
-heroImage: "/images/blog/thomas-vranas-operations-leadership-tool/IMG_1829.JPG"
-excerpt: "We’ve become driven by how we are doing to do something, instead of the substance of that task or project. Putting on my woodworking apron, let's say someone wanted you to build them a simple birdhouse. The modern leader would look to buy a workshop full of the highest quality, expensive tools and exotic wood. (Or maybe lease space in a co-working wood shop). In reality you only needed a hand saw, glue and scrap wood."
+heroImage: /images/blog/thomas-vranas-operations-leadership-tool/IMG_1829.JPG
+excerpt: We’ve become driven by how we are doing to do something, instead of the
+  substance of that task or project. Putting on my woodworking apron, let's say
+  someone wanted you to build them a simple birdhouse. The modern leader would
+  look to buy a workshop full of the highest quality, expensive tools and exotic
+  wood. (Or maybe lease space in a co-working wood shop). In reality you only
+  needed a hand saw, glue and scrap wood.
+featured: true
 ---
 We are in a unique time for businesses and organizations.
 
