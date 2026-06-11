@@ -4,6 +4,7 @@ date: 2019-02-06
 slug: tom-vranas-know-thyself
 heroImage: "/images/blog/tom-vranas-know-thyself/pexels-photo-735307.jpeg"
 excerpt: "Not everyone can be a CEO or entrepreneur - and that is OK.&nbsp;"
+featured: true
 ---
 I have had an incredible journey over my career. I've been able to have a front row seat at what has become an incredible sea change in the way businesses run.
 

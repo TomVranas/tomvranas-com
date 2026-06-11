@@ -4,6 +4,7 @@ date: 2017-05-29
 slug: memorial-day-vranas
 heroImage: "/images/blog/memorial-day-vranas/IMG_1534.JPG"
 excerpt: "We honor those who died, so that we may be free."
+featured: true
 ---
 The following poem was written by Irish poet, W. B. Yeats. I randomly selected this poem as the topic of a lengthy English study and it has always given me a reason to pause and contemplate the dedication of our nation's military personnel. 
 

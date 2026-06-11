@@ -4,6 +4,7 @@ date: 2019-03-06
 slug: tom-vranas-help
 heroImage: "/images/blog/tom-vranas-help/pexels-photo-167964.jpeg"
 excerpt: "How do you provide a helping hand while allowing others to retain their dignity? How do you go about asking for help? My thoughts on a tricky topic."
+featured: true
 ---
 For seasoned executives, our lives have been a series of successful engagements, opportunities and adventures. For all the things I've learned, hardships overcome and successes obtained, there was a skill that was missing from my toolbox in a major way. In speaking with other leaders this is a topic that is somewhat uncomfortable, and thus wanted to bring it front and center.
 

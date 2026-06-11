@@ -4,6 +4,7 @@ date: 2020-02-27
 slug: tom-vranas-ok-to-be-less-than-the-best
 heroImage: "/images/blog/tom-vranas-ok-to-be-less-than-the-best/photo-1581792519779-3ee29a364d17.jpeg"
 excerpt: "We all find ourselves striving to be number one in everything we do. Is there some peace in accepting that sometimes, and more than we wish to admit, it's OK to just be OK? I think so."
+featured: true
 ---
 ![tom vranas](/images/blog/tom-vranas-ok-to-be-less-than-the-best/image-0.jpg)
 

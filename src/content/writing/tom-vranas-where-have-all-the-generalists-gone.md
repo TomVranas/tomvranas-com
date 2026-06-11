@@ -4,6 +4,7 @@ date: 2021-06-10
 slug: tom-vranas-where-have-all-the-generalists-gone
 heroImage: "/images/blog/tom-vranas-where-have-all-the-generalists-gone/adams-general-store-216193_1280.jpg"
 excerpt: "There are so many new technologies that allow for people to be laser focused. But what happens when everyone focuses on the trees, and nobody is looking at the forest? In the wake of this trend, we are boxing out the role for people that can see across boundaries and synthesize big ideas and look out for macro trends. Long live the generalist!"
+featured: true
 ---
 ![tom-vranas-generalist](/images/blog/tom-vranas-where-have-all-the-generalists-gone/image-0.jpg)
 

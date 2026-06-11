@@ -4,6 +4,7 @@ date: 2017-09-26
 slug: leadership-in-the-the-area
 heroImage: "/images/blog/leadership-in-the-the-area/Without-a-doubt-Gladiator-is-one-of-Ridley-Scotts-best-and-one-of-....jpg"
 excerpt: "I soak up ideas, implement good ones and store a lot of information for useless trivia or when specific situations arise."
+featured: true
 ---
 I love reading. Consuming a book, blogs, magazines....it’s one of my favorite ways to pass the fleeting moments of free time. Humblebrag alert - I read on average of 2 books a week. Sometimes they are dense non-fiction accounts of businesses or new ideas in psychology. Sometimes I focus on self-development or biographies. And of course, give me a Jack Reacher or Brad Thor novel any day- I’m a sucker for political shoot-um-ups.
 

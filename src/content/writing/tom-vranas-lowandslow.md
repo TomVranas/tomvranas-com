@@ -4,6 +4,7 @@ date: 2019-01-16
 slug: tom-vranas-lowandslow
 heroImage: "/images/blog/tom-vranas-lowandslow/summer-garden-dinner-eating.jpg"
 excerpt: "When going for the long haul, the sloppiness and lack of attention to detail can't be wished away. We must be more intentional with our planning and work product. You are building something…to last. With gravitas. With purpose. With intentionality. Take your time and do it right."
+featured: true
 ---
 ![Still makes my stomach turn…](/images/blog/tom-vranas-lowandslow/image-0.jpg)
 

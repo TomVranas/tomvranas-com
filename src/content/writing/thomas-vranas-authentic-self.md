@@ -4,6 +4,7 @@ date: 2018-01-16
 slug: thomas-vranas-authentic-self
 heroImage: "/images/blog/thomas-vranas-authentic-self/AAEAAQAAAAAAAAi_AAAAJDNmMTAxMDVjLTM3YWEtNDFmMi05MzMzLWY3ZDUyODlkMTVmOQ.jpg"
 excerpt: "The funny thing about putting on inauthentic displays of who you want to be...is that at some point, you will have to face up to who you really are."
+featured: true
 ---
 A new haircut, a snazzy new outfit, using your big MBA words. There are somethings about yourself that you can change pretty quickly to adapt to new roles or situations. We’ve all done it on that first date to impress someone. The funny thing about putting on those displays is that at some point, you will have to face up to who you really are.
 

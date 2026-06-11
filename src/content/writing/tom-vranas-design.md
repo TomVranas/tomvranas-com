@@ -4,6 +4,7 @@ date: 2019-02-13
 slug: tom-vranas-design
 heroImage: "/images/blog/tom-vranas-design/pencil-education-pencil-sharpener-art-159731.jpeg"
 excerpt: "Sometimes when you build it....they won't come."
+featured: true
 ---
 In the past decade, there has been an incredible shift in consumer's education on products and our coolective voices in the development cycle of consumption. There are so many reasons to credit this shift that I am not sure which has been the forced factor.
 

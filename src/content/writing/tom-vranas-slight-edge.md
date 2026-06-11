@@ -4,6 +4,7 @@ date: 2019-01-29
 slug: tom-vranas-slight-edge
 heroImage: "/images/blog/tom-vranas-slight-edge/pexels-photo-915972.jpeg"
 excerpt: "Do the little things that seem entirely insignificant in the doing, yet when compounded over time yield amazing results. Simple daily disciplines. That's it."
+featured: true
 ---
 ![tom vranas](/images/blog/tom-vranas-slight-edge/image-0.jpg)
 

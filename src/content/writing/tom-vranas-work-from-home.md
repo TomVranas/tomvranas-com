@@ -4,6 +4,7 @@ date: 2020-12-02
 slug: tom-vranas-work-from-home
 heroImage: "/images/blog/tom-vranas-work-from-home/1.jpg"
 excerpt: "What happens when work becomes...work? With almost everyone working from home, is it possible company culture falls to the wayside and becomes replaced with robotic, transactional relationships?"
+featured: true
 ---
 What \*feels\* like years ago, creating a positive company culture and happy engaged employees was an aspiration of most companies. Most companies equated building culture to building “perks” at the office.
 

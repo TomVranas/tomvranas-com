@@ -6,15 +6,11 @@ import { SITE } from '../../config';
 // Only featured posts are listed here. The full Squarespace archive (200+
 // migrated posts) still builds at /writing/<slug> for SEO and old redirects,
 // but the index stays restrained — evidence, not a back catalogue.
+// Sorted newest-first (by date) but the date itself is never shown — the
+// writing should read as current, not timestamped.
 const posts = (await getCollection('writing'))
   .filter((post) => post.data.featured)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-
-const fmt = new Intl.DateTimeFormat('en-US', {
-  year: 'numeric',
-  month: 'short',
-  day: '2-digit',
-});
 ---
 
 <Base
@@ -37,9 +33,6 @@ const fmt = new Intl.DateTimeFormat('en-US', {
         {
           posts.map((post) => (
             <li>
-              <time class="post__date" datetime={post.data.date.toISOString().slice(0, 10)}>
-                {fmt.format(post.data.date)}
-              </time>
               <h2>
                 <a href={`/writing/${post.id}`}>{post.data.title}</a>
               </h2>

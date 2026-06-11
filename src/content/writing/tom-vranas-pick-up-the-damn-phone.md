@@ -4,6 +4,7 @@ date: 2019-02-20
 slug: tom-vranas-pick-up-the-damn-phone
 heroImage: "/images/blog/tom-vranas-pick-up-the-damn-phone/phone-old-year-built-1955-bakelite-163007.jpeg"
 excerpt: "The grand irony is that we have more opportunities to communicate, but we are failing worse than ever to actual understand each other."
+featured: true
 ---
 We often go through our days and forget what an incredible age we are living in. In our pockets and on our computers there are more ways to communicate than ever before. Video, text, virtual meetings, Slack channels, project management tools, email, photos... the opportunity to communicate through unique methods is almost overwhelming.
 

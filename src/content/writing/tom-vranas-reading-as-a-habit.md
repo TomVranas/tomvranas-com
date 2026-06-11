@@ -4,6 +4,7 @@ date: 2019-04-10
 slug: tom-vranas-reading-as-a-habit
 heroImage: "/images/blog/tom-vranas-reading-as-a-habit/pexels-photo-448835.jpeg"
 excerpt: "I've never met a successful executive who didn't have a voracious appetite for reading.&nbsp;Make reading a habit. For most of us, it's not a new habit, but coming back to a time where reading was a necessity. Start with a chapter a night.&nbsp;Start tonight. Just do it."
+featured: true
 ---
 For all of my rants that make me feel like a curmudgeonly luddite, I embrace and love the incredible time in which we live. There is more creation and consumption from a more diverse pool of talent than ever before.
 

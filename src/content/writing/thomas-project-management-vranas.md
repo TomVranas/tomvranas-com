@@ -4,6 +4,7 @@ date: 2017-07-11
 slug: thomas-project-management-vranas
 heroImage: "/images/blog/thomas-project-management-vranas/beatles-abbey-road.jpg"
 excerpt: "Break. It. Down.&nbsp;That’s it - the big secret of incredible project management success. Sounds easy, right?"
+featured: true
 ---
 Remember the last time you were sitting in a meeting and a new big idea emerged...and you saw everyone staring at you to take it on? It’s feeling like you got on a dark stage and there’s a spotlight on you. Here’s your shot for the big solo and you are ready to grab the mic and shine. This project is going to be great!
 

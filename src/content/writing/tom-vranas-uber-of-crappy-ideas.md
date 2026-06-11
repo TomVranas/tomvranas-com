@@ -4,6 +4,7 @@ date: 2019-01-30
 slug: tom-vranas-uber-of-crappy-ideas
 heroImage: "/images/blog/tom-vranas-uber-of-crappy-ideas/light-bulb-current-light-glow-40889.jpeg"
 excerpt: "Be honest with yourself if you are creating more crap and noise in the marketplace. Be truthful about what you are creating and if there is a true need. Be steadfast in the desire to make something that is of value or if you are merely recycling someone else's ideas.&nbsp;"
+featured: true
 ---
 After selling one of my companies, I ended up taking a consulting and mentoring role at a few start-up organizations in Chicago. One of them was housed at WeWork so I enjoyed getting to integrate into that community. At first, the free beer, fruit infused water (there's nothing better than watermelon water on a hot Chicago day) and the general buzz around the space was very exciting to be around. 
 

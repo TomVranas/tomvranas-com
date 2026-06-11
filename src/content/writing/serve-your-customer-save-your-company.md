@@ -4,6 +4,7 @@ date: 2019-04-03
 slug: serve-your-customer-save-your-company
 heroImage: "/images/blog/serve-your-customer-save-your-company/customer-experience-3024488_960_720.jpg"
 excerpt: "What I'm talking about is the innate, gut-level feeling that a customer gets when they think of dealing with your brand. For the longest time, this valuable touch point has been overlooked, but I'm happy to see more and more companies taking serious effort in making sure they provide world class experiences."
+featured: true
 ---
 When we look at making the best impression on our customers, we look for ways to jazz up our marketing and advertising, come up with new and unique product design efforts, or try to unlock the possibilities that are held in data or financial models. I'm here to tell you that there's a simple way to enhance your brand and drive sales. It's not fun or glamorous all the time.
 

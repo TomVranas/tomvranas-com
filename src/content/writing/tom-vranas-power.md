@@ -4,6 +4,7 @@ date: 2019-03-13
 slug: tom-vranas-power
 heroImage: "/images/blog/tom-vranas-power/photo-1519741347686-c1e0aadf4611.jpeg"
 excerpt: "I challenge you to let your guard down as you look at your teams and companies from a different perspective. To review how you utilize power and new ways that you can explore to better harness that incredible team you have brought together. The power that comes from increasing the collective good is bound to surprise you."
+featured: true
 ---
 I've always loved reading, ever since I could remember. Why I decided to pick up Les Misérables in 6th grade, the Brothers Karamazov for a high school book report...it's all beyond explanation. So naturally, I have found myself drawn to others who share a love of books.
 

@@ -4,6 +4,7 @@ date: 2017-06-06
 slug: theres-only-one-way-to-start-that-is-to-start
 heroImage: "/images/blog/theres-only-one-way-to-start-that-is-to-start/007.jpg"
 excerpt: "When faced with starting something new or mundane, the moments between acknowledging that it is time to start and when the proverbial rubber hits the road will guide the success (or failure) of the rest of the journey."
+featured: true
 ---
 What is it about human nature that make us so afraid?  I’m not talking about fear of things you can’t control (death, taxes, and the stock market), rather what is in your control.
 

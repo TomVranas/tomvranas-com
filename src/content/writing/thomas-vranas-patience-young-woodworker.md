@@ -4,6 +4,7 @@ date: 2017-08-15
 slug: thomas-vranas-patience-young-woodworker
 heroImage: "/images/blog/thomas-vranas-patience-young-woodworker/HNzGpuGQZ6NvNJyV9dZl_nick-offerman-head-shot.jpg"
 excerpt: "Measure Forty Times. Cut Once.&nbsp;Slow down, smell the cut lumber and enjoy the journey."
+featured: true
 ---
 Measure Forty Times. Cut Once.
 

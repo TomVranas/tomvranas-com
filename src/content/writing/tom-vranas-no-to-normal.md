@@ -4,6 +4,7 @@ date: 2019-03-19
 slug: tom-vranas-no-to-normal
 heroImage: "/images/blog/tom-vranas-no-to-normal/gasoline-pump-normal-1417953.jpg"
 excerpt: "I challenge you to say yes. To seek out adventure and experiences that may feel uncomfortable. The great thing about life is...it's yours. So, if you choose to seek the experiences that are out there waiting, you will be fulﬁlled. Yet, if you don't, the only person you will hurt is yourself."
+featured: true
 ---
 A 9 to 5. A stable job. A typical vacation. 2.5 kids and a white picket fence. The idea of what constitutes a "normal" life may change from generation to generation, but I wanted to take a few minutes to address the idea of being "normal".
 

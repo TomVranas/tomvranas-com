@@ -4,6 +4,7 @@ date: 2017-11-07
 slug: thomas-vranas-know-your-team
 heroImage: "/images/blog/thomas-vranas-know-your-team/Event_3126.jpg"
 excerpt: "There are so many books and blogs on leadership- the sheer volume written is indicative of its importance in the workplace. &nbsp;But It also shows that we keep failing our teams."
+featured: true
 ---
 ![Don't be this guy.](/images/blog/thomas-vranas-know-your-team/image-0.jpg)
 
