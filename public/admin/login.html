@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Sign in — tomvranas.com</title>
+    <!-- Netlify Identity widget, loaded statically so it reliably reads the
+         invite/recovery token from the URL hash and opens the right dialog.
+         This page has no CMS on it, so nothing competes for the URL hash. -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: #fafaf7;
+        color: #3c4350;
+        font-family: ui-monospace, "SFMono-Regular", Menlo, monospace;
+        font-size: 14px;
+        letter-spacing: 0.02em;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Opening secure sign-in&hellip;</p>
+    <noscript>Enable JavaScript to sign in.</noscript>
+    <script>
+      (function () {
+        function toAdmin() {
+          document.location.href = '/admin/';
+        }
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on('init', function (user) {
+            // Already signed in (or just finished) → go to the editor.
+            if (user) {
+              toAdmin();
+              return;
+            }
+            window.netlifyIdentity.on('login', toAdmin);
+            // No invite/recovery token in the URL? Open the plain login dialog.
+            if (!/\b(invite_token|recovery_token|email_change_token)=/.test(window.location.hash)) {
+              window.netlifyIdentity.open();
+            }
+          });
+        }
+      })();
+    </script>
+  </body>
+</html>
