@@ -27,6 +27,17 @@ const hasAnalytics = !SITE.analyticsToken.startsWith('{{');
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script is:inline>
+      // Netlify Identity invite / recovery emails link to the site root with
+      // the token in the URL hash, but the password screen lives at /admin.
+      // Forward those (and only those) links there so the flow completes.
+      (function () {
+        var h = window.location.hash;
+        if (/\b(invite_token|recovery_token|email_change_token)=/.test(h)) {
+          window.location.replace('/admin/' + h);
+        }
+      })();
+    </script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
