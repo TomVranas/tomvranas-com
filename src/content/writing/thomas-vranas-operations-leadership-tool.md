@@ -1,5 +1,5 @@
 ---
-title: BLOW UP Your Crappy Shiny Balls! The Role of Tools in Modern Workplaces.
+title: Blow Up Your Crappy Shiny Balls! The Role of Tools in Modern Workplaces.
 date: 2017-05-21
 slug: thomas-vranas-operations-leadership-tool
 heroImage: /images/blog/thomas-vranas-operations-leadership-tool/IMG_1829.JPG
