@@ -28,14 +28,28 @@ const hasAnalytics = !SITE.analyticsToken.startsWith('{{');
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script is:inline>
-      // Netlify Identity invite / recovery emails link to the site root with
-      // the token in the URL hash, but the password screen lives at /admin.
-      // Forward those (and only those) links there so the flow completes.
+      // Netlify Identity invite / recovery emails land on the site root with
+      // the token in the URL hash, but the "set a password" UI comes from the
+      // Netlify Identity widget. Load that widget ONLY when such a token is
+      // present (normal visitors get no extra request), let it open the
+      // set-password / recovery dialog right here, then send the user to the
+      // CMS once they're logged in.
       (function () {
-        var h = window.location.hash;
-        if (/\b(invite_token|recovery_token|email_change_token)=/.test(h)) {
-          window.location.replace('/admin/' + h);
-        }
+        if (!/\b(invite_token|recovery_token|email_change_token)=/.test(window.location.hash)) return;
+        var s = document.createElement('script');
+        s.src = 'https://identity.netlify.com/v1/netlify-identity-widget.js';
+        s.onload = function () {
+          if (!window.netlifyIdentity) return;
+          window.netlifyIdentity.on('init', function (user) {
+            if (!user) {
+              window.netlifyIdentity.on('login', function () {
+                document.location.href = '/admin/';
+              });
+            }
+          });
+          window.netlifyIdentity.init();
+        };
+        document.head.appendChild(s);
       })();
     </script>
     <title>{title}</title>
