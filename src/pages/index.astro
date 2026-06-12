@@ -1,6 +1,5 @@
 ---
 import Base from '../layouts/Base.astro';
-import Ph from '../components/Ph.astro';
 import LogoRow from '../components/LogoRow.astro';
 import Figure from '../components/Figure.astro';
 import StatBand from '../components/StatBand.astro';
@@ -18,12 +17,12 @@ import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
           <p style="margin-top: 1.5rem; font-size: 1.1rem;">
             I&rsquo;m Tom Vranas &mdash; second-seat executive and corporate fixer for founders,
             CEOs, and PE-backed companies in transition. COO, Chief of Staff, EOS Integrator: the
-            person you hand the problem nobody&rsquo;s mapped. Twenty-five years, two exits, every
-            seat in the building. I learn fast, fix what&rsquo;s broken, build the system that keeps
-            it fixed &mdash; and work myself out of the job.
+            person you hand the problem nobody&rsquo;s mapped. Twenty-five years, eight
+            transactions, every seat in the building. I learn fast, fix what&rsquo;s broken, build
+            the system that keeps it fixed &mdash; and work myself out of the job.
           </p>
           <p style="margin-top: 2rem;">
-            <a class="btn" href="/contact">Start a conversation</a>
+            <a class="btn" href="/contact" title="No deck required.">Start a conversation</a>
           </p>
         </div>
         <Figure
@@ -41,8 +40,8 @@ import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
       <StatBand
         stats={[
           { value: '25', label: 'Years operating' },
-          { value: '2', label: 'Institutional exits' },
-          { value: '3', label: 'Acquisitions integrated' },
+          { value: '8', label: 'Transactions' },
+          { value: '11', label: 'Seats held' },
         ]}
       />
     </div>
@@ -52,51 +51,56 @@ import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
     <div class="container-wide">
       <div class="tombstones">
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">01</span>
           <p class="tombstone__name">ZENTRO INTERNET</p>
           <hr class="tombstone__rule" />
           <p class="tombstone__outcome">Recapitalized by Greystar&nbsp;Infrastructure</p>
           <p class="tombstone__year">2026</p>
         </article>
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">02</span>
           <p class="tombstone__name">GIGAMONSTER</p>
           <hr class="tombstone__rule" />
           <p class="tombstone__outcome">Acquired by Zentro&nbsp;Internet</p>
           <p class="tombstone__year">2023</p>
         </article>
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">03</span>
           <p class="tombstone__name">SNIP INTERNET</p>
           <hr class="tombstone__rule" />
           <p class="tombstone__outcome">Acquired by Zentro&nbsp;Internet</p>
           <p class="tombstone__year">2023</p>
         </article>
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">04</span>
           <p class="tombstone__name">SILVERIP</p>
           <hr class="tombstone__rule" />
           <p class="tombstone__outcome">Acquired by Zentro&nbsp;Internet</p>
           <p class="tombstone__year">2022</p>
         </article>
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">05</span>
           <p class="tombstone__name">EVERYWHERE WIRELESS</p>
           <hr class="tombstone__rule" />
           <p class="tombstone__outcome">Acquired by MC&nbsp;Partners</p>
           <p class="tombstone__year">2021</p>
         </article>
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">06</span>
           <p class="tombstone__name">SUPES ACADEMY</p>
           <hr class="tombstone__rule" />
           <p class="tombstone__outcome">Acquired by Atlantic Research&nbsp;Partners</p>
           <p class="tombstone__year">2015</p>
         </article>
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">07</span>
           <p class="tombstone__name">PROACT SEARCH</p>
           <hr class="tombstone__rule" />
-          <p class="tombstone__outcome">
-            Acquired by Atlantic Research Partners + Huge and Associates
-            <Ph>[Tom: verify firm name spelling]</Ph>
-          </p>
+          <p class="tombstone__outcome">Acquired by Atlantic Research&nbsp;Partners</p>
           <p class="tombstone__year">2015</p>
         </article>
         <article class="tombstone">
+          <span class="tombstone__index" aria-hidden="true">08</span>
           <p class="tombstone__name">SOLTYRA</p>
           <hr class="tombstone__rule" />
           <p class="tombstone__outcome">Acqui-hired by The Princeton&nbsp;Review</p>
@@ -132,8 +136,9 @@ import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
         working. Fix, grow, systematize, exit. That&rsquo;s the job.
       </p>
 
-      <div class="proof-blocks" style="margin-top: 2.5rem;">
-        <div class="proof-block">
+      <div class="feature-grid" style="margin-top: 2.5rem;">
+        <div class="feature-card">
+          <span class="feature-card__index" aria-hidden="true">01</span>
           <h3>Operating rhythm</h3>
           <p>
             EOS Integrator in practice, not just vocabulary. Scorecards, L10s, accountability
@@ -141,7 +146,8 @@ import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
             that runs on purpose.
           </p>
         </div>
-        <div class="proof-block">
+        <div class="feature-card">
+          <span class="feature-card__index" aria-hidden="true">02</span>
           <h3>Functional range</h3>
           <p>
             Took a 25-seat call center slated for shutdown and rebuilt it into a national sales and
@@ -151,20 +157,13 @@ import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
             accountable owner, not an advisor.
           </p>
         </div>
-        <div class="proof-block">
-          <h3>Integration</h3>
+        <div class="feature-card">
+          <span class="feature-card__index" aria-hidden="true">03</span>
+          <h3>Deals</h3>
           <p>
-            Three add-on acquisitions integrated as operating lead through the Zentro platform:
-            systems, billing, people, and customers merged without breaking revenue. The deepest
-            version of the same skill &mdash; making two operating realities run as one.
-          </p>
-        </div>
-        <div class="proof-block">
-          <h3>Exits</h3>
-          <p>
-            Two institutional liquidity events &mdash; the MC Partners acquisition (2021) and the
-            Greystar Infrastructure-led recapitalization (2026). I know what diligence looks for
-            because I&rsquo;ve sat on the sell side of it twice.
+            Three integrations led pre-deal through execution; eight transactions across the record
+            as owner, operator, or integration lead. I know what diligence looks for because
+            I&rsquo;ve sat on both sides of it.
           </p>
         </div>
       </div>
@@ -181,7 +180,7 @@ import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
   <section class="cta-band">
     <div class="container">
       <h2>Have a company that&rsquo;s outgrown how it runs?</h2>
-      <a class="btn" href="/contact">Start a conversation</a>
+      <a class="btn" href="/contact" title="No deck required.">Start a conversation</a>
     </div>
   </section>
 </Base>

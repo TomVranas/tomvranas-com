@@ -21,7 +21,7 @@ const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
       </p>
 
       <p style="margin-top: 2rem;">
-        <a class="btn" href={SITE.schedulingUrl}>Schedule a call</a>
+        <a class="btn" href={SITE.schedulingUrl} target="_blank" rel="noopener" title="No deck required.">Schedule a call</a>
         {
           schedulingIsPlaceholder && (
             <mark class="ph" style="margin-left: 0.75rem;">
@@ -50,9 +50,9 @@ const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
       </div>
 
       <p style="margin-top: 2rem; font-family: var(--font-mono); font-size: 0.85rem;">
-        <a href={SITE.linkedin} rel="me noopener">LinkedIn</a> &middot;
-        <a href={SITE.medium} rel="me noopener">Medium</a> &middot;
-        <a href={SITE.goodreads} rel="noopener">Goodreads</a>
+        <a href={SITE.linkedin} target="_blank" rel="me noopener">LinkedIn</a> &middot;
+        <a href={SITE.medium} target="_blank" rel="me noopener">Medium</a> &middot;
+        <a href={SITE.goodreads} target="_blank" rel="noopener">Goodreads</a>
       </p>
     </div>
   </section>

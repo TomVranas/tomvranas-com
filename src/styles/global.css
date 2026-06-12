@@ -273,7 +273,8 @@ mark.ph {
 }
 
 .site-footer__inner {
-  padding-block: 2.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 1.1rem;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -302,6 +303,23 @@ mark.ph {
 
 .site-footer__links a:hover {
   text-decoration: underline;
+  color: var(--paper);
+}
+
+.site-footer__note {
+  margin-top: 0;
+  padding-bottom: 2.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  color: rgba(250, 250, 247, 0.55);
+}
+
+.site-footer__note a {
+  color: rgba(250, 250, 247, 0.55);
+}
+
+.site-footer__note a:hover {
   color: var(--paper);
 }
 
@@ -338,11 +356,34 @@ mark.ph {
 }
 
 .tombstone {
+  position: relative;
+  --tick-color: var(--green);
   border: 1px solid var(--green);
   padding: 1.9rem 1.2rem;
   text-align: center;
   font-family: var(--font-mono);
-  background: var(--paper);
+  background-color: var(--paper);
+  /* Bottle-green corner registration ticks (crop-mark brackets, hairline). */
+  background-image:
+    linear-gradient(var(--tick-color), var(--tick-color)),
+    linear-gradient(var(--tick-color), var(--tick-color)),
+    linear-gradient(var(--tick-color), var(--tick-color)),
+    linear-gradient(var(--tick-color), var(--tick-color)),
+    linear-gradient(var(--tick-color), var(--tick-color)),
+    linear-gradient(var(--tick-color), var(--tick-color)),
+    linear-gradient(var(--tick-color), var(--tick-color)),
+    linear-gradient(var(--tick-color), var(--tick-color));
+  background-repeat: no-repeat;
+  background-size:
+    8px 1px, 1px 8px,
+    8px 1px, 1px 8px,
+    8px 1px, 1px 8px,
+    8px 1px, 1px 8px;
+  background-position:
+    left 6px top 6px, left 6px top 6px,
+    right 6px top 6px, right 6px top 6px,
+    left 6px bottom 6px, left 6px bottom 6px,
+    right 6px bottom 6px, right 6px bottom 6px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -351,6 +392,26 @@ mark.ph {
      content — force them to so the 2-col mobile grid never overflows.
      (No break-word: let transaction lines wrap whole at spaces.) */
   min-width: 0;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+/* Desktop hover only: border goes green, card lifts 2px. No flips, no scroll FX. */
+@media (hover: hover) {
+  .tombstone:hover {
+    border-color: var(--green);
+    transform: translateY(-2px);
+  }
+}
+
+.tombstone__index {
+  position: absolute;
+  top: 0.85rem;
+  left: 0.85rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  color: var(--slate);
 }
 
 /* The year is the card's footer data point — pin it to the bottom so it
@@ -411,6 +472,55 @@ mark.ph {
   margin-bottom: 0.4rem;
 }
 
+/* ---- feature grid (Home proof blocks: 3-up carded, ledger numerals) ---- */
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+@media (max-width: 760px) {
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.feature-card {
+  border: 1px solid var(--hairline);
+  padding: 1.6rem 1.4rem;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+@media (hover: hover) {
+  .feature-card:hover {
+    border-color: var(--green);
+    transform: translateY(-2px);
+  }
+}
+
+.feature-card__index {
+  display: block;
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--hairline);
+}
+
+.feature-card h3 {
+  margin-top: 0.7rem;
+}
+
+.feature-card p {
+  margin-top: 0.5rem;
+  font-size: 0.98rem;
+  color: var(--slate);
+}
+
 /* ---- logo row ---- */
 
 .logo-row {
@@ -426,7 +536,33 @@ mark.ph {
   height: 2rem;
   width: auto;
   filter: grayscale(1);
-  opacity: 0.75;
+  opacity: 0.8;
+  transition:
+    filter 0.2s ease,
+    opacity 0.2s ease;
+}
+
+/* Grayscale at rest, full color on hover (desktop only). */
+@media (hover: hover) {
+  .logo-row img:hover {
+    filter: none;
+    opacity: 1;
+  }
+}
+
+.logo-row--placeholder {
+  justify-content: flex-start;
+  gap: 0.75rem;
+}
+
+.logo-chip {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--slate);
+  border: 1px dashed var(--hairline);
+  padding: 0.7rem 1rem;
+  white-space: nowrap;
 }
 
 /* ---- figures (photos as deal-book exhibits) ---- */
@@ -548,8 +684,19 @@ mark.ph {
 
 /* Tombstones on a dark band: paper text, green-light rules, hairline grid. */
 .section--ink .tombstone {
-  background: transparent;
+  background-color: transparent;
   border-color: rgba(250, 250, 247, 0.2);
+  --tick-color: var(--green-light);
+}
+
+@media (hover: hover) {
+  .section--ink .tombstone:hover {
+    border-color: var(--green-light);
+  }
+}
+
+.section--ink .tombstone__index {
+  color: rgba(250, 250, 247, 0.4);
 }
 
 .section--ink .tombstone__name {

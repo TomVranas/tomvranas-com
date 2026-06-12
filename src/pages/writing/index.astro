@@ -30,8 +30,9 @@ const posts = (await getCollection('writing'))
       <p style="margin-top: 1.5rem;">
         I write weekly about integration, operating rigor, and what actually happens inside
         PE-backed companies after the press release. The polished versions live on
-        <a href={SITE.medium} rel="noopener">Medium</a> and
-        <a href={SITE.linkedin} rel="noopener">LinkedIn</a>; this page collects them.
+        <a href={SITE.medium} target="_blank" rel="noopener">Medium</a> and
+        <a href={SITE.linkedin} target="_blank" rel="noopener">LinkedIn</a>; this page collects
+        them.
       </p>
 
       {
@@ -59,7 +60,7 @@ const posts = (await getCollection('writing'))
         <span class="eyebrow">Reading now</span>
         <p>
           The current shelf &mdash; what I&rsquo;m reading and what just came off it &mdash; lives on
-          <a href={SITE.goodreads} rel="noopener">Goodreads</a>.
+          <a href={SITE.goodreads} target="_blank" rel="noopener">Goodreads</a>.
         </p>
       </aside>
     </div>
@@ -81,7 +82,13 @@ const posts = (await getCollection('writing'))
           </ul>
           <p style="margin-top: 1.75rem;">
             For availability:
-            <a class="btn" href={SITE.schedulingUrl} style="margin-left: 0.5rem;">
+            <a
+              class="btn"
+              href={SITE.schedulingUrl}
+              target="_blank"
+              rel="noopener"
+              style="margin-left: 0.5rem;"
+            >
               Book a conversation
             </a>
             {schedulingIsPlaceholder && <Ph>[Set SCHEDULING_URL in src/config.ts]</Ph>}
