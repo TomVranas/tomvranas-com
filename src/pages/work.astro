@@ -19,10 +19,8 @@ const roles = [
     fullMandate: 'Stand up every operating function from zero alongside a Visionary CEO.',
     owned: 'Operations, product, marketing, vendor growth.',
     outcomes: [
-      {
-        text: 'Launched the platform',
-        pending: '[add traction metrics when shareable — vendors onboarded, neighborhoods live]',
-      },
+      'Marketplace built from zero — product, vendor economics, operations, and launch playbooks — across three target markets (Austin, Dallas, Los Angeles)',
+      'Launching 2026',
     ],
   },
   {
@@ -31,14 +29,14 @@ const roles = [
     role: 'Chief of Staff, Innovation & People',
     mandate: 'Take a founder-led ISP through acquisitions and two institutional exits.',
     context:
-      'Chicago’s fastest-growing, top-rated independent ISP; Everywhere Wireless sold to MC Partners, the Zentro platform later to Greystar / GIP. Joined as VP, Innovation & Culture; promoted to Chief of Staff, Innovation & People.',
+      'Chicago’s fastest-growing, top-rated independent ISP; Everywhere Wireless sold to MC Partners in 2021; the Zentro platform was recapitalized by Greystar Infrastructure in 2026. Joined as VP, Innovation & Culture; promoted to Chief of Staff, Innovation & People.',
     fullMandate:
       'Build the people and operating infrastructure of a company professionalizing fast — then integrate what it bought.',
     owned:
-      'Company-wide EOS implementation · the Innovation Lab (all systems, platforms, data, integrations, automation) · the People function · integration lead on three add-on acquisitions.',
+      'Company-wide EOS implementation · the Innovation Lab (all systems, platforms, data, integrations, automation) · the People function · integration lead on three acquisitions, pre-deal through execution.',
     outcomes: [
-      '3 acquisitions integrated',
-      '2 institutional exits',
+      '3 acquisitions integrated in eleven months (Silver IP, Snip, GigaMonster)',
+      '2 institutional liquidity events',
       'Doubled headcount in under a year while sharply reducing turnover',
     ],
     footerText: 'Full case study below ↓',
@@ -90,7 +88,7 @@ const roles = [
       'Largest professional development organization for K–12 leaders in the U.S.',
       'From a few dozen participants to thousands annually',
       'Partnerships with Apple, NBC, and major districts',
-      { pending: '$10M annual revenue [confirm]' },
+      '$10M annual revenue',
     ],
   },
   {
@@ -104,7 +102,7 @@ const roles = [
     owned: 'Operations, project management, marketing, finance, HR, technology.',
     outcomes: [
       'Tripled revenue and improved margins fivefold within 15 months',
-      'Strategic sale after eight years of consistent growth',
+      'Strategic sale in 2015 after six years of consistent growth',
       'Co-authored a leading K–12 HR guidebook',
     ],
   },
@@ -126,17 +124,20 @@ const roles = [
     years: '2004–2008',
     company: 'The Princeton Review',
     role: 'Vice President',
-    mandate: 'Three roles in four years; turned cost centers into profit centers.',
+    mandate: 'Two engagements, two turnarounds: the tutoring program, then the call center.',
     context:
-      'Joined after a consulting engagement revitalized a federally funded tutoring program; promoted through three roles to VP, operating across Houston and New York.',
+      'Acqui-hired alongside SolTyra. First mandate: grow a federally funded after-school tutoring program run from two offices, Chicago and New York — I ran Chicago. Promoted through three roles to VP.',
     fullMandate:
-      'Turn around the national call center and online programs; consolidate customer experience company-wide.',
+      'Act one — scale the tutoring program. Act two — ninety days to assess a 25-seat call center slated for shutdown; diagnosed it as undervalued and undermanaged, told the CEO it was a good asset, then proved it.',
     owned:
-      'Customer Experience & Support across 50+ regional offices · an $8M P&L · the company’s first online sales and chat support systems.',
+      'The Chicago program, then expansion into six new cities nationwide · the call center, rebuilt as dedicated sales and support operations · national tutoring sales consolidation (the high-ticket line) · marketing consolidated from 30+ city offices into Houston · Customer Experience & Support across 50+ regional offices · an $8M P&L.',
     outcomes: [
-      'Tutoring program from under 100 to 8,000+ participants within months',
-      'Centralized operations cut costs 20% while doubling revenue',
-      'Built the foundation of the company’s digital customer experience',
+      'Tutoring program from 400 to 7,000+ students in one year — the largest provider in Illinois, with the highest math and reading gains for students in underserved communities, adding 10% to company top-line revenue',
+      'Call center costs cut 20% while revenue doubled',
+      {
+        text: 'Consolidated sales drove significant company-wide revenue growth',
+        pending: '[FIGURE TK — Tom to supply]',
+      },
     ],
   },
   {
@@ -200,7 +201,8 @@ const roles = [
 
       <p style="margin-top: 1.75rem;">
         The pattern across all of them: companies in transition, a strong-vision leader in the
-        first seat, and a machine that needed building. Industry changes; the job doesn&rsquo;t.
+        first seat, and a machine that needed building or fixing &mdash; usually a problem I
+        hadn&rsquo;t seen before, solved anyway. Industry changes; the job doesn&rsquo;t.
       </p>
 
       <p class="resume-link" style="margin-top: 1.5rem;">
@@ -227,11 +229,12 @@ const roles = [
       </h2>
 
       <p style="margin-top: 1.5rem;">
-        Between 2019 and <Ph>2024 [confirm]</Ph>, Zentro Internet executed a buy-and-build
-        strategy in Chicago-area broadband, acquiring three competitors while continuing organic
-        growth. I led integration as Chief of Staff, Innovation &amp; People. The platform sold to
-        Greystar / GIP in <Ph>2024 [confirm]</Ph>. This is the deepest test of the operating skill
-        &mdash; making two companies run as one &mdash; and how it worked.
+        Between 2019 and 2024, Zentro Internet executed a buy-and-build strategy in Chicago-area
+        broadband, acquiring three competitors while continuing organic growth. I led integration
+        as Chief of Staff, Innovation &amp; People. Everywhere Wireless sold to MC Partners in 2021;
+        in 2026 the platform completed a Greystar Infrastructure-led equity recapitalization. This
+        is the deepest test of the operating skill &mdash; making two companies run as one &mdash;
+        and how it worked.
       </p>
     </div>
   </section>
@@ -240,9 +243,9 @@ const roles = [
     <div class="container">
       <StatBand
         stats={[
-          { value: '3', label: 'Acquisitions integrated' },
-          { value: '1', label: 'Platform exit · Greystar / GIP' },
-          { value: '[X]%', label: 'Customer revenue retained', pending: true },
+          { value: '3', label: 'Acquisitions integrated in 11 months' },
+          { value: '<1%', label: 'Customer churn through integration' },
+          { value: '100%', label: 'Key-employee retention' },
         ]}
       />
     </div>
@@ -252,11 +255,24 @@ const roles = [
     <div class="container cs-steps">
       <h3 class="cs-step">The situation</h3>
       <p style="margin-top: 0.7rem;">
-        <Ph>
-          [2&ndash;3 sentences per deal or in aggregate: subscriber counts, network footprint,
-          team sizes, what made each one hard. PLACEHOLDER &mdash; pull from the case study
-          draft.]
-        </Ph>
+        Three acquisitions in eleven months, each a different integration problem.
+        <strong>Silver IP</strong> was the platform&rsquo;s largest Chicago rival &mdash; two
+        companies that had spent years fighting for the same buildings becoming one overnight; the
+        merger was as much truce as transaction, and it created the largest MDU-focused ISP in the
+        Midwest: 65,000+ active subscribers across Chicago and Milwaukee.
+        <strong>GigaMonster</strong> came out of a dissolved, distressed portfolio: a team worn
+        down by bankruptcy, substantial offshore operations to fold into our stack, and the
+        platform&rsquo;s first move beyond the Midwest &mdash; Atlanta, Nashville, Tampa, Miami,
+        Richmond. <strong>Snip Internet</strong> was the opposite problem &mdash; a small, tight
+        team serving Detroit, Cleveland, Milwaukee, and Columbus that had to join a much larger
+        ecosystem without losing what made it good. By the end, the platform was the largest
+        independent MDU-focused provider in the region &mdash; 1,200 buildings across Chicago,
+        Milwaukee, Cleveland, Columbus, Detroit, and Atlanta.
+      </p>
+      <p style="margin-top: 1.2rem;">
+        My seat in all three: integration lead from the Zentro side, pre-deal through execution
+        &mdash; meeting the target&rsquo;s teams before close, building the operating and
+        integration plans, then running the integration itself.
       </p>
 
       <h3 class="cs-step" style="margin-top: 2.5rem;">The approach</h3>
@@ -309,11 +325,20 @@ const roles = [
 
       <h3 class="cs-step" style="margin-top: 2.5rem;">The results</h3>
       <p style="margin-top: 0.7rem;">
-        <Ph>
-          [PLACEHOLDER: churn held at X% through integration windows / synergy targets hit by
-          month X / retained X% of key staff / platform EBITDA grew from X to Y / sold to
-          Greystar-GIP at [outcome]. Use only numbers you can defend in a room with Ryan.]
-        </Ph>
+        Across all three integrations: full integration &mdash; operations, technology, systems,
+        and people &mdash; completed in under six months per deal, customer churn held under 1%
+        through the integration windows, 100% retention of key employees, and 95% retention of all
+        employees. In an industry where post-acquisition service dips are the norm and acquired
+        teams head for the exits, the platform kept the customers it paid for and the people who
+        made them worth paying for &mdash; and was fully one company again within two quarters,
+        every time.
+      </p>
+      <p style="margin-top: 1.2rem;">
+        The longer arc speaks publicly: in 2026, Greystar Infrastructure led an equity
+        recapitalization of Zentro &mdash; by then, after a subsequent merger with BAI Connect, the
+        largest private multifamily-focused internet provider in the United States, serving more
+        than 120,000 apartment units across 20+ cities. The integrations of 2022&ndash;2023 are
+        part of that platform&rsquo;s foundation.
       </p>
 
       <h3 class="cs-step" style="margin-top: 2.5rem;">What this means for your deal</h3>

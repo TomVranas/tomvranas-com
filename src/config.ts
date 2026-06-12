@@ -21,5 +21,5 @@ export const SITE = {
   metaTitle:
     'Tom Vranas — COO, Chief of Staff & EOS Integrator | Operating Executive for Companies in Transition',
   metaDescription:
-    'Second-seat operating executive for founders and PE-backed companies. Two exits, three integrations, every functional seat held. I make companies run.',
+    'Second-seat operating executive and fixer for founders and PE-backed companies. Two exits, three integrations, every seat held. I fix what’s broken and work myself out of the job.',
 };
