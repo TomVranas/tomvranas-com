@@ -1,0 +1,82 @@
+---
+// One expandable role dossier (Work page). Native <details>/<summary> — no
+// JS, keyboard-accessible. Every role uses the identical Context / Mandate /
+// Owned / Outcomes template. Outcomes may be plain strings or
+// { text?, pending? } objects; `pending` renders as a yellow placeholder so
+// unverified figures can't ship unnoticed.
+interface Outcome {
+  text?: string;
+  pending?: string;
+}
+
+interface Props {
+  years: string;
+  company: string;
+  role: string;
+  mandate: string;
+  context: string;
+  fullMandate: string;
+  owned: string;
+  outcomes: (string | Outcome)[];
+  footerText?: string;
+  footerHref?: string;
+}
+
+const {
+  years,
+  company,
+  role,
+  mandate,
+  context,
+  fullMandate,
+  owned,
+  outcomes,
+  footerText,
+  footerHref,
+} = Astro.props;
+
+const normalized = outcomes.map((o) => (typeof o === 'string' ? { text: o } : o));
+---
+
+<details class="dossier">
+  <summary class="dossier__summary">
+    <span class="dossier__years">{years}</span>
+    <span class="dossier__head">
+      <span class="dossier__company">{company}</span>
+      <span class="dossier__role">{role}</span>
+    </span>
+    <span class="dossier__mandate">{mandate}</span>
+    <span class="dossier__indicator" aria-hidden="true"></span>
+  </summary>
+  <div class="dossier__body">
+    <dl class="dossier__dl">
+      <dt>Context</dt>
+      <dd>{context}</dd>
+      <dt>Mandate</dt>
+      <dd>{fullMandate}</dd>
+      <dt>Owned</dt>
+      <dd>{owned}</dd>
+      <dt>Outcomes</dt>
+      <dd>
+        <ul class="dossier__outcomes">
+          {
+            normalized.map((o) => (
+              <li>
+                {o.text}
+                {o.text && o.pending && ' '}
+                {o.pending && <mark class="ph">{o.pending}</mark>}
+              </li>
+            ))
+          }
+        </ul>
+      </dd>
+    </dl>
+    {
+      footerText && footerHref && (
+        <p class="dossier__footer">
+          <a href={footerHref}>{footerText}</a>
+        </p>
+      )
+    }
+  </div>
+</details>

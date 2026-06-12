@@ -2,8 +2,185 @@
 import Base from '../layouts/Base.astro';
 import Ph from '../components/Ph.astro';
 import Figure from '../components/Figure.astro';
+import Dossier from '../components/Dossier.astro';
 import teamPhoto from '../assets/photos/placeholder-team.svg';
 import actionPhoto from '../assets/photos/placeholder-action.svg';
+
+// Role dossiers, reverse chronological. Copy verbatim from the rebuild spec.
+const roles = [
+  {
+    years: '2025–PRESENT',
+    company: 'Bulqit',
+    role: 'Co-Founder & COO',
+    mandate: 'Build the operating machine for a two-sided marketplace.',
+    context:
+      'The first neighborhood-based home services marketplace — homeowners group recurring outdoor services (lawn, pool, pest) to save; local vendors scale smarter.',
+    fullMandate: 'Stand up every operating function from zero alongside a Visionary CEO.',
+    owned: 'Operations, product, marketing, vendor growth.',
+    outcomes: [
+      {
+        text: 'Launched the platform',
+        pending: '[add traction metrics when shareable — vendors onboarded, neighborhoods live]',
+      },
+    ],
+  },
+  {
+    years: '2019–2024',
+    company: 'Everywhere Wireless / Zentro',
+    role: 'Chief of Staff, Innovation & People',
+    mandate: 'Take a founder-led ISP through acquisitions and two institutional exits.',
+    context:
+      'Chicago’s fastest-growing, top-rated independent ISP; Everywhere Wireless sold to MC Partners, the Zentro platform later to Greystar / GIP. Joined as VP, Innovation & Culture; promoted to Chief of Staff, Innovation & People.',
+    fullMandate:
+      'Build the people and operating infrastructure of a company professionalizing fast — then integrate what it bought.',
+    owned:
+      'Company-wide EOS implementation · the Innovation Lab (all systems, platforms, data, integrations, automation) · the People function · integration lead on three add-on acquisitions.',
+    outcomes: [
+      '3 acquisitions integrated',
+      '2 institutional exits',
+      'Doubled headcount in under a year while sharply reducing turnover',
+    ],
+    footerText: 'Full case study below ↓',
+    footerHref: '#case-study',
+  },
+  {
+    years: '2016–PRESENT',
+    company: 'Grevco',
+    role: 'Principal Consultant',
+    mandate: 'Interim executive and operating advisor across industries.',
+    context:
+      'Advisory practice for founders, operators, and investors — consumer products, media, technology, education — from early-stage scaling to post-acquisition transformation.',
+    fullMandate:
+      'Drop into companies in transition as interim COO, Chief of Staff, or growth architect.',
+    owned:
+      'Interim executive seats (operations, finance, sales), growth strategy, organizational design.',
+    outcomes: [
+      '400% growth in 4 months (media client)',
+      '+50% sales in 6 months and a $200K round (edtech client)',
+      '−40% operating costs in 2 months (consumer products client)',
+    ],
+  },
+  {
+    years: '2015–PRESENT',
+    company: 'Experience Institute',
+    role: 'Advisor → Interim COO',
+    mandate: 'Advisor recruited into the operating seat.',
+    context:
+      'Experiential learning organization serving individuals, corporations, and universities.',
+    fullMandate:
+      'Restructure operations and position the company for investment; ongoing strategic advisory since.',
+    owned: 'Operations, product expansion, fundraise execution.',
+    outcomes: [
+      'Led a successful investment round',
+      'Restructured operations to increase margin and output',
+    ],
+  },
+  {
+    years: '2010–2015',
+    company: 'Supes Academy',
+    role: 'President + COO + Owner',
+    mandate: 'Built the largest leadership-development firm in K–12 education.',
+    context:
+      'Acquired intellectual property and built it into a national executive-training company for superintendents and district leaders.',
+    fullMandate: 'Turn theory-based IP into a scaled national operating company.',
+    owned:
+      'Operations, curriculum development, logistics, data/QC, and a national consultant network of 200+.',
+    outcomes: [
+      'Largest professional development organization for K–12 leaders in the U.S.',
+      'From a few dozen participants to thousands annually',
+      'Partnerships with Apple, NBC, and major districts',
+      { pending: '$10M annual revenue [confirm]' },
+    ],
+  },
+  {
+    years: '2009–2015',
+    company: 'Proact Search',
+    role: 'President + COO + Owner',
+    mandate: 'Turned around a 15-year-old executive search firm.',
+    context:
+      'K–12 executive search firm acquired and modernized — psychometric testing, data dashboards, and tech-enabled recruitment new to the industry.',
+    fullMandate: 'Rebuild the operating model of a legacy services firm.',
+    owned: 'Operations, project management, marketing, finance, HR, technology.',
+    outcomes: [
+      'Tripled revenue and improved margins fivefold within 15 months',
+      'Strategic sale after eight years of consistent growth',
+      'Co-authored a leading K–12 HR guidebook',
+    ],
+  },
+  {
+    years: '2008–2015',
+    company: 'Synesi Associates',
+    role: 'President + COO + Owner',
+    mandate: 'Organized a collective of experts into a profitable consultancy.',
+    context: 'Project-based group of retired education leaders serving district reform engagements.',
+    fullMandate: 'Full business-model redesign — from ad hoc collective to standardized firm.',
+    owned: 'Marketing, operations, finance, HR, project management, technology.',
+    outcomes: [
+      'Expanded nationally, generating tens of millions in grants for underserved districts',
+      'Transformed into a stable, profitable firm',
+      'Sold to an investment group',
+    ],
+  },
+  {
+    years: '2004–2008',
+    company: 'The Princeton Review',
+    role: 'Vice President',
+    mandate: 'Three roles in four years; turned cost centers into profit centers.',
+    context:
+      'Joined after a consulting engagement revitalized a federally funded tutoring program; promoted through three roles to VP, operating across Houston and New York.',
+    fullMandate:
+      'Turn around the national call center and online programs; consolidate customer experience company-wide.',
+    owned:
+      'Customer Experience & Support across 50+ regional offices · an $8M P&L · the company’s first online sales and chat support systems.',
+    outcomes: [
+      'Tutoring program from under 100 to 8,000+ participants within months',
+      'Centralized operations cut costs 20% while doubling revenue',
+      'Built the foundation of the company’s digital customer experience',
+    ],
+  },
+  {
+    years: '2002–2008',
+    company: 'Soltyra',
+    role: 'Founder',
+    mandate: 'The agency a national buyer paid extra to absorb.',
+    context:
+      'Digital marketing and strategy agency founded during the early internet boom; clients included CareerBuilder, US Cellular, and The Princeton Review.',
+    fullMandate: 'Help small and mid-sized companies grow online.',
+    owned:
+      'Everything — scaled from solo consultancy to full-service creative and development firm (websites, eCommerce, marketing automation).',
+    outcomes: [
+      'Acqui-hired by The Princeton Review, which paid a bonus to bring the firm with its founder',
+    ],
+  },
+  {
+    years: '2002–2004',
+    company: 'The Xigent Group',
+    role: 'Chief of Staff',
+    mandate: 'The first second seat.',
+    context:
+      'Venture-backed firm commercializing innovation from universities and research institutions.',
+    fullMandate: 'Partner with founders to identify, fund, and launch high-impact technologies.',
+    owned: 'Deal support, launch operations, civic and economic development initiatives.',
+    outcomes: [
+      'Brought several emerging tech platforms to market',
+      'Advised strategic investment in distressed communities',
+    ],
+  },
+  {
+    years: '1999–2002',
+    company: 'Upzing',
+    role: 'Co-Founder · COO + CMO',
+    mandate: 'Early commercial Wi-Fi, before it was an industry.',
+    context:
+      'Wireless networking company co-founded during college, deploying high-speed internet for major Chicago real estate developments.',
+    fullMandate: 'Build and fund a pioneering connectivity business.',
+    owned: 'Sales, marketing, operations, capital raise.',
+    outcomes: [
+      'Angel capital raised',
+      'Large-scale installation contracts with landmark Chicago properties',
+    ],
+  },
+];
 ---
 
 <Base
@@ -16,40 +193,18 @@ import actionPhoto from '../assets/photos/placeholder-action.svg';
       <h1 style="margin-top: 0.9rem;">Twenty-five years in the second seat.</h1>
 
       <h2 style="margin-top: 3rem;">Seats held</h2>
-      <ul class="seats" style="margin-top: 1.25rem;">
-        <li>
-          <span class="seat__role">Co-Founder &amp; COO</span> &middot; Bulqit &middot;
-          Marketplace / home services
-        </li>
-        <li>
-          <span class="seat__role">Chief of Staff, Innovation &amp; People</span> &middot; Zentro
-          Internet &middot; Broadband &mdash; operating lead through 3 acquisitions and exit to
-          Greystar/GIP
-        </li>
-        <li>
-          <span class="seat__role">Chief of Staff, Innovation &amp; People</span> &middot; Everywhere
-          Wireless &middot; Broadband &mdash; through exit to MC Partners
-        </li>
-        <li>
-          <span class="seat__role">Chief People Officer</span> &middot; <Ph>[COMPANY]</Ph> &middot;
-          <Ph>[industry]</Ph>
-        </li>
-        <li>
-          <span class="seat__role">VP, Innovation &amp; Culture</span> &middot; Everywhere Wireless
-        </li>
-        <li>
-          <span class="seat__role"><Ph>[Call center build]</Ph></span> &middot;
-          The Princeton Review &mdash; built and ran <Ph>[X]</Ph>-seat operation
-        </li>
-        <li>
-          <span class="seat__role"><Ph>[National marketing role]</Ph></span> &middot;
-          <Ph>[COMPANY]</Ph>
-        </li>
-      </ul>
+      <div class="dossiers" style="margin-top: 1.5rem;">
+        {roles.map((r) => <Dossier {...r} />)}
+      </div>
 
       <p style="margin-top: 1.75rem;">
         The pattern across all of them: companies in transition, a strong-vision leader in the
         first seat, and a machine that needed building. Industry changes; the job doesn&rsquo;t.
+      </p>
+
+      <p class="resume-link" style="margin-top: 1.5rem;">
+        Download the full r&eacute;sum&eacute; (PDF) &rarr;
+        <Ph>[add resume.pdf to /public to activate this link]</Ph>
       </p>
 
       <div style="margin-top: 2.5rem;">
@@ -63,7 +218,7 @@ import actionPhoto from '../assets/photos/placeholder-action.svg';
     </div>
   </section>
 
-  <section class="section">
+  <section class="section" id="case-study">
     <div class="container">
       <p class="eyebrow">Featured Case Study</p>
       <h2 style="margin-top: 0.9rem;">
