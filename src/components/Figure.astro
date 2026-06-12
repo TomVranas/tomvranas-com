@@ -25,6 +25,8 @@ const raster =
 ---
 
 <figure class:list={['figure', { 'figure--pending': pending }]}>
-  <Image src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} {...raster} />
+  <div class="figure__frame">
+    <Image src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} {...raster} />
+  </div>
   <figcaption>{pending ? <mark class="ph">{caption}</mark> : caption}</figcaption>
 </figure>

@@ -10,6 +10,7 @@ interface Outcome {
 }
 
 interface Props {
+  index: string;
   years: string;
   company: string;
   role: string;
@@ -23,6 +24,7 @@ interface Props {
 }
 
 const {
+  index,
   years,
   company,
   role,
@@ -40,12 +42,15 @@ const normalized = outcomes.map((o) => (typeof o === 'string' ? { text: o } : o)
 
 <details class="dossier">
   <summary class="dossier__summary">
-    <span class="dossier__years">{years}</span>
-    <span class="dossier__head">
-      <span class="dossier__company">{company}</span>
-      <span class="dossier__role">{role}</span>
+    <span class="dossier__index" aria-hidden="true">{index}</span>
+    <span class="dossier__content">
+      <span class="dossier__years">{years}</span>
+      <span class="dossier__head">
+        <span class="dossier__company">{company}</span>
+        <span class="dossier__role">{role}</span>
+      </span>
+      <span class="dossier__mandate">{mandate}</span>
     </span>
-    <span class="dossier__mandate">{mandate}</span>
     <span class="dossier__indicator" aria-hidden="true"></span>
   </summary>
   <div class="dossier__body">

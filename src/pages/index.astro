@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import Ph from '../components/Ph.astro';
 import LogoRow from '../components/LogoRow.astro';
 import Figure from '../components/Figure.astro';
+import StatBand from '../components/StatBand.astro';
 import { SITE } from '../config';
 import headshot from '../assets/photos/placeholder-headshot.svg';
 ---
@@ -36,7 +37,19 @@ import headshot from '../assets/photos/placeholder-headshot.svg';
     </div>
   </section>
 
-  <section class="section" aria-label="Selected transactions">
+  <section class="section" aria-label="Track record at a glance">
+    <div class="container-wide">
+      <StatBand
+        stats={[
+          { value: '25', label: 'Years operating' },
+          { value: '2', label: 'Institutional exits' },
+          { value: '3', label: 'Acquisitions integrated' },
+        ]}
+      />
+    </div>
+  </section>
+
+  <section class="section section--ink" aria-label="Selected transactions">
     <div class="container-wide">
       <div class="tombstones">
         <article class="tombstone">

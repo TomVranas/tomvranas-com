@@ -8,6 +8,7 @@
   --paper: #fafaf7;
   --slate: #3c4350;
   --green: #1e4d3b;
+  --green-light: #6bbf97;
   --hairline: #d8d6cf;
 
   --font-display: 'Archivo', 'Helvetica Neue', Arial, sans-serif;
@@ -70,13 +71,18 @@ h3 {
   text-wrap: balance;
 }
 
+/* Type scale drama: the hero is huge, the body stays 19px, and the
+   contrast between the two IS the design. */
 h1 {
-  font-size: clamp(2.1rem, 5.5vw, 3.3rem);
+  font-size: clamp(3rem, 8vw, 6rem);
+  line-height: 1.04;
+  letter-spacing: -0.035em;
 }
 
 h2 {
-  font-size: clamp(1.5rem, 3.5vw, 2.05rem);
-  line-height: 1.2;
+  font-size: clamp(1.9rem, 4.5vw, 2.9rem);
+  line-height: 1.1;
+  letter-spacing: -0.03em;
 }
 
 h3 {
@@ -397,16 +403,41 @@ mark.ph {
   max-width: var(--measure);
 }
 
-.figure img {
-  width: 100%;
-  height: auto;
+.figure__frame {
+  position: relative;
+  line-height: 0;
   border: 1px solid var(--hairline);
-  filter: grayscale(1);
 }
 
-/* Placeholder art carries the yellow TK chip — don't gray it out. */
-.figure--pending img {
-  filter: none;
+.figure__frame img {
+  width: 100%;
+  height: auto;
+}
+
+/* Duotone: archival shots from different eras read as one system —
+   ink shadows (multiply) under a green-cast monochrome (blend: color).
+   Real photos only; placeholder art keeps its yellow TK chip. */
+.figure:not(.figure--pending) .figure__frame img {
+  filter: grayscale(1) contrast(1.06) brightness(1.02);
+}
+
+.figure:not(.figure--pending) .figure__frame::before,
+.figure:not(.figure--pending) .figure__frame::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.figure:not(.figure--pending) .figure__frame::before {
+  background: var(--green);
+  mix-blend-mode: color;
+}
+
+.figure:not(.figure--pending) .figure__frame::after {
+  background: var(--ink);
+  mix-blend-mode: multiply;
+  opacity: 0.16;
 }
 
 .figure figcaption {
@@ -455,6 +486,125 @@ mark.ph {
   margin-bottom: 1.75rem;
 }
 
+/* ---- ink inversion (dark bands create rhythm; two per page) ---- */
+
+.section--ink {
+  background: var(--ink);
+  color: rgba(250, 250, 247, 0.78);
+}
+
+.section--ink h1,
+.section--ink h2,
+.section--ink h3,
+.section--ink strong {
+  color: var(--paper);
+}
+
+.section--ink .eyebrow {
+  color: var(--green-light);
+}
+
+.section--ink a:not(.btn) {
+  color: var(--green-light);
+}
+
+.section--ink + .section,
+.section + .section--ink {
+  border-top: 0;
+}
+
+/* Tombstones on a dark band: paper text, green-light rules, hairline grid. */
+.section--ink .tombstone {
+  background: transparent;
+  border-color: rgba(250, 250, 247, 0.2);
+}
+
+.section--ink .tombstone__name {
+  color: var(--paper);
+}
+
+.section--ink .tombstone__rule {
+  background: var(--green-light);
+}
+
+.section--ink .tombstone__outcome,
+.section--ink .tombstone__role {
+  color: rgba(250, 250, 247, 0.68);
+}
+
+/* ---- stat band (fund factsheet) ---- */
+
+.stat-band {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem 2rem;
+  margin: 0;
+}
+
+@media (max-width: 560px) {
+  .stat-band {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+}
+
+.stat {
+  border-top: 2px solid var(--ink);
+  padding-top: 0.85rem;
+}
+
+.section--ink .stat {
+  border-top-color: var(--green-light);
+}
+
+.stat__value {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: clamp(2.7rem, 7vw, 4.25rem);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--ink);
+}
+
+.section--ink .stat__value {
+  color: var(--paper);
+}
+
+.stat__label {
+  margin-top: 0.6rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--slate);
+}
+
+.section--ink .stat__label {
+  color: rgba(250, 250, 247, 0.7);
+}
+
+/* ---- numbered structure (ledger DNA) ---- */
+
+.cs-steps {
+  counter-reset: step;
+}
+
+.cs-step {
+  counter-increment: step;
+}
+
+.cs-step::before {
+  content: counter(step, decimal-leading-zero);
+  display: block;
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: clamp(1.8rem, 5vw, 2.6rem);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--hairline);
+  margin-bottom: 0.4rem;
+}
+
 /* ---- role dossiers (Work) ---- */
 
 .dossiers {
@@ -468,9 +618,16 @@ mark.ph {
 .dossier__summary {
   list-style: none;
   cursor: pointer;
-  display: block;
-  position: relative;
-  padding: 1.4rem 2.5rem 1.4rem 0;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 0.75rem 1.25rem;
+  align-items: start;
+  padding: 1.4rem 0.5rem;
+  transition: background 0.15s ease;
+}
+
+.dossier__summary:hover {
+  background: rgba(20, 24, 31, 0.03);
 }
 
 .dossier__summary::-webkit-details-marker {
@@ -480,6 +637,21 @@ mark.ph {
 .dossier__summary:focus-visible {
   outline: 2px solid var(--green);
   outline-offset: 3px;
+}
+
+/* Ledger index: oversized hairline-gray mono numeral, 01..11. */
+.dossier__index {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: clamp(1.4rem, 4vw, 2.3rem);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--hairline);
+  padding-top: 0.05em;
+}
+
+.dossier__content {
+  display: block;
 }
 
 .dossier__years {
@@ -521,13 +693,20 @@ mark.ph {
 }
 
 .dossier__indicator {
-  position: absolute;
-  top: 1.5rem;
-  right: 0.25rem;
+  align-self: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--hairline);
   font-family: var(--font-mono);
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   line-height: 1;
   color: var(--green);
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease,
+    color 0.15s ease;
 }
 
 .dossier__indicator::before {
@@ -538,8 +717,22 @@ mark.ph {
   content: "−";
 }
 
+/* The indicator fills green on hover and while open. */
+.dossier__summary:hover .dossier__indicator,
+.dossier[open] .dossier__indicator {
+  background: var(--green);
+  border-color: var(--green);
+  color: var(--paper);
+}
+
 .dossier__body {
-  padding-bottom: 1.8rem;
+  padding: 0.2rem 0.5rem 1.9rem;
+}
+
+@media (min-width: 640px) {
+  .dossier__body {
+    padding-left: 3.8rem;
+  }
 }
 
 .dossier__dl {

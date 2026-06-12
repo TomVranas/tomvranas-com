@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import Ph from '../components/Ph.astro';
 import Figure from '../components/Figure.astro';
 import Dossier from '../components/Dossier.astro';
+import StatBand from '../components/StatBand.astro';
 import teamPhoto from '../assets/photos/placeholder-team.svg';
 import actionPhoto from '../assets/photos/placeholder-action.svg';
 
@@ -194,7 +195,7 @@ const roles = [
 
       <h2 style="margin-top: 3rem;">Seats held</h2>
       <div class="dossiers" style="margin-top: 1.5rem;">
-        {roles.map((r) => <Dossier {...r} />)}
+        {roles.map((r, i) => <Dossier {...r} index={String(i + 1).padStart(2, '0')} />)}
       </div>
 
       <p style="margin-top: 1.75rem;">
@@ -232,8 +233,24 @@ const roles = [
         Greystar / GIP in <Ph>2024 [confirm]</Ph>. This is the deepest test of the operating skill
         &mdash; making two companies run as one &mdash; and how it worked.
       </p>
+    </div>
+  </section>
 
-      <h3 style="margin-top: 2.5rem;">The situation</h3>
+  <section class="section section--ink" aria-label="Deal summary">
+    <div class="container">
+      <StatBand
+        stats={[
+          { value: '3', label: 'Acquisitions integrated' },
+          { value: '1', label: 'Platform exit · Greystar / GIP' },
+          { value: '[X]%', label: 'Customer revenue retained', pending: true },
+        ]}
+      />
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container cs-steps">
+      <h3 class="cs-step">The situation</h3>
       <p style="margin-top: 0.7rem;">
         <Ph>
           [2&ndash;3 sentences per deal or in aggregate: subscriber counts, network footprint,
@@ -242,7 +259,7 @@ const roles = [
         </Ph>
       </p>
 
-      <h3 style="margin-top: 2.5rem;">The approach</h3>
+      <h3 class="cs-step" style="margin-top: 2.5rem;">The approach</h3>
       <p style="margin-top: 0.7rem;">
         Integration isn&rsquo;t a project plan; it&rsquo;s triage plus rhythm. Before each close,
         I ran an operational audit &mdash; billing systems, network architecture, customer
@@ -290,7 +307,7 @@ const roles = [
         </div>
       </div>
 
-      <h3 style="margin-top: 2.5rem;">The results</h3>
+      <h3 class="cs-step" style="margin-top: 2.5rem;">The results</h3>
       <p style="margin-top: 0.7rem;">
         <Ph>
           [PLACEHOLDER: churn held at X% through integration windows / synergy targets hit by
@@ -299,17 +316,20 @@ const roles = [
         </Ph>
       </p>
 
-      <h3 style="margin-top: 2.5rem;">What this means for your deal</h3>
+      <h3 class="cs-step" style="margin-top: 2.5rem;">What this means for your deal</h3>
       <p style="margin-top: 0.7rem;">
         If you&rsquo;re a sponsor or CEO with an add-on closing &mdash; or a platform where the
         last integration never quite finished &mdash; the playbook above is repeatable. I work as
         a contract integration lead or interim operating executive: defined scope, defined
         timeline, hand-off to your permanent team.
       </p>
+    </div>
+  </section>
 
-      <p style="margin-top: 2rem;">
-        <a class="btn" href="/contact">Discuss your deal</a>
-      </p>
+  <section class="cta-band">
+    <div class="container">
+      <h2>Have an integration that needs to land?</h2>
+      <a class="btn" href="/contact">Discuss your deal</a>
     </div>
   </section>
 </Base>
