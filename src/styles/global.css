@@ -309,6 +309,12 @@ mark.ph {
 
 @media (max-width: 760px) {
   .tombstones {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 420px) {
+  .tombstones {
     grid-template-columns: 1fr;
   }
 }
