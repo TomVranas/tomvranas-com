@@ -5,7 +5,7 @@ import LogoRow from '../components/LogoRow.astro';
 import Figure from '../components/Figure.astro';
 import StatBand from '../components/StatBand.astro';
 import { SITE } from '../config';
-import headshot from '../assets/photos/placeholder-headshot.svg';
+import heroPhoto from '../assets/photos/home-hero-northwestern-garage.jpg';
 ---
 
 <Base title={SITE.metaTitle} description={SITE.metaDescription}>
@@ -27,10 +27,9 @@ import headshot from '../assets/photos/placeholder-headshot.svg';
           </p>
         </div>
         <Figure
-          src={headshot}
-          alt="Placeholder for a headshot of Tom Vranas"
-          caption="[Headshot — drop in src/assets/photos/, then real caption: Tom Vranas, Chicago]"
-          pending
+          src={heroPhoto}
+          alt="Tom Vranas speaking at Northwestern's The Garage"
+          caption="Speaking at Northwestern&rsquo;s The Garage."
           eager
         />
       </div>

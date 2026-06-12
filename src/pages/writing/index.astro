@@ -1,7 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Ph from '../../components/Ph.astro';
+import Figure from '../../components/Figure.astro';
+import speakingPhoto from '../../assets/photos/writing-speaking-panel.webp';
 import { SITE } from '../../config';
+
+const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
 
 // Only featured posts are listed here. The full Squarespace archive (200+
 // migrated posts) still builds at /writing/<slug> for SEO and old redirects,
@@ -29,6 +34,14 @@ const posts = (await getCollection('writing'))
         <a href={SITE.linkedin} rel="noopener">LinkedIn</a>; this page collects them.
       </p>
 
+      {
+        posts.length === 0 && (
+          <p style="margin-top: 2.5rem;">
+            <Ph>[Feature posts on this index by setting `featured: true` in their frontmatter.]</Ph>
+          </p>
+        )
+      }
+
       <ul class="post-list" style="margin-top: 2.5rem;">
         {
           posts.map((post) => (
@@ -49,6 +62,37 @@ const posts = (await getCollection('writing'))
           <a href={SITE.goodreads} rel="noopener">Goodreads</a>.
         </p>
       </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container-wide">
+      <div class="figure-split">
+        <div>
+          <h2>Speaking</h2>
+          <p style="margin-top: 1.2rem;">
+            I speak to leadership teams, PE portfolio gatherings, and industry groups on the same
+            themes I write about. Recent and recurring topics:
+          </p>
+          <ul class="topic-list">
+            <li><Ph>[Topic 1 &mdash; e.g., Why PE doesn&rsquo;t fail at close]</Ph></li>
+            <li><Ph>[Topic 2 &mdash; e.g., Installing an operating system a leadership team actually keeps]</Ph></li>
+            <li><Ph>[Topic 3 &mdash; e.g., The case for the generalist operator]</Ph></li>
+          </ul>
+          <p style="margin-top: 1.75rem;">
+            For availability:
+            <a class="btn" href={SITE.schedulingUrl} style="margin-left: 0.5rem;">
+              Book a conversation
+            </a>
+            {schedulingIsPlaceholder && <Ph>[Set SCHEDULING_URL in src/config.ts]</Ph>}
+          </p>
+        </div>
+        <Figure
+          src={speakingPhoto}
+          alt="Tom Vranas speaking on a panel"
+          caption="On a panel."
+        />
+      </div>
     </div>
   </section>
 </Base>

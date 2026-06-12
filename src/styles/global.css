@@ -576,15 +576,21 @@ mark.ph {
 
 .stat-band {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(var(--stat-count, 3), minmax(0, 1fr));
   gap: 1.5rem 2rem;
   margin: 0;
 }
 
-@media (max-width: 560px) {
+@media (max-width: 640px) {
+  .stat-band {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem 1.25rem;
+  }
+}
+
+@media (max-width: 380px) {
   .stat-band {
     grid-template-columns: 1fr;
-    gap: 1.25rem;
   }
 }
 
@@ -713,8 +719,9 @@ mark.ph {
 .dossier__company {
   font-family: var(--font-display);
   font-weight: 600;
-  font-size: 1.15rem;
-  letter-spacing: -0.01em;
+  font-size: 1.1rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
   color: var(--ink);
 }
 
@@ -943,6 +950,24 @@ mark.ph {
 .prose code {
   font-family: var(--font-mono);
   font-size: 0.85em;
+}
+
+/* ---- speaking topics (Writing page) ---- */
+
+.topic-list {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  border-top: 1px solid var(--hairline);
+  max-width: var(--measure);
+}
+
+.topic-list li {
+  border-bottom: 1px solid var(--hairline);
+  padding-block: 0.8rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  line-height: 1.5;
 }
 
 /* ---- reading-now block (Writing page) ---- */

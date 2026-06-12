@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
-  <rect width="800" height="1000" fill="#FAFAF7"/>
-  <line x1="0" y1="0" x2="800" y2="1000" stroke="#D8D6CF" stroke-width="2"/>
-  <line x1="800" y1="0" x2="0" y2="1000" stroke="#D8D6CF" stroke-width="2"/>
-  <rect x="220" y="470" width="360" height="60" fill="#FFF3A3"/>
-  <text x="400" y="508" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="30" letter-spacing="3" fill="#14181F">PHOTO TK — CANDID</text>
-  <text x="400" y="570" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="22" letter-spacing="2" fill="#3C4350">PORTRAIT 4:5</text>
-</svg>

@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Figure from '../components/Figure.astro';
 import { SITE } from '../config';
-import candidPhoto from '../assets/photos/placeholder-candid.svg';
+import headshot from '../assets/photos/contact-headshot.png';
 
 const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
 ---
@@ -43,10 +43,9 @@ const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
           about it on the call.
         </p>
         <Figure
-          src={candidPhoto}
-          alt="Placeholder for a candid photo of Tom Vranas off the clock"
-          caption="[Candid — off the clock — real caption: where, what]"
-          pending
+          src={headshot}
+          alt="Tom Vranas"
+          caption="Tom Vranas."
         />
       </div>
 

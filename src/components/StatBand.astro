@@ -16,7 +16,7 @@ interface Props {
 const { stats } = Astro.props;
 ---
 
-<dl class="stat-band">
+<dl class="stat-band" style={`--stat-count: ${stats.length}`}>
   {
     stats.map((s) => (
       <div class="stat">

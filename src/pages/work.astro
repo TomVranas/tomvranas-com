@@ -4,8 +4,7 @@ import Ph from '../components/Ph.astro';
 import Figure from '../components/Figure.astro';
 import Dossier from '../components/Dossier.astro';
 import StatBand from '../components/StatBand.astro';
-import teamPhoto from '../assets/photos/placeholder-team.svg';
-import actionPhoto from '../assets/photos/placeholder-action.svg';
+import actionPhoto from '../assets/photos/work-action-trackrecord-talk.webp';
 
 // Role dossiers, reverse chronological. Copy verbatim from the rebuild spec.
 const roles = [
@@ -204,20 +203,6 @@ const roles = [
         first seat, and a machine that needed building or fixing &mdash; usually a problem I
         hadn&rsquo;t seen before, solved anyway. Industry changes; the job doesn&rsquo;t.
       </p>
-
-      <p class="resume-link" style="margin-top: 1.5rem;">
-        Download the full r&eacute;sum&eacute; (PDF) &rarr;
-        <Ph>[add resume.pdf to /public to activate this link]</Ph>
-      </p>
-
-      <div style="margin-top: 2.5rem;">
-        <Figure
-          src={teamPhoto}
-          alt="Placeholder for a photo of Tom Vranas with one of his operating teams"
-          caption="[Team photo — drop in src/assets/photos/, then real caption: company, team, year]"
-          pending
-        />
-      </div>
     </div>
   </section>
 
@@ -243,9 +228,10 @@ const roles = [
     <div class="container">
       <StatBand
         stats={[
-          { value: '3', label: 'Acquisitions integrated in 11 months' },
-          { value: '<1%', label: 'Customer churn through integration' },
+          { value: '<6mo', label: 'Full integration per deal' },
+          { value: '<1%', label: 'Customer churn' },
           { value: '100%', label: 'Key-employee retention' },
+          { value: '95%', label: 'Overall retention' },
         ]}
       />
     </div>
@@ -285,12 +271,11 @@ const roles = [
         revenue, and the people worth keeping.
       </p>
 
-      <div style="margin-top: 2rem;">
+      <div style="margin-top: 2rem; max-width: 360px;">
         <Figure
           src={actionPhoto}
-          alt="Placeholder for a photo of Tom Vranas leading an all-hands or integration review"
-          caption="[Action shot — all-hands / integration review — real caption: event, company, year]"
-          pending
+          alt="Tom Vranas on stage, talking through the operating track record"
+          caption="On the track record, on stage."
         />
       </div>
 
