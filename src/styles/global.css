@@ -309,37 +309,60 @@ mark.ph {
 
 .tombstones {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.25rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.1rem;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 880px) {
   .tombstones {
     grid-template-columns: repeat(2, 1fr);
     gap: 0.85rem;
   }
 
   .tombstone {
-    padding: 1.5rem 0.95rem;
+    padding: 1.5rem 0.7rem;
+  }
+
+  .tombstone__name {
+    font-size: 0.82rem;
+    letter-spacing: 0.04em;
+  }
+
+  .tombstone__outcome {
+    font-size: 0.72rem;
+  }
+
+  .tombstone__year {
+    font-size: 0.7rem;
   }
 }
 
 .tombstone {
   border: 1px solid var(--green);
-  padding: 2.2rem 1.6rem;
+  padding: 1.9rem 1.2rem;
   text-align: center;
   font-family: var(--font-mono);
   background: var(--paper);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 0.65rem;
+  /* Grid items default to min-width:auto and won't shrink below their
+     content — force them to so the 2-col mobile grid never overflows.
+     (No break-word: let transaction lines wrap whole at spaces.) */
+  min-width: 0;
+}
+
+/* The year is the card's footer data point — pin it to the bottom so it
+   aligns across a row even when transaction lines differ in length. */
+.tombstone__year {
+  margin-top: auto;
 }
 
 .tombstone__name {
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   font-weight: 600;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   color: var(--ink);
 }
 
@@ -352,14 +375,24 @@ mark.ph {
 }
 
 .tombstone__outcome {
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   letter-spacing: 0.02em;
   color: var(--slate);
 }
 
-.tombstone__role {
+.tombstone__year {
   font-size: 0.74rem;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.1em;
+  color: var(--slate);
+}
+
+.tombstones__caption {
+  max-width: none;
+  margin-top: 1.4rem;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
   color: var(--slate);
 }
 
@@ -527,9 +560,16 @@ mark.ph {
   background: var(--green-light);
 }
 
-.section--ink .tombstone__outcome,
-.section--ink .tombstone__role {
-  color: rgba(250, 250, 247, 0.68);
+.section--ink .tombstone__outcome {
+  color: rgba(250, 250, 247, 0.78);
+}
+
+.section--ink .tombstone__year {
+  color: var(--green-light);
+}
+
+.section--ink .tombstones__caption {
+  color: rgba(250, 250, 247, 0.6);
 }
 
 /* ---- stat band (fund factsheet) ---- */
