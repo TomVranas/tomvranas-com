@@ -1,6 +1,7 @@
 ---
 title: "Go forth and be…mediocre!"
 tags: ["essay"]
+category: "Personal"
 date: 2020-02-27
 slug: tom-vranas-ok-to-be-less-than-the-best
 heroImage: "/images/blog/tom-vranas-ok-to-be-less-than-the-best/photo-1581792519779-3ee29a364d17.jpeg"

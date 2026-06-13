@@ -17,37 +17,15 @@ const featured = all
   .filter((p) => p.data.featured && (p.data.tags ?? []).includes('essay'))
   .slice(0, 5);
 
-// Four pills. "Essays" is the default view (and the reset); "All" shows the
-// full unfiltered list including `hidden` posts. Each post carries a single
-// primary visibility tag in frontmatter — every post stays published and in
-// the sitemap; this only curates which rows a human sees by default.
-const PILLS = [
-  { tag: 'essay', label: 'Essays' },
-  { tag: 'bookshelf', label: 'Bookshelf' },
-  { tag: 'notes', label: 'Notes' },
-  { tag: 'all', label: 'All' },
-];
-
-const tagsFor = (post: (typeof all)[number]): string[] => post.data.tags ?? [];
-
-// Server-render the default view (first 25 essays visible) so there's no
-// flash of the full archive before the deferred filter script runs — and so
-// the curated default still works with JavaScript disabled.
-const PAGE_SIZE = 25;
-let essaySeen = 0;
-const archiveRows = all.map((post) => {
-  const tags = tagsFor(post);
-  const isEssay = tags.includes('essay');
-  let hidden = !isEssay;
-  if (isEssay) {
-    hidden = essaySeen >= PAGE_SIZE;
-    essaySeen += 1;
-  }
-  return { post, tags, hidden };
-});
-const moreHidden = essaySeen <= PAGE_SIZE;
+// The essay index shows ONLY essay-tagged posts (newest first). Bookshelf,
+// notes, and hidden posts stay published + in the sitemap but are not listed.
+const essays = all.filter((p) => (p.data.tags ?? []).includes('essay'));
 
 const clean = (s: string) => s.replace(/&nbsp;| /g, ' ').trim();
+const oneLine = (s: string | undefined) => {
+  const c = clean(s ?? '');
+  return c.length > 120 ? c.slice(0, 120).replace(/\s+\S*$/, '') + '…' : c;
+};
 ---
 
 <Base
@@ -77,7 +55,7 @@ const clean = (s: string) => s.replace(/&nbsp;| /g, ' ').trim();
           <div class="featured-grid" style="margin-top: 1.5rem;">
             {featured.map((post) => (
               <a class="featured-card" href={`/writing/${post.id}`}>
-                <h2 class="featured-card__title">{post.data.title}</h2>
+                <h2 class="featured-card__title">{clean(post.data.title)}</h2>
                 {post.data.excerpt && (
                   <p class="featured-card__excerpt">{clean(post.data.excerpt)}</p>
                 )}
@@ -89,42 +67,30 @@ const clean = (s: string) => s.replace(/&nbsp;| /g, ' ').trim();
     )
   }
 
+  <section class="quote-band">
+    <div class="container">
+      <blockquote class="quote-band__q">Fix, grow, systematize, exit.</blockquote>
+      <p class="quote-band__attr">&mdash; Field Notes</p>
+    </div>
+  </section>
+
   <section class="section">
     <div class="container">
-      <div class="tag-filter" role="group" aria-label="Filter writing by tag">
+      <ol class="essays">
         {
-          PILLS.map((pill) => (
-            <button
-              class="pill"
-              type="button"
-              data-tag={pill.tag}
-              aria-pressed={pill.tag === 'essay' ? 'true' : 'false'}
-            >
-              {pill.label}
-            </button>
-          ))
-        }
-      </div>
-
-      <ul class="archive" style="margin-top: 1.75rem;">
-        {
-          archiveRows.map(({ post, tags, hidden }) => (
-            <li class="archive__row" data-tags={tags.join(' ')} hidden={hidden}>
-              <a class="archive__title" href={`/writing/${post.id}`}>
-                {clean(post.data.title)}
+          essays.map((post, i) => (
+            <li class="essay" style={`--i: ${i}`}>
+              <a class="essay__link" href={`/writing/${post.id}`}>
+                <span class="essay__cat">{post.data.category ?? ''}</span>
+                <span class="essay__main">
+                  <span class="essay__title">{clean(post.data.title)}</span>
+                  <span class="essay__excerpt">{oneLine(post.data.excerpt)}</span>
+                </span>
               </a>
             </li>
           ))
         }
-      </ul>
-
-      <p class="archive__empty" hidden>No posts with that tag yet.</p>
-
-      <div class="archive__more">
-        <button class="btn btn--ghost" type="button" id="load-more" hidden={moreHidden}>
-          Load more
-        </button>
-      </div>
+      </ol>
 
       <p class="reading-now-link">
         Reading now &mdash;
@@ -143,9 +109,9 @@ const clean = (s: string) => s.replace(/&nbsp;| /g, ' ').trim();
             I write about.
           </p>
           <ul class="topic-list">
-            <li><Ph>[Topic 1 &mdash; e.g., Why PE doesn&rsquo;t fail at close]</Ph></li>
-            <li><Ph>[Topic 2 &mdash; e.g., Installing an operating system a leadership team actually keeps]</Ph></li>
-            <li><Ph>[Topic 3 &mdash; e.g., The case for the generalist operator]</Ph></li>
+            <li>PE Doesn&rsquo;t Fail at Close &mdash; why the value gets won or lost in the eighteen months after.</li>
+            <li>Installing an Operating System Your Leadership Team Actually Keeps.</li>
+            <li>The Corporate Fixer &mdash; why your hardest problems don&rsquo;t need a specialist.</li>
           </ul>
           <p style="margin-top: 1.75rem;">
             For availability:
@@ -166,53 +132,3 @@ const clean = (s: string) => s.replace(/&nbsp;| /g, ' ').trim();
     </div>
   </section>
 </Base>
-
-<script>
-  // /writing archive: tag filter + load-more pagination. No-JS users see the
-  // full list. Keeps the page fast as the archive grows past 25 rows.
-  const PAGE = 25;
-  const archive = document.querySelector<HTMLElement>('.archive');
-  const pills = Array.from(document.querySelectorAll<HTMLButtonElement>('.tag-filter .pill'));
-  const moreBtn = document.querySelector<HTMLButtonElement>('#load-more');
-  const empty = document.querySelector<HTMLElement>('.archive__empty');
-
-  if (archive && moreBtn && empty) {
-    const rows = Array.from(archive.querySelectorAll<HTMLElement>('.archive__row'));
-    let activeTag = 'essay';
-    let shown = PAGE;
-
-    const matches = (row: HTMLElement) =>
-      activeTag === 'all' || (row.dataset.tags ?? '').split(' ').includes(activeTag);
-
-    const render = () => {
-      let visible = 0;
-      rows.forEach((row) => {
-        if (matches(row) && visible < shown) {
-          row.hidden = false;
-          visible++;
-        } else {
-          row.hidden = true;
-        }
-      });
-      const total = rows.filter(matches).length;
-      moreBtn.hidden = total <= shown;
-      empty.hidden = total > 0;
-    };
-
-    pills.forEach((pill) => {
-      pill.addEventListener('click', () => {
-        activeTag = pill.dataset.tag ?? 'all';
-        shown = PAGE;
-        pills.forEach((p) => p.setAttribute('aria-pressed', String(p === pill)));
-        render();
-      });
-    });
-
-    moreBtn.addEventListener('click', () => {
-      shown += PAGE;
-      render();
-    });
-
-    render();
-  }
-</script>

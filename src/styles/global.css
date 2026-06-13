@@ -1161,97 +1161,143 @@ mark.ph {
   overflow: hidden;
 }
 
-/* ---- writing index: tag filter ---- */
+/* ---- writing: pull-quote band ---- */
 
-.tag-filter {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.pill {
-  appearance: none;
-  background: none;
-  border: 1px solid var(--hairline);
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--slate);
-  padding: 0.4rem 0.8rem;
-  cursor: pointer;
-  transition:
-    background 0.15s ease,
-    color 0.15s ease,
-    border-color 0.15s ease;
-}
-
-.pill[aria-pressed='true'] {
+.quote-band {
   background: var(--ink);
-  border-color: var(--ink);
+  padding-block: 5rem;
+  text-align: center;
+}
+
+.quote-band__q {
+  margin: 0;
+  max-width: none;
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+  line-height: 1.2;
+  letter-spacing: -0.01em;
   color: var(--paper);
 }
 
-@media (hover: hover) {
-  .pill:not([aria-pressed='true']):hover {
-    border-color: var(--green);
-    color: var(--green);
-  }
+.quote-band__attr {
+  margin-top: 1.25rem;
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--green-light);
 }
 
-.pill:focus-visible {
-  outline: 2px solid var(--green);
-  outline-offset: 2px;
-}
+/* ---- writing: category-spine essay index (signature) ---- */
 
-/* ---- writing index: archive ledger ---- */
-
-.archive {
+.essays {
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding: 0;
   border-top: 1px solid var(--hairline);
 }
 
-.archive__row {
+.essay {
   border-bottom: 1px solid var(--hairline);
-  padding-block: 0.85rem;
 }
 
-.archive__title {
+.essay__link {
+  display: grid;
+  grid-template-columns: 1.5rem minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+  padding-block: 1.75rem;
+  text-decoration: none;
+  color: var(--slate);
+  transition: transform 0.12s ease;
+}
+
+/* Vertical green spine down the left edge — echoes the dossier/tombstone rails. */
+.essay__cat {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--green);
+  padding-top: 0.1rem;
+}
+
+.essay__main {
+  min-width: 0;
+}
+
+.essay__title {
+  display: block;
   font-family: var(--font-display);
   font-weight: 600;
-  font-size: 1.02rem;
-  line-height: 1.35;
+  font-size: clamp(1.3rem, 2.6vw, 1.7rem);
+  line-height: 1.2;
+  letter-spacing: -0.01em;
   color: var(--ink);
-  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.essay__excerpt {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-top: 0.5rem;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--slate);
+}
+
+/* Tactile press (fires on mobile tap) + desktop hover. */
+.essay__link:active {
+  transform: translateY(1px);
+}
+
+.essay__link:active .essay__title {
+  color: var(--green);
 }
 
 @media (hover: hover) {
-  .archive__title:hover {
+  .essay__link:hover .essay__title {
     color: var(--green);
   }
 }
 
-.archive__empty {
-  margin-top: 1.5rem;
-  color: var(--slate);
+/* Mobile: no rotation — category becomes a horizontal kicker above the title. */
+@media (max-width: 767px) {
+  .essay__link {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+  }
+
+  .essay__cat {
+    writing-mode: horizontal-tb;
+    margin-bottom: 0.45rem;
+  }
 }
 
-.archive__more {
-  margin-top: 1.75rem;
-}
+/* One-time staggered entrance on load; static for reduced-motion users. */
+@media (prefers-reduced-motion: no-preference) {
+  .essay {
+    opacity: 0;
+    animation: essay-in 0.5s ease forwards;
+    animation-delay: calc(var(--i, 0) * 40ms);
+  }
 
-.btn--ghost {
-  background: none;
-  color: var(--green);
-  border-color: var(--hairline);
-}
-
-.btn--ghost:hover {
-  background: var(--ink);
-  color: var(--paper);
-  border-color: var(--ink);
+  @keyframes essay-in {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
 }
 
 /* ---- article (blog post) ---- */

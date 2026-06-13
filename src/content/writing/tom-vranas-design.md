@@ -1,6 +1,7 @@
 ---
 title: "Does Design...Matter?"
 tags: ["essay"]
+category: "Culture"
 date: 2019-02-13
 slug: tom-vranas-design
 heroImage: "/images/blog/tom-vranas-design/pencil-education-pencil-sharpener-art-159731.jpeg"

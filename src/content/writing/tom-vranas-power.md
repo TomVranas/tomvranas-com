@@ -1,6 +1,7 @@
 ---
 title: "The New Laws of Power and Leadership"
 tags: ["essay"]
+category: "Leadership"
 date: 2019-03-13
 slug: tom-vranas-power
 heroImage: "/images/blog/tom-vranas-power/photo-1519741347686-c1e0aadf4611.jpeg"

@@ -13,6 +13,9 @@ const writing = defineCollection({
     // Optional tags for the /writing filter. When absent, the index derives a
     // best-guess tag from the title/excerpt; Tom refines by adding this field.
     tags: z.array(z.string()).optional(),
+    // Editorial category for the essay index spine (Operating / Leadership /
+    // Culture / Personal). Only essays use it; Tom can refine per post.
+    category: z.string().optional(),
     // Featured posts surface in the "Selected" strip at the top of /writing.
     // Every post still builds at its own URL and appears in the full archive
     // ledger; featured just promotes it. Migrated archive posts default false.

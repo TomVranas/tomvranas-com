@@ -1,6 +1,7 @@
 ---
 title: "Pick Up The Damn Phone!"
 tags: ["essay"]
+category: "Leadership"
 date: 2019-02-20
 slug: tom-vranas-pick-up-the-damn-phone
 heroImage: "/images/blog/tom-vranas-pick-up-the-damn-phone/phone-old-year-built-1955-bakelite-163007.jpeg"
