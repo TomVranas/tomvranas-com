@@ -1,6 +1,6 @@
 ---
 title: "Top 4 Lessons from My Entrepreneurial Journey"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: top-4-lessons-from-my-entrepreneurial-journey
 heroImage: "/images/blog/top-4-lessons-from-my-entrepreneurial-journey/image-hero.jpg"

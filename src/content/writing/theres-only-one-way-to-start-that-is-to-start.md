@@ -1,6 +1,6 @@
 ---
 title: "There’s Only One Way To Start."
-tags: ["essay", "operating"]
+tags: ["hidden"]
 date: 2017-06-06
 slug: theres-only-one-way-to-start-that-is-to-start
 heroImage: "/images/blog/theres-only-one-way-to-start-that-is-to-start/007.jpg"

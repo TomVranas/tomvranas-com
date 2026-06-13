@@ -1,6 +1,6 @@
 ---
 title: "The Future of Work: How Automation and AI Will Redefine Our Jobs"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: the-future-of-work-how-automation-and-ai-will-redefine-our-jobs
 heroImage: "/images/blog/the-future-of-work-how-automation-and-ai-will-redefine-our-jobs/image-hero.jpg"

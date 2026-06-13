@@ -1,6 +1,6 @@
 ---
 title: "Read To Live. Live to Read."
-tags: ["essay", "personal"]
+tags: ["essay"]
 date: 2019-04-10
 slug: tom-vranas-reading-as-a-habit
 heroImage: "/images/blog/tom-vranas-reading-as-a-habit/pexels-photo-448835.jpeg"

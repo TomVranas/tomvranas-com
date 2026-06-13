@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness in Business: How Meditation and Mindfulness Practices Can Enhance Leadership"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: mindfulness-in-business-how-meditation-and-mindfulness-practices-can-enhance-leadership
 heroImage: "/images/blog/mindfulness-in-business-how-meditation-and-mindfulness-practices-can-enhance-leadership/image-hero.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Saying Yes to Life...and No to Normal"
-tags: ["essay", "personal"]
+tags: ["essay"]
 date: 2019-03-19
 slug: tom-vranas-no-to-normal
 heroImage: "/images/blog/tom-vranas-no-to-normal/gasoline-pump-normal-1417953.jpg"

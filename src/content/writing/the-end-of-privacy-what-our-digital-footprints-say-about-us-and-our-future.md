@@ -1,6 +1,6 @@
 ---
 title: "The End of Privacy: What Our Digital Footprints Say About Us and Our Future"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: the-end-of-privacy-what-our-digital-footprints-say-about-us-and-our-future
 heroImage: "/images/blog/the-end-of-privacy-what-our-digital-footprints-say-about-us-and-our-future/image-hero.jpg"

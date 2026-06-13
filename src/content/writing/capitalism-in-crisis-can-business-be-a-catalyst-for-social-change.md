@@ -1,6 +1,6 @@
 ---
 title: "Capitalism in Crisis: Can Business Be a Catalyst for Social Change?"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: capitalism-in-crisis-can-business-be-a-catalyst-for-social-change
 heroImage: "/images/blog/capitalism-in-crisis-can-business-be-a-catalyst-for-social-change/image-hero.jpg"

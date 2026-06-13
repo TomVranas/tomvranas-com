@@ -1,6 +1,6 @@
 ---
 title: "The Evolving Role of Leadership: From Command and Control to Empowerment and Collaboration"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: the-evolving-role-of-leadership-from-command-and-control-to-empowerment-and-collaboration
 heroImage: "/images/blog/the-evolving-role-of-leadership-from-command-and-control-to-empowerment-and-collaboration/image-hero.jpg"

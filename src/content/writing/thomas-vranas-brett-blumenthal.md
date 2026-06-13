@@ -6,7 +6,7 @@ slug: thomas-vranas-brett-blumenthal
 heroImage: "/images/blog/thomas-vranas-brett-blumenthal/vranas-blumenthal.jpg"
 excerpt: "Executive Bookshelf: A Whole New You Brett Blumenthal"
 ---
-![](/images/blog/thomas-vranas-brett-blumenthal/vranas-blumenthal.jpg)
+
 
 Brett Blumenthal’s "A Whole New You" offers a pragmatic and insightful guide to personal transformation. Blumenthal breaks down the often-daunting process of change into six manageable steps, making it accessible and achievable for anyone. Her approach is refreshingly straightforward, blending psychological insights with practical advice. Whether you're looking to improve your health, career, or relationships, Blumenthal’s strategies can help you ignite lasting change.
 

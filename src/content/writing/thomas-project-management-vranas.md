@@ -1,6 +1,6 @@
 ---
 title: "Project Management Made Easy!"
-tags: ["essay", "operating"]
+tags: ["hidden"]
 date: 2017-07-11
 slug: thomas-project-management-vranas
 heroImage: "/images/blog/thomas-project-management-vranas/beatles-abbey-road.jpg"

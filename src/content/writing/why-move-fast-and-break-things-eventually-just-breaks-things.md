@@ -1,6 +1,6 @@
 ---
 title: "Why “Move Fast and Break Things” Eventually Just Breaks Things"
-tags: ["essay", "operating"]
+tags: ["essay"]
 date: 2025-12-02
 slug: why-move-fast-and-break-things-eventually-just-breaks-things
 heroImage: "/images/blog/why-move-fast-and-break-things-eventually-just-breaks-things/1.png"
@@ -10,8 +10,6 @@ featured: true
 **Turning Momentum into Maturity Without Killing Your Company’s Soul.**
 
 Everyone loves "Day 1."
-
-![](/images/blog/why-move-fast-and-break-things-eventually-just-breaks-things/1.png)
 
 Day 1 is the press release. It’s the funding announcement. It’s the shiny new logo and the vision that’s going to change the world. Day 1 is pure adrenaline.
 

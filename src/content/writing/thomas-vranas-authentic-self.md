@@ -1,6 +1,6 @@
 ---
 title: "The Best You Can Be....is You.  Be Your Authentic Self."
-tags: ["essay", "culture"]
+tags: ["essay"]
 date: 2018-01-16
 slug: thomas-vranas-authentic-self
 heroImage: "/images/blog/thomas-vranas-authentic-self/AAEAAQAAAAAAAAi_AAAAJDNmMTAxMDVjLTM3YWEtNDFmMi05MzMzLWY3ZDUyODlkMTVmOQ.jpg"

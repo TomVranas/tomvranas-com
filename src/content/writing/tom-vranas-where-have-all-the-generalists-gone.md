@@ -1,6 +1,6 @@
 ---
 title: "Where Have All The Generalists Gone?"
-tags: ["essay", "operating"]
+tags: ["essay"]
 date: 2021-06-10
 slug: tom-vranas-where-have-all-the-generalists-gone
 heroImage: "/images/blog/tom-vranas-where-have-all-the-generalists-gone/adams-general-store-216193_1280.jpg"

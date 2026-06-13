@@ -12,23 +12,20 @@ const all = (await getCollection('writing')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 );
 
-// "Selected" strip: up to six posts Tom flags featured: true.
-const featured = all.filter((p) => p.data.featured).slice(0, 6);
+// "Selected" strip: featured essays only, newest first, capped at five.
+const featured = all
+  .filter((p) => p.data.featured && (p.data.tags ?? []).includes('essay'))
+  .slice(0, 5);
 
-// Tag pills for the archive filter. "Essays" is the default view (and the
-// reset); "Everything" shows the full unfiltered list. Tags live in each
-// post's frontmatter — every post stays published and in the sitemap; this
-// only curates which rows a human sees by default.
+// Four pills. "Essays" is the default view (and the reset); "All" shows the
+// full unfiltered list including `hidden` posts. Each post carries a single
+// primary visibility tag in frontmatter — every post stays published and in
+// the sitemap; this only curates which rows a human sees by default.
 const PILLS = [
   { tag: 'essay', label: 'Essays' },
-  { tag: 'operating', label: 'Operating' },
-  { tag: 'leadership', label: 'Leadership' },
-  { tag: 'integration', label: 'Integration' },
-  { tag: 'culture', label: 'Culture' },
-  { tag: 'personal', label: 'Personal' },
   { tag: 'bookshelf', label: 'Bookshelf' },
   { tag: 'notes', label: 'Notes' },
-  { tag: 'all', label: 'Everything' },
+  { tag: 'all', label: 'All' },
 ];
 
 const tagsFor = (post: (typeof all)[number]): string[] => post.data.tags ?? [];
@@ -51,10 +48,6 @@ const archiveRows = all.map((post) => {
 const moreHidden = essaySeen <= PAGE_SIZE;
 
 const clean = (s: string) => s.replace(/&nbsp;| /g, ' ').trim();
-const fmtCard = (d: Date) =>
-  d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
-const fmtLedger = (d: Date) =>
-  `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
 ---
 
 <Base
@@ -84,9 +77,6 @@ const fmtLedger = (d: Date) =>
           <div class="featured-grid" style="margin-top: 1.5rem;">
             {featured.map((post) => (
               <a class="featured-card" href={`/writing/${post.id}`}>
-                <time class="featured-card__date" datetime={post.data.date.toISOString()}>
-                  {fmtCard(post.data.date)}
-                </time>
                 <h2 class="featured-card__title">{post.data.title}</h2>
                 {post.data.excerpt && (
                   <p class="featured-card__excerpt">{clean(post.data.excerpt)}</p>
@@ -120,9 +110,6 @@ const fmtLedger = (d: Date) =>
         {
           archiveRows.map(({ post, tags, hidden }) => (
             <li class="archive__row" data-tags={tags.join(' ')} hidden={hidden}>
-              <time class="archive__date" datetime={post.data.date.toISOString()}>
-                {fmtLedger(post.data.date)}
-              </time>
               <a class="archive__title" href={`/writing/${post.id}`}>
                 {clean(post.data.title)}
               </a>

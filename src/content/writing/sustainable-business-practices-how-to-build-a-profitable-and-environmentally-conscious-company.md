@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Business Practices: How to Build a Profitable and Environmentally Conscious Company"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: sustainable-business-practices-how-to-build-a-profitable-and-environmentally-conscious-company
 heroImage: "/images/blog/sustainable-business-practices-how-to-build-a-profitable-and-environmentally-conscious-company/image-hero.jpg"

@@ -8,8 +8,6 @@ excerpt: "Executive Bookshelf: Bullshit Jobs David Graeber"
 ---
 ## Synopsis
 
-![51WI7LXn1IL.\_SX329\_BO1,204,203,200\_.jpg](/images/blog/thomas-vranas-bullshit-jobs/51WI7LXn1IL._SX329_BO1-2C204-2C203-2C200_.jpg)
-
 Does your job make a meaningful contribution to the world? In the spring of 2013, David Graeber asked this question in a playful, provocative essay titled “On the Phenomenon of Bullshit Jobs.” It went viral. After a million online views in seventeen different languages, people all over the world are still debating the answer.  
   
 There are millions of people—HR consultants, communication coordinators, telemarketing researchers, corporate lawyers—whose jobs are useless, and, tragically, they know it. These people are caught in bullshit jobs.  

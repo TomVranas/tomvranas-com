@@ -1,6 +1,6 @@
 ---
 title: "Serve Your Customer, Save Your Company"
-tags: ["essay", "operating"]
+tags: ["essay"]
 date: 2019-04-03
 slug: serve-your-customer-save-your-company
 heroImage: "/images/blog/serve-your-customer-save-your-company/customer-experience-3024488_960_720.jpg"

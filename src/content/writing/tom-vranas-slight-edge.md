@@ -1,6 +1,6 @@
 ---
 title: "Giving Yourself The Slight Edge"
-tags: ["essay", "operating"]
+tags: ["essay"]
 date: 2019-01-29
 slug: tom-vranas-slight-edge
 heroImage: "/images/blog/tom-vranas-slight-edge/pexels-photo-915972.jpeg"

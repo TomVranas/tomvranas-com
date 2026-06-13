@@ -1,6 +1,6 @@
 ---
 title: "Reinventing Organizations"
-tags: ["essay", "operating"]
+tags: ["essay"]
 date: 2019-01-22
 slug: tom-vranas-organizational-structures
 heroImage: "/images/blog/tom-vranas-organizational-structures/ReinventingOrganizationsImage-1024.jpg"
@@ -12,8 +12,6 @@ I never took much time to think through the soul of an organization. While readi
 Since the start of time we've seen a shift through different paradigms of organizations. These organizations can be grouped into bands of colors based on similar traits:
 
 View fullsize
-
-![ReinventingOrganizationsImage-1024.jpg](/images/blog/tom-vranas-organizational-structures/ReinventingOrganizationsImage-1024.jpg)
 
 -   **Infrared** - Reactive : small bands of kinship, no distinction from the pack/herd.
     

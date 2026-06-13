@@ -6,7 +6,7 @@ slug: thomas-vranas-steven-d-levitt
 heroImage: "/images/blog/thomas-vranas-steven-d-levitt/71bRoOZGOtL._AC_UF1000-2C1000_QL80_.jpg"
 excerpt: "Executive Bookshelf: SuperFreakonomics Steven D. Levitt and Stephen J. Dubner"
 ---
-![](/images/blog/thomas-vranas-steven-d-levitt/71bRoOZGOtL._AC_UF1000-2C1000_QL80_.jpg)
+
 
 "SuperFreakonomics" is the follow-up to the wildly successful "Freakonomics," and it doesn't disappoint. Levitt and Dubner once again challenge conventional wisdom with their unique brand of economics, tackling topics ranging from climate change to altruism. Their irreverent and engaging style makes complex economic concepts accessible and entertaining.
 

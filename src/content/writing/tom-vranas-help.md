@@ -1,6 +1,6 @@
 ---
 title: "How Do You Help?"
-tags: ["essay", "operating"]
+tags: ["essay"]
 date: 2019-03-06
 slug: tom-vranas-help
 heroImage: "/images/blog/tom-vranas-help/pexels-photo-167964.jpeg"

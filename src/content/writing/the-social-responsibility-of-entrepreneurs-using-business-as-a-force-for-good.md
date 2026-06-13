@@ -1,6 +1,6 @@
 ---
 title: "The Social Responsibility of Entrepreneurs: Using Business as a Force for Good"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: the-social-responsibility-of-entrepreneurs-using-business-as-a-force-for-good
 heroImage: "/images/blog/the-social-responsibility-of-entrepreneurs-using-business-as-a-force-for-good/image-hero.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Reimagining Education: Preparing the Next Generation for a Rapidly Changing World"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: reimagining-education-preparing-the-next-generation-for-a-rapidly-changing-world
 heroImage: "/images/blog/reimagining-education-preparing-the-next-generation-for-a-rapidly-changing-world/image-hero.jpg"

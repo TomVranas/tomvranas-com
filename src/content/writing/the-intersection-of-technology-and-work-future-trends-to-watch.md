@@ -1,6 +1,6 @@
 ---
 title: "The Intersection of Technology and Work: Future Trends to Watch"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: the-intersection-of-technology-and-work-future-trends-to-watch
 heroImage: "/images/blog/the-intersection-of-technology-and-work-future-trends-to-watch/image-hero.jpg"

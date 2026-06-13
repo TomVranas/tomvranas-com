@@ -1,6 +1,6 @@
 ---
 title: "People Matter.  Know Thy Team and Be HUMAN!"
-tags: ["essay", "leadership", "culture"]
+tags: ["hidden"]
 date: 2017-11-07
 slug: thomas-vranas-know-your-team
 heroImage: "/images/blog/thomas-vranas-know-your-team/Event_3126.jpg"

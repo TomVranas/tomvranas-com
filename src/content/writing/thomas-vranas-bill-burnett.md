@@ -6,7 +6,7 @@ slug: thomas-vranas-bill-burnett
 heroImage: "/images/blog/thomas-vranas-bill-burnett/51L5hQ2mFdL._AC_UF1000-2C1000_QL80_.jpg"
 excerpt: "Executive Bookshelf: Designing Your Life Bill Burnett"
 ---
-![](/images/blog/thomas-vranas-bill-burnett/51L5hQ2mFdL._AC_UF1000-2C1000_QL80_.jpg)
+
 
 Bill Burnett's "Designing Your Life" offers a novel approach to life planning based on design thinking principles. Burnett, a Stanford design professor, provides practical tools and exercises for applying design thinking to personal and professional challenges. The book encourages readers to view their lives as malleable prototypes that can be iteratively improved.
 

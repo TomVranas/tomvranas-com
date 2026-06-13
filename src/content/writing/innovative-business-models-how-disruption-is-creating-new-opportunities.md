@@ -1,6 +1,6 @@
 ---
 title: "Innovative Business Models: How Disruption Is Creating New Opportunities"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: innovative-business-models-how-disruption-is-creating-new-opportunities
 heroImage: "/images/blog/innovative-business-models-how-disruption-is-creating-new-opportunities/image-hero.jpg"

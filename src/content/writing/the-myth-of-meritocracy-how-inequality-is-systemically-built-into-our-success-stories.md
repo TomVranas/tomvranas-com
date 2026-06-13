@@ -1,6 +1,6 @@
 ---
 title: "The Myth of Meritocracy: How Inequality is Systemically Built Into Our Success Stories"
-tags: ["notes"]
+tags: ["hidden"]
 date: 2024-08-12
 slug: the-myth-of-meritocracy-how-inequality-is-systemically-built-into-our-success-stories
 heroImage: "/images/blog/the-myth-of-meritocracy-how-inequality-is-systemically-built-into-our-success-stories/image-hero.jpg"

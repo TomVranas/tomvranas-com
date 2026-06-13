@@ -1,6 +1,6 @@
 ---
 title: "Virtuous Working While Working Virtually"
-tags: ["essay", "operating"]
+tags: ["essay"]
 date: 2020-12-02
 slug: tom-vranas-work-from-home
 heroImage: "/images/blog/tom-vranas-work-from-home/1.jpg"
@@ -8,8 +8,6 @@ excerpt: "What happens when work becomes...work? With almost everyone working fr
 featured: true
 ---
 What \*feels\* like years ago, creating a positive company culture and happy engaged employees was an aspiration of most companies. Most companies equated building culture to building “perks” at the office.
-
-![1.jpg](/images/blog/tom-vranas-work-from-home/1.jpg)
 
 Take my company- we completed an 8-month gut rehab of a huge vintage office space in the trendy Fulton Market. All the employees lived through a terrible eight months of dust, noise, and distractions with the promise of an incredible new space. From the designer kitchen with plenty of room to eat together, to the private courtyard that was ready for cocktail parties, and cool new conference rooms, we are so proud of this new home (and can't wait to get back!)
 
