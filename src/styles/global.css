@@ -249,14 +249,6 @@ mark.ph {
   letter-spacing: 0.02em;
 }
 
-.site-header.is-condensed .site-header__name {
-  display: none;
-}
-
-.site-header.is-condensed .site-header__monogram {
-  display: inline;
-}
-
 .site-nav {
   justify-self: center;
   display: flex;
