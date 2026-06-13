@@ -27,19 +27,6 @@ const hasAnalytics = !SITE.analyticsToken.startsWith('{{');
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script is:inline>
-      // Netlify Identity invite / recovery emails land on the site root with
-      // the token in the URL hash. Forward those (and only those) links to the
-      // dedicated /admin/login.html page, which hosts the Identity widget and
-      // opens the set-password / recovery dialog. Normal visitors never run
-      // anything beyond this cheap hash check.
-      (function () {
-        var h = window.location.hash;
-        if (/\b(invite_token|recovery_token|email_change_token)=/.test(h)) {
-          window.location.replace('/admin/login.html' + h);
-        }
-      })();
-    </script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />

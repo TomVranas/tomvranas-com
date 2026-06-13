@@ -1,8 +1,0 @@
-# Netlify reads this on connect, so build settings are auto-filled —
-# no manual configuration in the dashboard.
-[build]
-  command = "npm run build"
-  publish = "dist"
-
-[build.environment]
-  NODE_VERSION = "22"
