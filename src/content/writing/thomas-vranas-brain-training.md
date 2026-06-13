@@ -33,7 +33,7 @@ I’ve found 3 apps that are easy to use, quick (a few minutes, usually when I�
 
 ![thomas vranas supes chicago](/images/blog/thomas-vranas-brain-training/image-1.jpg)
 
-Among the apps here, Elevate takes the most practical approach. According to the founders, “we think of brain training as a way to improve concrete skills for everyday life.  Our games are designed to target specific problems people have, like trouble calculating a tip or difficulty writing a clear email to a colleague. They work because they focus on a specific task and offer step-by-step instructions for improving your performance."
+Among the apps here, Elevate takes the most practical approach. According to the founders, “we think of brain training as a way to improve concrete skills for everyday life.  Our games are designed to target specific problems people have, like trouble calculating a tip or difficulty writing a clear email to a colleague. They work because they focus on a specific task and offer step-by-step instructions for improving your performance."
 
 Backing up the app is a study that shows individuals using Elevate did 69% better on a performance test than non-users—and more training meant more improvement.
 
@@ -77,4 +77,4 @@ Price for full access: 1 month for $4.99, 1 year for $34.99
 
 * * *
 
-Whether you believe the hype or not, one thing is for sure.  These apps won’t make you a Nobel laureate, but certainly won’t hurt. Isn’t that chance for some cognition growth a reason to at least give it a shot?  I say yes!
+Whether you believe the hype or not, one thing is for sure.  These apps won’t make you a Nobel laureate, but certainly won’t hurt. Isn’t that chance for some cognition growth a reason to at least give it a shot?  I say yes!

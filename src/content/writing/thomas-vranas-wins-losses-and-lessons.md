@@ -11,7 +11,7 @@ excerpt: "Wins, Losses, and Lessons: An Autobiography Lou Holtz"
 
 — Lou Holtz
 
-Few people in the history of college sports have been more influential or had a bigger impact than Lou Holtz. Winner of the three national Coach of the Year honors, the only coach ever to lead six different schools to season-ending bowl games, and the ninth-winningest coach in college football history, Holtz is still teaching and coaching, although he is no longer on the gridiron. 
+Few people in the history of college sports have been more influential or had a bigger impact than Lou Holtz. Winner of the three national Coach of the Year honors, the only coach ever to lead six different schools to season-ending bowl games, and the ninth-winningest coach in college football history, Holtz is still teaching and coaching, although he is no longer on the gridiron. 
 
 ![thomas vranas supes chicago](/images/blog/thomas-vranas-wins-losses-and-lessons/image-0.jpg)
 
@@ -21,9 +21,9 @@ His is a storied career, and Holtz provides a frank and inside look at the chall
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-I’ve been a casual fan of Lou Holtz most of my life. Having grown up a few hours from Notre Dame, his shadow lingered large in Chicagoland.   I didn’t know much about his backstory or his incredible thoughtfulness on leadership until reading this book.  He’s a kind and gentle soul with an outrageous ability to motivate through honesty and wit. He’s a simple guy, with some simple rules, but shows that hard work and humility can make huge impacts on teams.
+I’ve been a casual fan of Lou Holtz most of my life. Having grown up a few hours from Notre Dame, his shadow lingered large in Chicagoland.   I didn’t know much about his backstory or his incredible thoughtfulness on leadership until reading this book.  He’s a kind and gentle soul with an outrageous ability to motivate through honesty and wit. He’s a simple guy, with some simple rules, but shows that hard work and humility can make huge impacts on teams.
 
 * * *
 

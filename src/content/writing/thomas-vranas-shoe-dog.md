@@ -21,9 +21,9 @@ Together, harnessing the electrifying power of a bold vision and a shared belief
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Growing up in Chicago in the years of the Bulls dynasty meant one thing.  Air Jordan.  Michael Jordan was everywhere you looked in Chicago- and wherever Jordan went, so to did the Nike swoosh.  Reading the unlikely and almost unwanted start of Nike was inspirational.  Phil Knight started out wanted to import shoes (ASICS, nonetheless), but soon found out that he needed to do something bold to stay alive.  With a waffle maker, gumption and a little luck, Nike came to be.  This read shows an incredible journey of an unlikely entrepreneur from a scrappy kid into a shoe mogul.
+Growing up in Chicago in the years of the Bulls dynasty meant one thing.  Air Jordan.  Michael Jordan was everywhere you looked in Chicago- and wherever Jordan went, so to did the Nike swoosh.  Reading the unlikely and almost unwanted start of Nike was inspirational.  Phil Knight started out wanted to import shoes (ASICS, nonetheless), but soon found out that he needed to do something bold to stay alive.  With a waffle maker, gumption and a little luck, Nike came to be.  This read shows an incredible journey of an unlikely entrepreneur from a scrappy kid into a shoe mogul.
 
 * * *
 

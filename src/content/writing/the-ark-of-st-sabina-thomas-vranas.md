@@ -17,7 +17,7 @@ It’s become an epidemic in our fair city. Unfortunately, it seems as if the po
 
 There are areas in Chicago that become known as shooting gallery neighborhoods. Austin, Englewood, Garfield Park and Lawndale have the unfortunate honor of leading Chicago in violence.
 
-## After hearing this news, I knew I needed to get involved.
+## After hearing this news, I knew I needed to get involved.
 
 I was lucky enough to meet an incredible man and mission.
 
@@ -31,7 +31,7 @@ St. Sabina has become the leader in outreach in Englewood and throughout the cit
 
 ## I knew right away that I wanted to work at The ARK.
 
-”The ARK” symbolizes a safe haven for at-risk youth.  From education to employment, The ARK offers a vast array of free programs for youth and young adults ages 6-28.  The ARK serves over 600 youth annually at no cost to them and their families. Participants come from a 15-mile radius to attend the incredible programming.
+”The ARK” symbolizes a safe haven for at-risk youth.  From education to employment, The ARK offers a vast array of free programs for youth and young adults ages 6-28.  The ARK serves over 600 youth annually at no cost to them and their families. Participants come from a 15-mile radius to attend the incredible programming.
 
 Students go to the ARK after school for 4-5 hours. This time includes social time, recreation time, mandatory homework time, tutoring, reading, computers, dance, photography, music....the list goes on and on.
 

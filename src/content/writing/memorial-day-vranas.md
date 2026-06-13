@@ -6,13 +6,13 @@ heroImage: "/images/blog/memorial-day-vranas/IMG_1534.JPG"
 excerpt: "We honor those who died, so that we may be free."
 featured: true
 ---
-The following poem was written by Irish poet, W. B. Yeats. I randomly selected this poem as the topic of a lengthy English study and it has always given me a reason to pause and contemplate the dedication of our nation's military personnel. 
+The following poem was written by Irish poet, W. B. Yeats. I randomly selected this poem as the topic of a lengthy English study and it has always given me a reason to pause and contemplate the dedication of our nation's military personnel. 
 
 The picture contains a select number of mementos from my ancestors that served in the armed forces. Having these on hand and prominently displayed serves as constant reminder of their bravery.
 
 * * *
 
-#  **Wishing you and yours a safe Memorial Day 2017.**
+#  **Wishing you and yours a safe Memorial Day 2017.**
 
 View fullsize
 
@@ -20,7 +20,7 @@ View fullsize
 
 * * *
 
-## An Irish Airman Foresees His Death  
+## An Irish Airman Foresees His Death  
 
 _I KNOW that I shall meet my fate  
 Somewhere among the clouds above;  

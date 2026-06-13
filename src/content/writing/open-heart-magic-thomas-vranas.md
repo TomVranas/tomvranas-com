@@ -3,7 +3,7 @@ title: "#Volunteer Spotlight : Open Heart Magic - @OpenHeartMagic"
 date: 2017-09-21
 slug: open-heart-magic-thomas-vranas
 heroImage: "/images/blog/open-heart-magic-thomas-vranas/twitter-ICON.jpg"
-excerpt: "Providing therapeutic Bedside Magic to kids in children's hospitals.&nbsp;"
+excerpt: "Providing therapeutic Bedside Magic to kids in children's hospitals. "
 ---
 I’ve always been fascinated by magic. As someone who is analytical, the chance to have my mind blown by an impossible trick was always a welcome distraction from my dominant left-brain.
 

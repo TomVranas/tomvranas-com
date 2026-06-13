@@ -23,13 +23,13 @@ Instead of lags to get support, All Chicago aids in pivotal moments. They give c
 
 I got to know this great organization when it was a separate NFP called The Emergency Fund. They had the foresight to join forces with another group working towards the same goal. This merger made the collective All Chicago an incredible force to combat the issues that plague our city.
 
-On any given night, 6,000 Chicagoans don’t have a place to call home. Tens of thousands more are one unexpected setback away from joining them. All Chicago believes that these are our neighbors, this is our community, and together we can ensure that all of us have stable and secure homes.
+On any given night, 6,000 Chicagoans don’t have a place to call home. Tens of thousands more are one unexpected setback away from joining them. All Chicago believes that these are our neighbors, this is our community, and together we can ensure that all of us have stable and secure homes.
 
 ## **All Chicago combines immediate resources with long term strategies to address the complex issue of homelessness.**
 
 -   The Emergency Fund program provides critical financial assistance to people experiencing an emergency that could lead to homelessness or other crises.
 -   The Chicago Alliance program analyzes, recommends, and collaboratively implements sustainable housing solutions for Chicago.
--   The Learning Center program researches leading practices and offers educational opportunities for all those working to end homelessness. 
+-   The Learning Center program researches leading practices and offers educational opportunities for all those working to end homelessness. 
 
 * * *
 

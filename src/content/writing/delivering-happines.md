@@ -23,9 +23,9 @@ In his first book, Tony shares the different business lessons he learned in life
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Another Silicon Valley success story, but with an incredibly moving twist.  Behind Amazon, Zappos is one of the only companies I will go back to again and again – and now I know some of the magic sauce coming from their headquarters in Las Vegas. Tony Hsieh has some nerve suggesting that he built a billion dollar company in pursuit of happiness. But the surprising thing is I actually think he's onto something. Something that cuts through a lot of corporate BS and really makes sense.
+Another Silicon Valley success story, but with an incredibly moving twist.  Behind Amazon, Zappos is one of the only companies I will go back to again and again – and now I know some of the magic sauce coming from their headquarters in Las Vegas. Tony Hsieh has some nerve suggesting that he built a billion dollar company in pursuit of happiness. But the surprising thing is I actually think he's onto something. Something that cuts through a lot of corporate BS and really makes sense.
 
 * * *
 

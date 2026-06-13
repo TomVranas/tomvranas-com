@@ -3,7 +3,7 @@ title: "#Volunteer Spotlight : Harvest Food Pantry - @VCCE"
 date: 2017-11-02
 slug: harvest-food-pantry-thomas-vranas
 heroImage: "/images/blog/harvest-food-pantry-thomas-vranas/Screen-Shot-2017-05-31-at-1.18.34-PM.png"
-excerpt: "Harvest distributes bagged groceries to families in need and serves 250 families each week.&nbsp;"
+excerpt: "Harvest distributes bagged groceries to families in need and serves 250 families each week. "
 ---
 One of the newest entries to this series of incredible organization comes from a small Christian Church in Evanston called the Vineyard. They have a newer ministry called the Harvest Food Pantry that fills an incredible need. There are so many agencies and organizations supporting Chicago, but once you start to move farther from the city, the number of charitable organizations drops - even though the need for support remains.
 

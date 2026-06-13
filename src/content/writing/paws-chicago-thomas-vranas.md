@@ -23,7 +23,7 @@ In 1997, PAWS Chicago was launched with the message that homeless pets needed to
 
 Since 1997, PAWS has grown into one of the finest organizations in the world. First came a volunteer-run storefront Adoption Center on Clark Street. Next, they opened of the Lurie Spay/Neuter Clinic. Then, the momentous inauguration of the Pippen Fasseas Adoption Center - and the most recent openings of the Training & Foster Care Center and the Glenn L. Felner North Shore Adoption Center. In addition, they offer free services and have mobile clinics to go into areas of Chicago that need the most support.
 
-Through it all, the growth and evolution of PAWS Chicago has been driven by public awareness and the recognition that every person can take action to help homeless pets. 
+Through it all, the growth and evolution of PAWS Chicago has been driven by public awareness and the recognition that every person can take action to help homeless pets. 
 
 ## This has culminated into a collective action that has had transformative results, with the killing in Chicago declining by more than 80% since PAWS Chicago’s founding.
 

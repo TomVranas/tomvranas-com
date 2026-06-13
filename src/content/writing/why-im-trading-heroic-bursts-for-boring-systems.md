@@ -21,7 +21,7 @@ Every January, the “high performer” playbook looks exactly the same:
 -   We decide this is the year we finally become a new human being by February 1st.
     
 
-We convince ourselves that massive change requires massive force. 
+We convince ourselves that massive change requires massive force. 
 
 > I call these **Heroic Bursts**.
 
@@ -41,13 +41,13 @@ I’m replacing it with **Boring Consistency**.
 
 * * *
 
-##  The Trap of the “Winning Once” Mindset
+##  The Trap of the “Winning Once” Mindset
 
 There’s a quote from James Clear that perfectly captures what goes wrong for most driven people:
 
 > “Goals are for people who care about winning once. Systems are for people who care about winning repeatedly.”
 
- Most of us manage our lives like a P&L statement.
+ Most of us manage our lives like a P&L statement.
 
 We obsess over the revenue line:
 
@@ -68,7 +68,7 @@ You don’t get credit for last year’s discipline. You don’t get momentum ca
 
 Real leverage doesn’t live on the P&L. It lives on the balance sheet.
 
- It lives in assets that compound quietly:
+ It lives in assets that compound quietly:
 
 -   health you don’t have to negotiate with
     
@@ -79,9 +79,9 @@ Real leverage doesn’t live on the P&L. It lives on the balance sheet.
 -   trust in yourself that you don’t have to re-earn every Monday
     
 
- My mission this year is not to hit a heroic set of metrics.
+ My mission this year is not to hit a heroic set of metrics.
 
- It’s to run a **small number of repeatable systems** that produce outsized results over time.
+ It’s to run a **small number of repeatable systems** that produce outsized results over time.
 
 Not exciting systems.
 
@@ -169,7 +169,7 @@ This one loop prevents more damage than any productivity hack ever could.
 
 **Principle 1: Minimum Counts :** Perfectionism disqualifies progress.
 
- In this system:
+ In this system:
 
 -   five minutes counts
     
@@ -182,15 +182,15 @@ The goal is **not** excellence. The goal is continuity.
 
 **Principle 2: Never Miss Twice:** Missing a day is human, missing twice is a pattern.
 
- If I miss a habit, there is only one rule for the next day: get back on the board. No punishment. No story. No drama.
+ If I miss a habit, there is only one rule for the next day: get back on the board. No punishment. No story. No drama.
 
- Identity is fragile in the early stages. This rule protects it.
+ Identity is fragile in the early stages. This rule protects it.
 
 * * *
 
-##  3. The Scorecard: Binary Tracking
+##  3. The Scorecard: Binary Tracking
 
- Most tracking systems fail because they confuse measurement with meaning.
+ Most tracking systems fail because they confuse measurement with meaning.
 
 I don’t track outcomes. I track adherence.
 
@@ -205,7 +205,7 @@ My scorecard is boring on purpose.
 
 No gradients. No commentary. No performance review. Once a week, I review the scorecard and ask one question:
 
- **“Did I operate from scarcity or sufficiency this week?”**
+ **“Did I operate from scarcity or sufficiency this week?”**
 
 That question tells me everything.
 
@@ -223,9 +223,9 @@ When you’ve survived by sprinting, stillness feels unsafe. When you’ve been 
 
 But I’m learning that “boring” is just another word for steady. And steady is where compounding lives.
 
- My vision for the end of the year isn’t that I “crushed” a checklist of heroic goals.
+ My vision for the end of the year isn’t that I “crushed” a checklist of heroic goals.
 
- It’s that I:
+ It’s that I:
 
 -   stopped restarting every Monday
     

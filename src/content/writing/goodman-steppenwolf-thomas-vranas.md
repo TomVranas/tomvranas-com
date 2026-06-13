@@ -51,7 +51,7 @@ Goodman has traditionally focused more on financial support - they have almost l
 
 Steppenwolf has equally as powerful supporters, but from their inception has focus on time and talent rather than treasure. For over 30 years, Steppenwolf Education has created world class programming that speaks to the teen identity. Through the dedication of their artists, educators, young adult council members, and community partners, youth find voice to tell their own stories and strengthen their communities in indelible ways. Steppenwolf has productions and programs that are specifically geared to teachers, young adults and families. Through their nationally recognized Steppenwolf for Young Adults (SYA) performance series, they present professional productions of established plays, original adaptations of novels and new works for audiences of all ages.
 
-The arts are an important part of a vibrant city, but with that work comes a responsibility to give back to the community.  Both of these theatres have mastered the ability to not only put on world-class performances, but to support the youth of Chicago.  Take a bow, you deserve it!
+The arts are an important part of a vibrant city, but with that work comes a responsibility to give back to the community.  Both of these theatres have mastered the ability to not only put on world-class performances, but to support the youth of Chicago.  Take a bow, you deserve it!
 
 * * *
 

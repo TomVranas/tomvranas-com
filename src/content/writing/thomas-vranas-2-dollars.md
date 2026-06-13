@@ -35,10 +35,10 @@ The $2 bill is America's rarest small denomination in the US Currency. The uniqu
 
 In June 1776, the Continental Congress authorized the issue of two-dollar bills of credit for the defense of the America. Only 49,000 bills were issued at that time. The two-dollar bill was first commissioned in March 1862. The two-dollar denomination was discontinued from 1966 until 1976 when use of the two-dollar bill was resumed as part of the United States bicentennial celebration.
 
-Low printing numbers starting in the 1950s resulted in the $2 bill becoming the rarest current denomination of US Currency.  This rarity caused people to hoard any $2 bills they come across and as a result this decreased the circulation of the $2 bill even more. Today the $2 bill constitute around 1% of all notes in US circulation.
+Low printing numbers starting in the 1950s resulted in the $2 bill becoming the rarest current denomination of US Currency.  This rarity caused people to hoard any $2 bills they come across and as a result this decreased the circulation of the $2 bill even more. Today the $2 bill constitute around 1% of all notes in US circulation.
 
 ![7163170.jpg](/images/blog/thomas-vranas-2-dollars/7163170.jpg)
 
-Today the $2 bill is growing in popularity. In 2005 alone, 61 million $2 bills were printed. This is more than twice the number of $2 bills that were printed annually between 1990 and 2001.   One reason for the increased popularity is the $2 bill is becoming more frequently used as change where tipping is encouraged. The $2 bill is also seen as a unique way to give a gift of money.
+Today the $2 bill is growing in popularity. In 2005 alone, 61 million $2 bills were printed. This is more than twice the number of $2 bills that were printed annually between 1990 and 2001.   One reason for the increased popularity is the $2 bill is becoming more frequently used as change where tipping is encouraged. The $2 bill is also seen as a unique way to give a gift of money.
 
 # If you get a chance, pick up some Jeffersons and share the love!

@@ -3,7 +3,7 @@ title: "Patience, Young Woodworker. How to Balance Drive and Moderation."
 date: 2017-08-15
 slug: thomas-vranas-patience-young-woodworker
 heroImage: "/images/blog/thomas-vranas-patience-young-woodworker/HNzGpuGQZ6NvNJyV9dZl_nick-offerman-head-shot.jpg"
-excerpt: "Measure Forty Times. Cut Once.&nbsp;Slow down, smell the cut lumber and enjoy the journey."
+excerpt: "Measure Forty Times. Cut Once. Slow down, smell the cut lumber and enjoy the journey."
 featured: true
 ---
 Measure Forty Times. Cut Once.
@@ -84,7 +84,7 @@ I found a new sense of patience with myself, the inanimate tools that I used to 
 
 Finally, I assembled the music box.
 
-It took $80 worth of wood, $40 worth of electronics....and upwards of 100 hours of combined labor. When I attached the last hinge, I took a step back - it was perfect. There wasn’t a nagging feeling that something could have been done differently. There was a new sensation I felt that day- a mixture of calm confidence and internal satisfaction that is hard to describe.  
+It took $80 worth of wood, $40 worth of electronics....and upwards of 100 hours of combined labor. When I attached the last hinge, I took a step back - it was perfect. There wasn’t a nagging feeling that something could have been done differently. There was a new sensation I felt that day- a mixture of calm confidence and internal satisfaction that is hard to describe.  
 
 And a strange bond with this inanimate object - I knew that box inside and out, the cuts and work nobody would notice and the journey we went on together from a piece of wood to an heirloom.
 

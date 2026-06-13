@@ -17,9 +17,9 @@ Crucial Conversations gets you past the hard parts of dialogue and helps you ach
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-This book and the idea of crucial conversations is the cornerstone for most of the leadership training I’ve done.  It’s also one of the more uncomfortable parts of being an exceptional leader. Unlike many books, this book pinpoints the exact mistakes and reasons people make in high-stress conversations. Considering that many meetings these days are high-stress (time-pressures, market-pressures, customer complaints and so on), this book is a game-changer.
+This book and the idea of crucial conversations is the cornerstone for most of the leadership training I’ve done.  It’s also one of the more uncomfortable parts of being an exceptional leader. Unlike many books, this book pinpoints the exact mistakes and reasons people make in high-stress conversations. Considering that many meetings these days are high-stress (time-pressures, market-pressures, customer complaints and so on), this book is a game-changer.
 
 * * *
 

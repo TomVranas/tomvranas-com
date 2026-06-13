@@ -13,9 +13,9 @@ In this inspirational new book, Laura Day identifies crisis as the most authenti
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Unlike most self-help (cringe) authors, Laura Day does not promise to solve your problems nor does she encourage you to become a devotee. If anything this book is just a beginning to building your own resilience. Welcome To Your Crisis is about redirecting your thoughts and energy towards resolution but that is hard to do. This is a step-by-step book of suggestions that direct you inward to be your own best guide.  It’s a great read to help identify crisis’ in the making and hope to cope and solve them.
+Unlike most self-help (cringe) authors, Laura Day does not promise to solve your problems nor does she encourage you to become a devotee. If anything this book is just a beginning to building your own resilience. Welcome To Your Crisis is about redirecting your thoughts and energy towards resolution but that is hard to do. This is a step-by-step book of suggestions that direct you inward to be your own best guide.  It’s a great read to help identify crisis’ in the making and hope to cope and solve them.
 
 * * *
 

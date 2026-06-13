@@ -7,7 +7,7 @@ excerpt: "The Five Dysfunctions of a Team Patrick M. Lencioni"
 ---
 ## Synopsis
 
-In The Five Dysfunctions of a Team Patrick Lencioni once again offers a leadership fable that is as enthralling and instructive as his first two best-selling books, The Five Temptations of a CEO and The Four Obsessions of an Extraordinary Executive. This time, he turns his keen intellect and storytelling power to the fascinating, complex world of teams.
+In The Five Dysfunctions of a Team Patrick Lencioni once again offers a leadership fable that is as enthralling and instructive as his first two best-selling books, The Five Temptations of a CEO and The Four Obsessions of an Extraordinary Executive. This time, he turns his keen intellect and storytelling power to the fascinating, complex world of teams.
 
 ![thomas vranas supes chicago](/images/blog/thomas-vranas-the-five-dysfunctions-of-a-team/image-0.jpg)
 
@@ -17,7 +17,7 @@ Throughout the story, Lencioni reveals the five dysfunctions which go to the ver
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 This book has been a standard read for teams going through our professional development training sessions – and for good reason. This is truly the gold standard for all leaders. Unlike other dull or painfully obtuse leadership tomes, this book uses great storytelling to bring philosophies and models to life. It gives actionable work to bring a team together and shows how great leaders succeed and how terrible teams die.
 

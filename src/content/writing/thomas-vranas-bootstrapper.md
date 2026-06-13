@@ -15,9 +15,9 @@ It's the summer of 2005, and Mardi Jo Link's dream of living the simple life has
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-As a suburban raised kid, I never had much interaction with farm life. We would drive through cornfields on the way to a vacation spot and our school took a field trip to a “farm”- but that’s about my experience in farm life.  I’ve always thought someday I’d like to cash it all in, go live on a farm and just enjoy.  Boy, did this book every wake me up to that romantic notion’s outrageousness. Link and her resolute accomplices struggle through one long, hard year of blizzards, foxes, bargain cooking, rampaging poultry, a zucchini-growing contest, and other challenges. Bootstrapper also has a lot of lessons for businessmen – scaracity of resources, success in the new maker ecosystems, survival, courage…it goes on.  A great book that shows inspiration is possible anywhere – just don’t count me in to farm life quite yet!
+As a suburban raised kid, I never had much interaction with farm life. We would drive through cornfields on the way to a vacation spot and our school took a field trip to a “farm”- but that’s about my experience in farm life.  I’ve always thought someday I’d like to cash it all in, go live on a farm and just enjoy.  Boy, did this book every wake me up to that romantic notion’s outrageousness. Link and her resolute accomplices struggle through one long, hard year of blizzards, foxes, bargain cooking, rampaging poultry, a zucchini-growing contest, and other challenges. Bootstrapper also has a lot of lessons for businessmen – scaracity of resources, success in the new maker ecosystems, survival, courage…it goes on.  A great book that shows inspiration is possible anywhere – just don’t count me in to farm life quite yet!
 
 * * *
 

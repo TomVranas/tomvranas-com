@@ -17,9 +17,9 @@ Burlingham shows how the leaders of these small giants recognized the full range
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-As a serial entrepreneur who enjoyed the challenges of making small companies great, this book was a refreshing respite from the idea of having to be massive to be great.  Bo takes a look into a number of small companies that strive to be great, not just huge.  It’s a lesson in how to treat employees and customers, while focusing on quality.  These are the unsung heroes of our economy – and this book gives a roadmap on how to create something, be fanatical about the details and find success and happiness in questioning the standard definition of success.
+As a serial entrepreneur who enjoyed the challenges of making small companies great, this book was a refreshing respite from the idea of having to be massive to be great.  Bo takes a look into a number of small companies that strive to be great, not just huge.  It’s a lesson in how to treat employees and customers, while focusing on quality.  These are the unsung heroes of our economy – and this book gives a roadmap on how to create something, be fanatical about the details and find success and happiness in questioning the standard definition of success.
 
 * * *
 

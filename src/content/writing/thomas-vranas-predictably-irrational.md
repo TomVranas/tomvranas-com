@@ -17,9 +17,9 @@ In this newly revised and expanded edition of the groundbreaking New York Times 
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-As a data geek and my background in economics, I’ve always had a jumping off point that people act in a rational manner.  It’s the rational thinker that lead my 4 years of economic training…but it’s all wrong.  With incredible detail, Ariely takes readers through dozens of experiments that show that human beings think they are acting rationally, when really they aren’t.  The good news is that even our irrationality is predictable, and knowing this is a key to understand how we really act. 
+As a data geek and my background in economics, I’ve always had a jumping off point that people act in a rational manner.  It’s the rational thinker that lead my 4 years of economic training…but it’s all wrong.  With incredible detail, Ariely takes readers through dozens of experiments that show that human beings think they are acting rationally, when really they aren’t.  The good news is that even our irrationality is predictable, and knowing this is a key to understand how we really act. 
 
 * * *
 

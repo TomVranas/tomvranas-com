@@ -19,7 +19,7 @@ In this lively and compelling account—now updated with new material by the aut
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 Gretchen Rubin decided she wanted to be happier in her life, and, being an organized and thoughtful person, she devised a plan. Each month she would focus on one area of her life to improve, and by the end of the year, she should be measurably happier. I found this book to be very inspiring and took stock in the truth that if you want to change your life, you need to find a way to do it here and now. Don't get so hung up on the big things that you miss the small stuff — there are little things you can do every day that can help improve your life.
 

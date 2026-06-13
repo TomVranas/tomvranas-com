@@ -23,9 +23,9 @@ Warrior Pose is an adventure chronicling some of the most momentous events of ou
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-I had suffered with long standing back pain – like most business people, I spend hours on end at my desk, hunched over my computer, books and printed reports.  I needed to find an outlet to make my physical form keep up with my work ethic. Yoga has been touted over and again in the news and social media as an incredible healer – physically, mentally and emotionally.  I’ve come to find myself an avid practitioner of hot yoga and have never felt better.  Willis’ journey and almost incredible transformation is a reminder that even a broken back can’t stop the most dedicated and persistent journey to healing.   From sitting on death’s door to becoming a guru, this tale will hopefully inspire readers to at least give yoga a shot!
+I had suffered with long standing back pain – like most business people, I spend hours on end at my desk, hunched over my computer, books and printed reports.  I needed to find an outlet to make my physical form keep up with my work ethic. Yoga has been touted over and again in the news and social media as an incredible healer – physically, mentally and emotionally.  I’ve come to find myself an avid practitioner of hot yoga and have never felt better.  Willis’ journey and almost incredible transformation is a reminder that even a broken back can’t stop the most dedicated and persistent journey to healing.   From sitting on death’s door to becoming a guru, this tale will hopefully inspire readers to at least give yoga a shot!
 
 * * *
 

@@ -38,7 +38,7 @@ Needless to say, all the courses started with the same introduction to HTML, so 
 
 BZZZT! Wrong!
 
-The concepts got more and more difficult to master. The fun started to subside. I found myself dreading to do this…. what was supposed to be a fun learning experience. At some point along the road, I made a conscience decision that I didn’t have the patience to learn something like advanced coding, especially when there are so many great companies (shameless plug for my buddy Josh’s firm, [TableXI](http://www.tablexi.com/), who does incredible work in the arena) that could do it faster and more efficiently. A part of me was pained by backing away from the challenge, but sometimes you have to bite that bullet and stand down.
+The concepts got more and more difficult to master. The fun started to subside. I found myself dreading to do this…. what was supposed to be a fun learning experience. At some point along the road, I made a conscience decision that I didn’t have the patience to learn something like advanced coding, especially when there are so many great companies (shameless plug for my buddy Josh’s firm, [TableXI](http://www.tablexi.com/), who does incredible work in the arena) that could do it faster and more efficiently. A part of me was pained by backing away from the challenge, but sometimes you have to bite that bullet and stand down.
 
 Recently, I decided I wanted to tackle a new hobby. I had advanced pretty far in the world of woodworking, but there are only so many pieces of wood furniture you can build before you start to get that look from the wife :) I have always envied people that could whip up a great drawing.
 

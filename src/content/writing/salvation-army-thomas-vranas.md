@@ -42,7 +42,7 @@ You want some data? I’ve serve it up, but if you get a chance to carve out a f
 -   Refugee programs: 58, serving 32,143 people
 -   Prisoners visited: 266,089
 
-All of this from a bell, a smile and a red kettle.  Next time you can, put an extra dollar in the kettle and know you are helping to do a world of difference.
+All of this from a bell, a smile and a red kettle.  Next time you can, put an extra dollar in the kettle and know you are helping to do a world of difference.
 
 * * *
 

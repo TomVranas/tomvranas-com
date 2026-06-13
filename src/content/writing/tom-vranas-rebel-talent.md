@@ -10,16 +10,16 @@ excerpt: "Executive Bookshelf : Rebel Talent: Why It Pays to Break the Rules at 
 ## Synopsis
 
 **Do you want to follow a script -- or write your own story?**  
-   
+   
 **Award-winning Harvard Business School professor Francesca Gino shows us why the most successful among us break the rules, and how rebellion brings joy and meaning into our lives.**  
-   
+   
 Rebels have a bad reputation. We think of them as troublemakers, outcasts, contrarians: those colleagues, friends, and family members who complicate seemingly straightforward decisions, create chaos, and disagree when everyone else is in agreement. But in truth, rebels are also those among us who change the world for the better with their unconventional outlooks. Instead of clinging to what is safe and familiar, and falling back on routines and tradition, rebels defy the status quo. They are masters of innovation and reinvention, and they have a lot to teach us.  
-   
+   
 Francesca Gino, a behavioral scientist and professor at Harvard Business School, has spent more than a decade studying rebels at organizations around the world, from high-end boutiques in Italy's fashion capital, to the World's Best Restaurant, to a thriving fast food chain, to an award-winning computer animation studio. In her work, she has identified leaders and employees who exemplify "rebel talent," and whose examples we can all learn to embrace.  
-   
+   
 Gino argues that the future belongs to the rebel -- and that there's a rebel in each of us. We live in turbulent times, when competition is fierce, reputations are easily tarnished on social media, and the world is more divided than ever before. In this cutthroat environment, cultivating rebel talent is what allows businesses to evolve and to prosper. And rebellion has an added benefit beyond the workplace: it leads to a more vital, engaged, and fulfilling life.  
-   
-Whether you want to inspire others to action, build a business, or build more meaningful relationships, _Rebel Talent_ will show you how to succeed -- by breaking all the rules.
+   
+Whether you want to inspire others to action, build a business, or build more meaningful relationships, _Rebel Talent_ will show you how to succeed -- by breaking all the rules.
 
 * * *
 

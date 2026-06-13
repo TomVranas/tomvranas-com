@@ -27,7 +27,7 @@ Once construction on the home is finished, the homeowner purchases the home with
 
 ![thomas vranas supes chicago](/images/blog/habitat-for-humanity-thomas-vranas/image-2.jpg)
 
-I’ve been fortunate to have traveled to 6 states on Habitat builds - Chicago, Wisconsin, Ohio, Indiana, Georgia and Florida. Long ago I lost count on how many houses I’ve worked on, but I would wager a guess of over 100. I've chaperoned trips of high schoolers.  I've received training from Habitat on how to lead construction groups. I’ve also had a few opportunities to spend 1-2 weeks on site working on houses and it’s incredible to see the transformation.
+I’ve been fortunate to have traveled to 6 states on Habitat builds - Chicago, Wisconsin, Ohio, Indiana, Georgia and Florida. Long ago I lost count on how many houses I’ve worked on, but I would wager a guess of over 100. I've chaperoned trips of high schoolers.  I've received training from Habitat on how to lead construction groups. I’ve also had a few opportunities to spend 1-2 weeks on site working on houses and it’s incredible to see the transformation.
 
 After Hurricane Andrew hit the coast of Florida, I was able to spend time at a Habitat village where Habitat built a subdivision of over 200 home. I’ve gained the skills, confidence and experience to be handier around the house and have an appreciation for the trades and craftsmanship.
 

@@ -17,7 +17,7 @@ Not long ago we were spectators, passive consumers of mass media. Now, on YouTub
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 A lot of business books are so poorly written, you wish you could just jam a thumb-drive into them and download info into your brain without having to actually ingest the pages. Happily, The Art of Immersion is that rare business book you don’t want to put down, a riveting read for anyone whose business is impacted by how audiences are changing--which is to say, anyone reading this. The author, a Wired editor, is a terrific storyteller who imbues in the reader his own fascination with how “after centuries of linear storytelling, a new form of narrative is emerging by which stories are told through many media at once."
 

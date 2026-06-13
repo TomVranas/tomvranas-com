@@ -11,7 +11,7 @@ Master the fundamentals of leadership-at every stage in your career.
 
 ![thomas vranas supes chicago](/images/blog/thomas-vranas-unusually-excellent/image-0.jpg)
 
-Often, when leaders experience trouble, they look to blame an outside source or expect a small tweak to right their ship. But many times they've actually lost their grip on the very basic foundation of leadership. The business environment may change, but no management trend can displace the core laws, proven over centuries, of excellent leadership. Unusually Excellent is an essential resource for leaders that brings these fundamentals together in a new and comprehensive way. This book will help leaders at any level keep their focus on the bedrock principles that will make them extraordinary.
+Often, when leaders experience trouble, they look to blame an outside source or expect a small tweak to right their ship. But many times they've actually lost their grip on the very basic foundation of leadership. The business environment may change, but no management trend can displace the core laws, proven over centuries, of excellent leadership. Unusually Excellent is an essential resource for leaders that brings these fundamentals together in a new and comprehensive way. This book will help leaders at any level keep their focus on the bedrock principles that will make them extraordinary.
 
 Thoroughly practical, day-to-day primer for achieving and maintaining their highest level of leadership, for today and for a lifetime. The author's Harvard Business Review articles are among the most highly read in the magazine's history.
 
@@ -21,9 +21,9 @@ Using a sports analogy, the author breaks the work of leaders into three parts: 
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-John Hamm aims to provide a reference book rather than some shallow airport business and leadership book.   Using real life examples and fascinating research from his articles in the Harvard Business Review, this is a great primer or reminder on how to lead and the fundamental aspects of leadership. I’ve gone back to this book a few times to give a bounce to my psyche and make sure all the tools in my leadership toolbox are well sharpened. 
+John Hamm aims to provide a reference book rather than some shallow airport business and leadership book.   Using real life examples and fascinating research from his articles in the Harvard Business Review, this is a great primer or reminder on how to lead and the fundamental aspects of leadership. I’ve gone back to this book a few times to give a bounce to my psyche and make sure all the tools in my leadership toolbox are well sharpened. 
 
 * * *
 

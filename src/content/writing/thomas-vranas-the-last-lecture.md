@@ -21,9 +21,9 @@ In this book, Randy Pausch has combined the humor, inspiration and intelligence 
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-I’m not sure how to review a book written by a man who knew he was going to die. This book is both heartwarming and challenging.  It contains nuggets of wisdom that are too good to pass up, and has lessons for being a great person and living and exceptional life. It is depressing to know that Randy Pauch has since passed away, but reading this book will give you an opportunity to learn lessons that come straight from the heart.
+I’m not sure how to review a book written by a man who knew he was going to die. This book is both heartwarming and challenging.  It contains nuggets of wisdom that are too good to pass up, and has lessons for being a great person and living and exceptional life. It is depressing to know that Randy Pauch has since passed away, but reading this book will give you an opportunity to learn lessons that come straight from the heart.
 
 * * *
 

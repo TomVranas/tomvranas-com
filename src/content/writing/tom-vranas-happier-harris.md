@@ -7,17 +7,17 @@ excerpt: "10% Happier Revised Edition: How I Tamed the Voice in My Head, Reduced
 ---
 ## Synopsis
 
-**_Nightline_ anchor Dan Harris embarks on an unexpected, hilarious, and deeply skeptical odyssey through the strange worlds of spirituality and self-help, and discovers a way to get happier that is truly achievable.**
+**_Nightline_ anchor Dan Harris embarks on an unexpected, hilarious, and deeply skeptical odyssey through the strange worlds of spirituality and self-help, and discovers a way to get happier that is truly achievable.**
 
 ![tom vranas](/images/blog/tom-vranas-happier-harris/image-0.jpg)
 
 After having a nationally televised panic attack, Dan Harris knew he had to make some changes. A lifelong nonbeliever, he found himself on a bizarre adventure involving a disgraced pastor, a mysterious self-help guru, and a gaggle of brain scientists. Eventually, Harris realized that the source of his problems was the very thing he always thought was his greatest asset: the incessant, insatiable voice in his head, which had propelled him through the ranks of a hypercompetitive business, but had also led him to make the profoundly stupid decisions that provoked his on-air freak-out.
 
-Finally, Harris stumbled upon an effective way to rein in that voice, something he always assumed to be either impossible or useless: meditation, a tool that research suggests can do everything from lower your blood pressure to essentially rewire your brain. _10% Happier_ takes readers on a ride from the outer reaches of neuroscience to the inner sanctum of network news to the bizarre fringes of America’s spiritual scene, and leaves them with a takeaway that could actually change their lives.
+Finally, Harris stumbled upon an effective way to rein in that voice, something he always assumed to be either impossible or useless: meditation, a tool that research suggests can do everything from lower your blood pressure to essentially rewire your brain. _10% Happier_ takes readers on a ride from the outer reaches of neuroscience to the inner sanctum of network news to the bizarre fringes of America’s spiritual scene, and leaves them with a takeaway that could actually change their lives.
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 I've always been a deep believer in controlling one's own destiny. Hard work, sprinkled in with a little luck and the right network- I can control these things. Recently, a seismic shift in my perspective has changed my outlook. We don't control the road that lies before us. Rather, we should be aware of the incredibleness in every moment of the journey.
 

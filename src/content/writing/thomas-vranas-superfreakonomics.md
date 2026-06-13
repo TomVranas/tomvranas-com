@@ -27,9 +27,9 @@ The epilogue is about microeconomics, and discusses a study as to whether monkey
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-As a trained economist, I absolutely love Steven Levitt and Stephen Dubner’s challenges to the questions we come across in life.  Obviously skewed towards outrageous examples, it teaches readers to always question their assumptions and even more importantly – to question everything. This is a treasure chest of information for anyone interested in psychology, economics or just sheer human cussedness.
+As a trained economist, I absolutely love Steven Levitt and Stephen Dubner’s challenges to the questions we come across in life.  Obviously skewed towards outrageous examples, it teaches readers to always question their assumptions and even more importantly – to question everything. This is a treasure chest of information for anyone interested in psychology, economics or just sheer human cussedness.
 
 * * *
 

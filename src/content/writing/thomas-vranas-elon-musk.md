@@ -17,9 +17,9 @@ Vance uses Musk's story to explore one of the pressing questions of our time: ca
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-I am absolutely fascinated by Elon Musk.  His determination, gumption and complete dedication to his work is astounding.  It seems like every year or two, he comes up with another incredible idea; he is then scoffed at in the media, his prototypes fail, and right when you think he’ll finally pull the plug, he does something to take your breath away.  This story is an incredible journey of a leader that knows what it takes to succeed, how to build incredible products and teams, all while having the gumption to make it look easy.
+I am absolutely fascinated by Elon Musk.  His determination, gumption and complete dedication to his work is astounding.  It seems like every year or two, he comes up with another incredible idea; he is then scoffed at in the media, his prototypes fail, and right when you think he’ll finally pull the plug, he does something to take your breath away.  This story is an incredible journey of a leader that knows what it takes to succeed, how to build incredible products and teams, all while having the gumption to make it look easy.
 
 * * *
 

@@ -5,33 +5,33 @@ slug: thomas-vranas-excel-gmail
 heroImage: "/images/blog/thomas-vranas-excel-gmail/mO_sPhvY_400x400.png"
 excerpt: "Microsoft Excel + Kiwi for Gmail"
 ---
-My first experience with Excel happened sometime early on in high school.  I wish I could turn back time and remember that first spreadsheet I created and how crude it was. 
+My first experience with Excel happened sometime early on in high school.  I wish I could turn back time and remember that first spreadsheet I created and how crude it was. 
 
 # Little did I know then I would fall in love.
 
 ![uw\_capital-structure.png](/images/blog/thomas-vranas-excel-gmail/uw_capital-structure.png)
 
-Throughout college, I was forced to get deep comfort with Excel to work on the advanced modeling, forecasting and work that comes with a degree in Economics. I was awestruck that this little program could do so much.  As my natural curiosity piqued, I found out that there pretty much wasn’t anything Excel could do.
+Throughout college, I was forced to get deep comfort with Excel to work on the advanced modeling, forecasting and work that comes with a degree in Economics. I was awestruck that this little program could do so much.  As my natural curiosity piqued, I found out that there pretty much wasn’t anything Excel could do.
 
-I started using it for writing tasks and found ways to optimize my time.  If you don’t know =concatenate(), you need to look it up right now.  Go ahead.  I’ll be waiting right here.
+I started using it for writing tasks and found ways to optimize my time.  If you don’t know =concatenate(), you need to look it up right now.  Go ahead.  I’ll be waiting right here.
 
-## Amazing, right?  I love Excel.
+## Amazing, right?  I love Excel.
 
 ![mO\_sPhvY\_400x400.png](/images/blog/thomas-vranas-excel-gmail/mO_sPhvY_400x400.png)
 
-As I created internship programs, mentoring college students and graduates I made a 10 week Excel boot camp. To this day, I still get random texts and emails about their newfound skills.  It takes a while and commitment to really understand the depths of Excel, but will guarantee if you put in the work, she will treat you like a king.
+As I created internship programs, mentoring college students and graduates I made a 10 week Excel boot camp. To this day, I still get random texts and emails about their newfound skills.  It takes a while and commitment to really understand the depths of Excel, but will guarantee if you put in the work, she will treat you like a king.
 
-In the past few years, I’ve worked in a few organizations that are Google app centric.  No disrespect to the Google, but Sheets doesn’t come close. 
+In the past few years, I’ve worked in a few organizations that are Google app centric.  No disrespect to the Google, but Sheets doesn’t come close. 
 
-## Apple, I love you...but Numbers is like handing Michelangelo a dull blue crayon and expect him to create the Sistine Chapel ceiling. 
+## Apple, I love you...but Numbers is like handing Michelangelo a dull blue crayon and expect him to create the Sistine Chapel ceiling. 
 
 If you don’t mind this rant, I will even add in that the PC version of Excel far outpaces the Mac version. I have a newly developed admiration for all things Apple, but I keep a PC for when I need to flex my Excel muscles.
 
-Nothing compares to old school Excel.  Nothing.
+Nothing compares to old school Excel.  Nothing.
 
 * * *
 
-Like I said, I’m surrounded by the G-Suite.  I’ve could adjust to it, but there still was something missing. Having multiple tabs and browsers open side-by-side with regular websites was a pain.  Having accidentally closed Safari or Chrome not remembering I had a Doc or Sheet open was such an ongoing hassle. 
+Like I said, I’m surrounded by the G-Suite.  I’ve could adjust to it, but there still was something missing. Having multiple tabs and browsers open side-by-side with regular websites was a pain.  Having accidentally closed Safari or Chrome not remembering I had a Doc or Sheet open was such an ongoing hassle. 
 
 It happened a few too many times, so I went in search for something better - and of course Silicon Valley answered my prayers.
 
@@ -47,4 +47,4 @@ Distinct from what Gmail uses in the browser, Kiwi has a powerful engine that al
 
 Add on unique features like desktop notifications and a do-not-disturb feature and Kiwi not only make G-Suite easier...it makes it better.
 
-It’s hard to explain, but I suggest you look at their video demo, take a trial for a test spin and then make the HUGE investment of....$10.  Do it, you won’t regret it!
+It’s hard to explain, but I suggest you look at their video demo, take a trial for a test spin and then make the HUGE investment of....$10.  Do it, you won’t regret it!

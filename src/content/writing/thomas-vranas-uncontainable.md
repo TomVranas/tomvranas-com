@@ -13,13 +13,13 @@ Back in 1978, Kip Tindell (Chairman & CEO of The Container Store) and his partne
 
 ![thomas vranas supes chicago](/images/blog/thomas-vranas-uncontainable/image-0.jpg)
 
-In Uncontainable, Tindell reveals his approach for building a business where everyone associated with it thrives through embodying the tenets of Conscious Capitalism. Tindell's seven Foundation Principles are the roadmap that drives everyone at The Container Store to achieve the goals of the company. Uncontainable shows how other businesses can adapt this approach toward what Tindell calls the most profitable, sustainable and fun way of doing business. Tindell is that rare CEO who fully embraces the "Golden Rule" of business - where all stakeholders - employees, customers, vendors, shareholder, the community - are successful through a harmonic balance of win-wins.
+In Uncontainable, Tindell reveals his approach for building a business where everyone associated with it thrives through embodying the tenets of Conscious Capitalism. Tindell's seven Foundation Principles are the roadmap that drives everyone at The Container Store to achieve the goals of the company. Uncontainable shows how other businesses can adapt this approach toward what Tindell calls the most profitable, sustainable and fun way of doing business. Tindell is that rare CEO who fully embraces the "Golden Rule" of business - where all stakeholders - employees, customers, vendors, shareholder, the community - are successful through a harmonic balance of win-wins.
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Standing in line at the Container Store, happily waiting to drop some big money on elfa shelving, I saw this book.  I realized that every time I came to the store I had an incredible experience – and both my wife and I agreed that there is something special about The Container Store. I picked up the book and was hooked.  It’s a fascinating history of how a small group of dedicated individuals made a huge company from selling…boxes. It seems ridiculous, but The Container Store is heaven and Tindell is the God that made it possible. This book also talks in depth about the creation of the Conscious Capitalism movement and should re-energize readers to create a better business.
+Standing in line at the Container Store, happily waiting to drop some big money on elfa shelving, I saw this book.  I realized that every time I came to the store I had an incredible experience – and both my wife and I agreed that there is something special about The Container Store. I picked up the book and was hooked.  It’s a fascinating history of how a small group of dedicated individuals made a huge company from selling…boxes. It seems ridiculous, but The Container Store is heaven and Tindell is the God that made it possible. This book also talks in depth about the creation of the Conscious Capitalism movement and should re-energize readers to create a better business.
 
 * * *
 

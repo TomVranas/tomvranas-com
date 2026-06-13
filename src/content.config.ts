@@ -10,9 +10,12 @@ const writing = defineCollection({
     date: z.coerce.date(),
     heroImage: z.string().optional(),
     excerpt: z.string().optional(),
-    // Featured posts are the only ones listed on the /writing index. Every
-    // post still builds at its own URL (preserving SEO + old redirects); the
-    // index just stays restrained. Migrated archive posts default to false.
+    // Optional tags for the /writing filter. When absent, the index derives a
+    // best-guess tag from the title/excerpt; Tom refines by adding this field.
+    tags: z.array(z.string()).optional(),
+    // Featured posts surface in the "Selected" strip at the top of /writing.
+    // Every post still builds at its own URL and appears in the full archive
+    // ledger; featured just promotes it. Migrated archive posts default false.
     featured: z.boolean().default(false),
   }),
 });

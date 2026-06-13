@@ -88,6 +88,6 @@ More Resources:
 
 [One Small Step Can Change Your Life (Book)](https://www.amazon.com/Small-Step-Change-Your-Life/dp/B00DEKK9MW/ref=s9_simh_gw_g14_i1_r?_encoding=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=PEE2NB21EAJ7D7ZED5SQ&pf_rd_t=36701&pf_rd_p=a6aaf593-1ba4-4f4e-bdcc-0febe090b8ed&pf_rd_i=desktop)
 
-[In the Arena: Building the Skills for Peak Performance (Book)](https://www.amazon.com/Arena-Building-Performance-Leading-Schools/dp/1453865845/ref=sr_1_3?s=books&ie=UTF8&qid=1486453592&sr=1-3&keywords=in+the+arena) 
+[In the Arena: Building the Skills for Peak Performance (Book)](https://www.amazon.com/Arena-Building-Performance-Leading-Schools/dp/1453865845/ref=sr_1_3?s=books&ie=UTF8&qid=1486453592&sr=1-3&keywords=in+the+arena) 
 
 [The Man in the Arena (Full Speech)](http://www.theodore-roosevelt.com/images/research/speeches/maninthearena.pdf)

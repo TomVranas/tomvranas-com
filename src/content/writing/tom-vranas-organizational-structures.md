@@ -3,7 +3,7 @@ title: "Reinventing Organizations"
 date: 2019-01-22
 slug: tom-vranas-organizational-structures
 heroImage: "/images/blog/tom-vranas-organizational-structures/ReinventingOrganizationsImage-1024.jpg"
-excerpt: "When organizations are built not on implicit mechanisms of fear, but instead on structures and practices that breed trust and responsibility, extraordinary and unexpected incredibleness starts to happen on a regular basis.&nbsp;"
+excerpt: "When organizations are built not on implicit mechanisms of fear, but instead on structures and practices that breed trust and responsibility, extraordinary and unexpected incredibleness starts to happen on a regular basis. "
 featured: true
 ---
 I never took much time to think through the soul of an organization. While reading “Reinventing Organizations” I had to open my eyes to the life of a group and how it mirrored the society in which the organization may "live" .

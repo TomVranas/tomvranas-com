@@ -21,9 +21,9 @@ Joël Glenn Brenner's investigation of this cloistered world is authoritative, e
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Much like “Console Wars,” this book is a fascinating journey into a world that tends to be off-limits - the high stakes world of Chocolate.  This gigantic industry’s two leading firms, Mars and Hershey’s, share an intertwined history- although the way they’ve grown and their philosophical basis for enterprise couldn’t be farther apart.  Reading this book, in addition to craving chocolate for a few days straight, I was transported to when my family visited Hersheytown, Pennsylvania.  This book’s historical accounts help to paint a picture on how these companies were lead, innovated and gobbled up everything in their paths.  
+Much like “Console Wars,” this book is a fascinating journey into a world that tends to be off-limits - the high stakes world of Chocolate.  This gigantic industry’s two leading firms, Mars and Hershey’s, share an intertwined history- although the way they’ve grown and their philosophical basis for enterprise couldn’t be farther apart.  Reading this book, in addition to craving chocolate for a few days straight, I was transported to when my family visited Hersheytown, Pennsylvania.  This book’s historical accounts help to paint a picture on how these companies were lead, innovated and gobbled up everything in their paths.  
 
 * * *
 

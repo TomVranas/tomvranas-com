@@ -11,17 +11,17 @@ I’ve seen my subscriptions dwindle over the past few years. There is one magaz
 
 The Economist.
 
-# If you pick up a copy of The Economist, you will immediately see what a different magazine this is. 
+# If you pick up a copy of The Economist, you will immediately see what a different magazine this is. 
 
 ![tom vranas chicago supes](/images/blog/thomas-vranas-economist/image-0.jpg)
 
-First, the content. It’s so dense, so well written, so informative that it usually takes a few days to get through.  The subject of articles is so wide that it’s an incredible way to learn about what’s going on in the world.  The reporting is so deep that you can walk away from an issue and immediately know the basis for the good, bad and ugly going on around the world.
+First, the content. It’s so dense, so well written, so informative that it usually takes a few days to get through.  The subject of articles is so wide that it’s an incredible way to learn about what’s going on in the world.  The reporting is so deep that you can walk away from an issue and immediately know the basis for the good, bad and ugly going on around the world.
 
-Also, in this age of fake news and bias everywhere, I find The Economist to be the most level and fair reporting. If they give a slant to a story or an opinion on a person, it’s called out and backed up with clarity so you can make your own decision.  Having the magazine in my hands makes it easy to navigate and for some obscure reason, the ink on the pages, has created a special weekly tradition.
+Also, in this age of fake news and bias everywhere, I find The Economist to be the most level and fair reporting. If they give a slant to a story or an opinion on a person, it’s called out and backed up with clarity so you can make your own decision.  Having the magazine in my hands makes it easy to navigate and for some obscure reason, the ink on the pages, has created a special weekly tradition.
 
 ![thomas vranas chicago supes](/images/blog/thomas-vranas-economist/image-1.jpg)
 
-With this dense and sometimes difficult to get through writing, one of the pleasures of making it through the weekly journal is the cheeky humor.  Throughout the magazine, each caption give some levity, puns, and cleverness to help break up the wordsmithing.
+With this dense and sometimes difficult to get through writing, one of the pleasures of making it through the weekly journal is the cheeky humor.  Throughout the magazine, each caption give some levity, puns, and cleverness to help break up the wordsmithing.
 
 The Economist has taken notice of the growing cult of caption fans and gave readers this explanation:
 

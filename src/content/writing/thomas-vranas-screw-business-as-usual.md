@@ -19,9 +19,9 @@ Screw Business as Usual shows how easy it is for both businesses and individuals
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-I’ve always admired Richard Branson as one of the more renegade entrepreneurs in the world. I’ve consumed all his books with fervent devotion, but this book is the best of his in guiding how businesses should be run.   I’ve always tried to start any project or opportunity with a beginner’s mind, throwing off previous assumptions to create something new.  Richard Branson does an incredible job with forceful examples of why business needs to change and how anyone can create socially responsible organizations.
+I’ve always admired Richard Branson as one of the more renegade entrepreneurs in the world. I’ve consumed all his books with fervent devotion, but this book is the best of his in guiding how businesses should be run.   I’ve always tried to start any project or opportunity with a beginner’s mind, throwing off previous assumptions to create something new.  Richard Branson does an incredible job with forceful examples of why business needs to change and how anyone can create socially responsible organizations.
 
 * * *
 

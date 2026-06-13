@@ -11,19 +11,19 @@ If this is the first post you are reading in my Favorite Thing series, know...th
 
 ![tom vranas chicago supes](/images/blog/tom-vranas-bidet/image-0.jpg)
 
-First, a little high tech solution to something that has been around forever.  The bidet appears to have been an invention of French furniture makers in the late 17th century, although no exact date or inventor is known. The earliest written reference to the bidet is in 1710 in Italy.
+First, a little high tech solution to something that has been around forever.  The bidet appears to have been an invention of French furniture makers in the late 17th century, although no exact date or inventor is known. The earliest written reference to the bidet is in 1710 in Italy.
 
 Fast forward a century and a half, the early 1980s saw the introduction of the electronic bidet from Japan. These devices have attachments that connect to existing toilet arrangements, and can be used for bathrooms lacking the space for both a separate bidet and toilet having advantages such as instant heating warm water, night lights and a heated seat.
 
 My first experience with a bidet was in Colorado.
 
-## I was suspicious. I was befuddled. I was in love. 
+## I was suspicious. I was befuddled. I was in love. 
 
-I won’t go too much into detail here, but if you are remodeling a bathroom, I would at least give some consideration to installing a bidet - it’s a game changer.  We’ve used Toto and will never look back again.
+I won’t go too much into detail here, but if you are remodeling a bathroom, I would at least give some consideration to installing a bidet - it’s a game changer.  We’ve used Toto and will never look back again.
 
-Oh, was that too much information?  Sorry, it gets worse.
+Oh, was that too much information?  Sorry, it gets worse.
 
-Charmin Toilet Paper. I’m serious.  Specifically, Ultra Strong, MEGA Rolls.  You spend so much time in the bathroom, why not treat yourself?
+Charmin Toilet Paper. I’m serious.  Specifically, Ultra Strong, MEGA Rolls.  You spend so much time in the bathroom, why not treat yourself?
 
 ![tom vrahas chicago supes](/images/blog/tom-vranas-bidet/image-1.jpg)
 

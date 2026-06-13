@@ -7,11 +7,11 @@ excerpt: "Wooden: A Lifetime of Observations and Reflections On and Off the Cour
 ---
 ## Synopsis
 
-Evoking days gone by when coaches were respected as much for their off-court performances as for their success on the court, Wooden presents the timeless wisdom of legendary basketball coach John Wooden.
+Evoking days gone by when coaches were respected as much for their off-court performances as for their success on the court, Wooden presents the timeless wisdom of legendary basketball coach John Wooden.
 
 > “I am just a common man who is true to his beliefs.”
 
-— John Wooden 
+— John Wooden 
 
 Coach Wooden's remarkable 10 national basketball championships in 12 years at UCLA speak for themselves. In Wooden, the coach--quiet, thoughtful, and introspective throughout his distinguished career--finally speaks forhimself, and he's well worth hearing. Wooden is a modern chapbook of inspiration and good sense that reveals the hard-court philosopher behind it as a man of character, conviction, decency, and straightforwardness.
 
@@ -25,9 +25,9 @@ These lessons, along with personal letters from Bill Walton, Denny Crum, Kareem 
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-While I never saw Wooden coach, as a huge college sports fan and businessman, his name rings synonymous with leadership. I’ve seen so many of his quotes and stats in random places that when I saw this book I knew I had to give it a _shot (pun intended)_.  Coach’s book is a set of lessons followed by stories and examples in real life.  It’s part autobiography, part leadership courseware and part motivational.  It’s a simple read with simple lessons- but with everything practice and execution are where winners are made.
+While I never saw Wooden coach, as a huge college sports fan and businessman, his name rings synonymous with leadership. I’ve seen so many of his quotes and stats in random places that when I saw this book I knew I had to give it a _shot (pun intended)_.  Coach’s book is a set of lessons followed by stories and examples in real life.  It’s part autobiography, part leadership courseware and part motivational.  It’s a simple read with simple lessons- but with everything practice and execution are where winners are made.
 
 * * *
 

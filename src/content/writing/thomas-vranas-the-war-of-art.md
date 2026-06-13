@@ -17,11 +17,11 @@ Since 2002, The War of Art has inspired people around the world to defeat "Resis
 
 ![thomas vranas supes chicago](/images/blog/thomas-vranas-the-war-of-art/image-0.jpg)
 
-Steven Pressfield is the author of the novels The Legend of Bagger Vance (made into the movie starring Matt Damon and Will Smith), Gates of Fire, Tides of War, Last of the Amazons, Virtues of War, The Afghan Campaign, Killing Rommel, and The Profession. His nonfiction includes The War of Art, The Warrior Ethos, and the upcoming Turning Pro. His books are included in the curriculum at West Point and the Naval Academy, and are on the Commandant's Reading List for the Marine Corps. 
+Steven Pressfield is the author of the novels The Legend of Bagger Vance (made into the movie starring Matt Damon and Will Smith), Gates of Fire, Tides of War, Last of the Amazons, Virtues of War, The Afghan Campaign, Killing Rommel, and The Profession. His nonfiction includes The War of Art, The Warrior Ethos, and the upcoming Turning Pro. His books are included in the curriculum at West Point and the Naval Academy, and are on the Commandant's Reading List for the Marine Corps. 
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 For anyone who has creative battles in writing you will identify easily with Steven Pressfield in your face and humorous tone. This book helped me achieve certain writing goals I never seemed to get moving by motivating me to take action and realize the importance of my voice. This is highly recommend book for anyone who wants to combat the Resistance within them and wants to get starting achieving goals that you've maybe held off for some time. This book will make you realize that the only person who is stopping you from completing goals is yourself.
 

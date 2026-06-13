@@ -5,7 +5,7 @@ slug: thomasvranas-branson-virginity
 heroImage: "/images/blog/thomasvranas-branson-virginity/81FpwK47vCL.jpg"
 excerpt: "Executive Bookshelf: Finding My Virginity Ricard Branson"
 ---
-## Synopsis              
+## Synopsis              
 
 ![tom vranas supes chicago richard branson](/images/blog/thomasvranas-branson-virginity/image-0.jpg)
 

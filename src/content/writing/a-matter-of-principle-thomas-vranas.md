@@ -7,7 +7,7 @@ excerpt: "A Matter Of Principle Conrad Black"
 ---
 ## Synopsis
 
-In 1993, Conrad Black was the proprietor of London's Daily Telegraph and the head of one of the world's largest newspaper groups. He completed a memoir in 1992, A Life in Progress, and "great prospects beckoned." In 2004, he was fired as chairman of Hollinger International after he and his associates were accused of fraud. Here, for the first time, Black describes his indictment, four-month trial in Chicago, partial conviction, imprisonment, and largely successful appeal.
+In 1993, Conrad Black was the proprietor of London's Daily Telegraph and the head of one of the world's largest newspaper groups. He completed a memoir in 1992, A Life in Progress, and "great prospects beckoned." In 2004, he was fired as chairman of Hollinger International after he and his associates were accused of fraud. Here, for the first time, Black describes his indictment, four-month trial in Chicago, partial conviction, imprisonment, and largely successful appeal.
 
 ![thomas vranas supes chicago](/images/blog/a-matter-of-principle-thomas-vranas/image-0.jpg)
 
@@ -15,13 +15,13 @@ In this unflinchingly revealing and superbly written memoir, Black writes withou
 
 Woven throughout are Black's views on big themes: politics, corporate governance, and the U.S. justice system. He is candid about highly personal subjects, including his friendships - with those who have supported and those who have betrayed him - his Roman Catholic faith, and his marriage to Barbara Amiel. And he writes about his complex relations with Canada, Great Britain, and the United States, and in particular the blow he has suffered at the hands of that nation.
 
-In this extraordinary book, Black maintains his innocence and recounts what he describes as "the fight of and for my life." A Matter of Principle is a riveting memoir and a scathing account of a flawed justice system.
+In this extraordinary book, Black maintains his innocence and recounts what he describes as "the fight of and for my life." A Matter of Principle is a riveting memoir and a scathing account of a flawed justice system.
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Before reading this book, I didn’t know much about Conrad Black or the incredible strain of the criminal justice system. Black’s titanic fall from grace is a cautionary tale to any executive- in keeping detailed notes, being aware of every signature and action, and to really be cautious of trusting others.  This book is a gripping reminder that even the biggest titans can fall – and survive.
+Before reading this book, I didn’t know much about Conrad Black or the incredible strain of the criminal justice system. Black’s titanic fall from grace is a cautionary tale to any executive- in keeping detailed notes, being aware of every signature and action, and to really be cautious of trusting others.  This book is a gripping reminder that even the biggest titans can fall – and survive.
 
 * * *
 

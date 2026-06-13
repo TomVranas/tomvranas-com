@@ -13,11 +13,11 @@ Does your job make a meaningful contribution to the world? In the spring of 2013
   
 There are millions of people—HR consultants, communication coordinators, telemarketing researchers, corporate lawyers—whose jobs are useless, and, tragically, they know it. These people are caught in bullshit jobs.  
   
-Graeber explores one of society’s most vexing and deeply felt concerns, indicting among other villains a particular strain of finance capitalism that betrays ideals shared by thinkers ranging from Keynes to Lincoln. _Bullshit Jobs_gives individuals, corporations, and societies permission to undergo a shift in values, placing creative and caring work at the center of our culture. This book is for everyone who wants to turn their vocation back into an avocation.
+Graeber explores one of society’s most vexing and deeply felt concerns, indicting among other villains a particular strain of finance capitalism that betrays ideals shared by thinkers ranging from Keynes to Lincoln. _Bullshit Jobs_gives individuals, corporations, and societies permission to undergo a shift in values, placing creative and caring work at the center of our culture. This book is for everyone who wants to turn their vocation back into an avocation.
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 It seems like in the past few years books have become increasingly … interesting. There seems to be a whole new generation of social scientists that come from varying fields and are addressing astute issues in society with a combination of research-based studies as well as interviews with “real” people. Add to that is a growing set of interesting topics that all seem to revolve around the election as a pivot point in our nation and world history.
 

@@ -19,7 +19,7 @@ Covey adamantly refuses to conflate principles and values; he sees principles as
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 This is one of the rare books that took me months to finish, as I kept practicing and re-read the habits from time to time. The book's contents is very compact and that requires full focus to absorb all the ideas. But it's worth. Every time I read excerpts of this book, I am reminded of principles in life, practical guides on how to change ourselves and how important human interaction is. There’s a reason this is a class- it's a must read book for a man in his quest for excellence.
 

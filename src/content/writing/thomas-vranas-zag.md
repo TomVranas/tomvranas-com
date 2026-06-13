@@ -25,13 +25,13 @@ ZAG follows the ultra-clear "whiteboard overview" style of the author’s first 
 -   how to succeed at all three stages of the competition cycle
 
 In an age of me-too products and instant communications, keeping up with the competition is no longer a winning strategy. Today you have to out-position, out-maneuver, and out-design the competition. The new rule? When everybody zigs, zag. In his first book, THE BRAND GAP, Neumeier showed companies how to bridge the distance between business strategy and design. In ZAG, he illustrates the number-one strategy of high-performance brands—radical differentiation.  
- 
+ 
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-I’ve given or recommended this book to a number of my mentees who are looking to start new companies.  Although short, this book guides you into branding strategy, also brings a basic understanding how innovation can move businesses forward through the redundancy in the market.  It's a great primer on how to create a great business with strong branding vision. Throughout the book, you'll see how to create a brand and is a great introduction to entrepreneurship.
+I’ve given or recommended this book to a number of my mentees who are looking to start new companies.  Although short, this book guides you into branding strategy, also brings a basic understanding how innovation can move businesses forward through the redundancy in the market.  It's a great primer on how to create a great business with strong branding vision. Throughout the book, you'll see how to create a brand and is a great introduction to entrepreneurship.
 
 * * *
 

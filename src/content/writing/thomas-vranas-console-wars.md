@@ -15,13 +15,13 @@ In 1990, Nintendo had a virtual monopoly on the video game industry. Sega, on th
 
 The battle was vicious, relentless, and highly profitable, eventually sparking a global corporate war that would be fought on several fronts: from living rooms and schoolyards to boardrooms and Congress. It was a once-in-a-lifetime, no-holds-barred conflict that pitted brother against brother, kid against adult, Sonic against Mario, and the US against Japan.
 
-Based on over two hundred interviews with former Sega and Nintendo employees, Console Wars is the underdog tale of how Kalinske miraculously turned an industry punchline into a market leader. It’s the story of how a humble family man, with an extraordinary imagination and a gift for turning problems into competitive advantages, inspired a team of underdogs to slay a giant and, as a result, birth a $60 billion dollar industry.
+Based on over two hundred interviews with former Sega and Nintendo employees, Console Wars is the underdog tale of how Kalinske miraculously turned an industry punchline into a market leader. It’s the story of how a humble family man, with an extraordinary imagination and a gift for turning problems into competitive advantages, inspired a team of underdogs to slay a giant and, as a result, birth a $60 billion dollar industry.
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Growing up in the middle of the video game crazy, I was a die-hard SEGA fan. It was an incredible rivalry – just like Coke vs. Pepsi, White Sox vs. Cubs. Obviously this love was based on pixels and an irrational allegiance – video games were video games.  This fascinating history of the industry looks at the monopoly of Nintendo and a small startup, SEGA. This competition was made up of incredible marketing, sly tactics and national pride.  It helps to show how even a small team can ramp up and challenge a sitting giant, and in the meantime help drive the entire industry forward.
+Growing up in the middle of the video game crazy, I was a die-hard SEGA fan. It was an incredible rivalry – just like Coke vs. Pepsi, White Sox vs. Cubs. Obviously this love was based on pixels and an irrational allegiance – video games were video games.  This fascinating history of the industry looks at the monopoly of Nintendo and a small startup, SEGA. This competition was made up of incredible marketing, sly tactics and national pride.  It helps to show how even a small team can ramp up and challenge a sitting giant, and in the meantime help drive the entire industry forward.
 
 * * *
 

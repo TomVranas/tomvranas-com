@@ -15,11 +15,11 @@ In Simple Rules, Sull and Eisenhardt masterfully challenge how we think about co
 
 Drawing on rigorous research and riveting stories, the authors ingeniously find insights in unexpected places, from the way Tina Fey codified her experience at Saturday Night Live into rules for producing 30 Rock (rule five: never tell a crazy person he’s crazy) to burglars’ rules for robbery (“avoid houses with a car parked outside”) to Japanese engineers mimicking the rules of slime molds to optimize Tokyo’s rail system. The authors offer fresh information and practical tips on fixing old rules and learning new ones.
 
-Whether you’re struggling with information overload, pursuing opportunities with limited resources, or just trying to change your bad habits, Simple Rules provides powerful insight into how and why simplicity tames complexity.
+Whether you’re struggling with information overload, pursuing opportunities with limited resources, or just trying to change your bad habits, Simple Rules provides powerful insight into how and why simplicity tames complexity.
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 In a world of overwhelming complexity, Simple Rules are here to help. They help us make better choices and improve our performance, while remaining easy to follow and highly customizable. With experience, negotiation and considered observations of your own problems, you too can create your own personal Simple Rules and find easy fixes for even the most complicated of problems.
 

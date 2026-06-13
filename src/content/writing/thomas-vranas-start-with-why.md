@@ -11,15 +11,15 @@ In 2009, Simon Sinek started a movement to help people become more inspired at w
 
 ![thomas vranas supes chicago](/images/blog/thomas-vranas-start-with-why/image-0.jpg)
 
-Sinek starts with a fundamental question: Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over? 
+Sinek starts with a fundamental question: Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over? 
 
-People like Martin Luther King Jr., Steve Jobs, and the Wright Brothers had little in common, but they all started with WHY. They realized that people won't truly buy into a product, service, movement, or idea until they understand the WHY behind it.  
+People like Martin Luther King Jr., Steve Jobs, and the Wright Brothers had little in common, but they all started with WHY. They realized that people won't truly buy into a product, service, movement, or idea until they understand the WHY behind it.  
 
 START WITH WHY shows that the leaders who've had the greatest influence in the world all think, act, and communicate the same way -- and it's the opposite of what everyone else does. Sinek calls this powerful idea The Golden Circle, and it provides a framework upon which organizations can be built, movements can be led, and people can be inspired. And it all starts with WHY.
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 Another classic business and leadership book, Sinek’s take on organization behavior is not to be glossed over. If we can grasp why we do the things we do we will be great at it. I use to think that if I was passionate it would help everyone else out too but in reality we need a way to express the passion into words and actions that others can understand it. That inspiration is what attracts people to your cause and only then do you become a great leader.
 

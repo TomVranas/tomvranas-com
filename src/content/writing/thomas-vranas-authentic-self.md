@@ -36,13 +36,13 @@ I realized pretty quickly that being authentic mattered, and it was an asset tha
 
 Obviously, you can be the best version of yourself - by experiencing new things, reading challenging (and fun) literature, meeting diverse perspectives. You should grow. You should become better, smarter, more polished. Yet deep down in your core, you need to find your authentic self and be true to that.
 
-My incredible wife has been a preschool teacher and tends to come home with some hilarious stories of what kids say.  On this particular day, they were talking about what they wanted to be when they grew up.  She heard the typical stuff - princess, firefighter, doctor....and then it was Louie's turn.  My wife couldn't get an answer out of Louie, a small energetic bundle of mischief.  He was getting annoyed and didn't want to answer, while my wife started to lose her angelic patience.  
+My incredible wife has been a preschool teacher and tends to come home with some hilarious stories of what kids say.  On this particular day, they were talking about what they wanted to be when they grew up.  She heard the typical stuff - princess, firefighter, doctor....and then it was Louie's turn.  My wife couldn't get an answer out of Louie, a small energetic bundle of mischief.  He was getting annoyed and didn't want to answer, while my wife started to lose her angelic patience.  
 
 Finally after being pestered for long enough, Louie realized that he couldn't get out of this question...and exasperated by this interrogation, he let out a big sigh and said...
 
 **_"I JUST WANT TO BE LOUIE"_**
 
-Take that to heart.  Just be yourself when you grow-up and that will be enough for the universe.
+Take that to heart.  Just be yourself when you grow-up and that will be enough for the universe.
 
 * * *
 

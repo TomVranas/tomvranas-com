@@ -17,7 +17,7 @@ This book will teach you to do just that. With dozens of case studies, interview
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
 Choose Yourself was a great read about how the world has changed economically and socially in the last decade. It's filled with great advice, examples and concrete steps on how to build your future. By walking you through some of his own failures, James illuminates a path forward in a world gone dark and crazy. Plus he’s re-tweeted me a few times, so I’m a huge fan!
 

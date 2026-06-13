@@ -17,9 +17,9 @@ In Simplify, bestselling author Bill Hybels identifies the core issues that lure
 
 * * *
 
-## Tom’s Take:              
+## Tom’s Take:              
 
-Although based in religious philosophy, Simplify is a great book to declutter and uncomplicated your life.   I have always been of the mindset that simpler is better in both business and life, but taking the time to really dive into the subject reaffirmed my beliefs. Although uncomfortable to do, re-evaluating priorities and goals in life, and then clearing out the rest of the noise is a great way to make sure you are on the path towards a fulfilling life.
+Although based in religious philosophy, Simplify is a great book to declutter and uncomplicated your life.   I have always been of the mindset that simpler is better in both business and life, but taking the time to really dive into the subject reaffirmed my beliefs. Although uncomfortable to do, re-evaluating priorities and goals in life, and then clearing out the rest of the noise is a great way to make sure you are on the path towards a fulfilling life.
 
 * * *
 
