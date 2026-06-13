@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "tomvranas.com — deal-book style site for Tom Vranas, operating executive",
   "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
