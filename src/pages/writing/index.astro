@@ -1,12 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import Ph from '../../components/Ph.astro';
-import Figure from '../../components/Figure.astro';
-import speakingPhoto from '../../assets/photos/writing-speaking-panel.webp';
 import { SITE } from '../../config';
-
-const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
 
 const all = (await getCollection('writing')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
@@ -91,44 +86,6 @@ const oneLine = (s: string | undefined) => {
           ))
         }
       </ol>
-
-      <p class="reading-now-link">
-        Reading now &mdash;
-        <a href={SITE.goodreads} target="_blank" rel="noopener">see the shelf on Goodreads &rarr;</a>
-      </p>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container-wide">
-      <div class="figure-split">
-        <div>
-          <h2>Speaking</h2>
-          <p style="margin-top: 1.2rem;">
-            I speak to leadership teams, PE portfolio gatherings, and industry groups on the themes
-            I write about.
-          </p>
-          <ul class="topic-list">
-            <li>PE Doesn&rsquo;t Fail at Close &mdash; why the value gets won or lost in the eighteen months after.</li>
-            <li>Installing an Operating System Your Leadership Team Actually Keeps.</li>
-            <li>The Corporate Fixer &mdash; why your hardest problems don&rsquo;t need a specialist.</li>
-          </ul>
-          <p style="margin-top: 1.75rem;">
-            For availability:
-            <a
-              class="btn"
-              href={SITE.schedulingUrl}
-              target="_blank"
-              rel="noopener"
-              style="margin-left: 0.5rem;"
-            >
-              Book a conversation
-            </a>
-            {schedulingIsPlaceholder && <Ph>[Set SCHEDULING_URL in src/config.ts]</Ph>}
-          </p>
-        </div>
-        <Figure src={speakingPhoto} alt="Tom Vranas speaking on a panel" caption="On a panel." />
-      </div>
     </div>
   </section>
 </Base>

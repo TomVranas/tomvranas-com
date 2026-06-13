@@ -2,8 +2,9 @@
 # Per-post 301s for any blog slugs that change during migration are
 # appended below the wildcard rule by scripts/migrate-blog.mjs.
 
-/experience        /work               301
-/coachingpress     /advisory           301
+/work              /experience         301
+/advisory          /engagements        301
+/coachingpress     /engagements        301
 /blog              /writing            301
 /blog/*            /writing/:splat     301
 /blog-vranas       /writing            301

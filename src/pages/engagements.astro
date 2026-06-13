@@ -1,15 +1,19 @@
 ---
 import Base from '../layouts/Base.astro';
+import Ph from '../components/Ph.astro';
+import { SITE } from '../config';
+
+const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
 ---
 
 <Base
-  title="Advisory — Three ways to work together | Tom Vranas"
-  description="Fractional COO and Chief of Staff, coaching and advisory, and board seats for founders and PE-backed companies. Monthly retainers or defined sprints."
+  title="Engagements — Four ways to work together | Tom Vranas"
+  description="Fractional COO and Chief of Staff, coaching and advisory, board seats, and speaking — for founders and PE-backed companies in transition."
 >
   <section class="section">
     <div class="container">
       <p class="eyebrow">Ways to Work Together</p>
-      <h1 style="margin-top: 0.9rem;">Three ways to work together.</h1>
+      <h1 style="margin-top: 0.9rem;">Four ways to work together.</h1>
 
       <p style="margin-top: 1.5rem;">
         Every engagement is the same underlying motion &mdash; diagnose, fix, grow, systematize
@@ -45,6 +49,24 @@ import Base from '../layouts/Base.astro';
             A formal seat for sponsors and boards that want an operator&rsquo;s eye on the
             portfolio company between meetings &mdash; someone who reads the operating reality
             behind the deck and tells you what the quarterly update won&rsquo;t.
+          </p>
+        </div>
+        <div class="proof-block">
+          <h3>Speaking.</h3>
+          <p>
+            I speak to leadership teams, PE portfolio gatherings, and industry groups on the themes
+            I write about.
+          </p>
+          <ul class="topic-list" style="margin-top: 1rem;">
+            <li>PE Doesn&rsquo;t Fail at Close &mdash; why the value gets won or lost in the eighteen months after.</li>
+            <li>Installing an Operating System Your Leadership Team Actually Keeps.</li>
+            <li>The Corporate Fixer &mdash; why your hardest problems don&rsquo;t need a specialist.</li>
+          </ul>
+          <p style="margin-top: 1.25rem;">
+            <a class="btn" href={SITE.schedulingUrl} target="_blank" rel="noopener">
+              Book a conversation
+            </a>
+            {schedulingIsPlaceholder && <Ph>[Set SCHEDULING_URL in src/config.ts]</Ph>}
           </p>
         </div>
       </div>

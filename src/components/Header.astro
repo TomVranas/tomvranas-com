@@ -4,8 +4,8 @@ import { SITE } from '../config';
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const nav = [
   { label: 'Home', href: '/' },
-  { label: 'Work', href: '/work' },
-  { label: 'Advisory', href: '/advisory' },
+  { label: 'Experience', href: '/experience' },
+  { label: 'Engagements', href: '/engagements' },
   { label: 'Contact', href: '/contact' },
 ];
 const isCurrent = (href: string) =>
@@ -14,7 +14,10 @@ const isCurrent = (href: string) =>
 
 <header class="site-header">
   <div class="container-wide site-header__inner">
-    <a class="site-header__name" href="/">Tom Vranas</a>
+    <a class="site-header__brand" href="/" aria-label="Tom Vranas — home">
+      <span class="site-header__name">Tom Vranas</span>
+      <span class="site-header__monogram" aria-hidden="true">TV</span>
+    </a>
     <nav class="site-nav" aria-label="Primary">
       {
         nav.map((item) => (
@@ -31,3 +34,16 @@ const isCurrent = (href: string) =>
     </div>
   </div>
 </header>
+
+<script>
+  // Sticky header condenses after a small scroll: full wordmark + ext links
+  // at the top, "TV" monogram + nav only once scrolling. Class toggle only —
+  // the smooth height/border transition is CSS (and is suppressed for
+  // prefers-reduced-motion via the global reset).
+  const header = document.querySelector('.site-header');
+  if (header) {
+    const update = () => header.classList.toggle('is-condensed', window.scrollY > 64);
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+  }
+</script>
