@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Rising Strong - Brené Brown @BreneBrown"
+tags: ["bookshelf"]
 date: 2018-03-06
 slug: thomas-vranas-rising-strong
 heroImage: "/images/blog/thomas-vranas-rising-strong/Rising-Strong-.jpg"

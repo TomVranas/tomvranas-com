@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : A Whole New You: Six Steps to Ignite Change for Your Best Life - Brett Blumenthal"
+tags: ["bookshelf"]
 date: 2024-06-28
 slug: thomas-vranas-brett-blumenthal
 heroImage: "/images/blog/thomas-vranas-brett-blumenthal/vranas-blumenthal.jpg"

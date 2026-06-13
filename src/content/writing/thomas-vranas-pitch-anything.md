@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Pitch Anything - Oren Klaff @pitchanything"
+tags: ["bookshelf"]
 date: 2018-02-27
 slug: thomas-vranas-pitch-anything
 heroImage: "/images/blog/thomas-vranas-pitch-anything/Pitch-Anything.jpg"

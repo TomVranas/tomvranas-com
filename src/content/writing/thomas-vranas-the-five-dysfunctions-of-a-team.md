@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The Five Dysfunctions of a Team - Patrick M. Lencioni @patricklencioni"
+tags: ["bookshelf"]
 date: 2017-08-22
 slug: thomas-vranas-the-five-dysfunctions-of-a-team
 heroImage: "/images/blog/thomas-vranas-the-five-dysfunctions-of-a-team/The-Five-Dysfunctions-of-a-Team.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Natural Born Heroes : How A Daring Band Of Misfits Mastered The Lost Secrets Of Strength And Endurance - Christopher McDougall"
+tags: ["bookshelf"]
 date: 2017-12-26
 slug: thomas-vranas-natural-born-heroes
 heroImage: "/images/blog/thomas-vranas-natural-born-heroes/Natural-Born-Heroes-.jpg"

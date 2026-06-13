@@ -1,5 +1,6 @@
 ---
 title: "Overcoming Impostor Syndrome: Building Confidence as a Leader and Entrepreneur"
+tags: ["notes"]
 date: 2024-08-12
 slug: overcoming-impostor-syndrome-building-confidence-as-a-leader-and-entrepreneur
 heroImage: "/images/blog/overcoming-impostor-syndrome-building-confidence-as-a-leader-and-entrepreneur/image-hero.jpg"

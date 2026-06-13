@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Wooden: A Lifetime of Observations and Reflections On and Off the Court - John Wooden"
+tags: ["bookshelf"]
 date: 2017-06-13
 slug: thomas-vranas-wooden-bio
 heroImage: "/images/blog/thomas-vranas-wooden-bio/Wooden.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Salvation Army - @SalvationArmyUS "
+tags: ["notes"]
 date: 2017-12-14
 slug: salvation-army-thomas-vranas
 heroImage: "/images/blog/salvation-army-thomas-vranas/zVsO0BpA_400x400.jpeg"

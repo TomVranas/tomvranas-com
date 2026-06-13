@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Unusually Excellent: The Necessary Nine Skills Required for the Practice of Great Leadership - John Hamm"
+tags: ["bookshelf"]
 date: 2017-09-26
 slug: thomas-vranas-unusually-excellent
 heroImage: "/images/blog/thomas-vranas-unusually-excellent/Unusually-Excellent.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The 48 Laws of Power - Robert Greene @RobertGreene"
+tags: ["bookshelf"]
 date: 2017-06-01
 slug: thomas-vranas-the-48-laws-of-power
 heroImage: "/images/blog/thomas-vranas-the-48-laws-of-power/The-48-Laws-of-Power.jpg"

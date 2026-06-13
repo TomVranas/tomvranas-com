@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Creative Confidence - Tom &amp; David Kelley"
+tags: ["bookshelf"]
 date: 2019-04-09
 slug: tom-vranas-creative-confidence
 heroImage: "/images/blog/tom-vranas-creative-confidence/816C08X4elL._AC_UL436_.jpg"

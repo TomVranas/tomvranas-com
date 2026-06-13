@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : SuperFreakonomics -  Steven D. Levitt and Stephen J. Dubner"
+tags: ["bookshelf"]
 date: 2024-08-16
 slug: thomas-vranas-steven-d-levitt
 heroImage: "/images/blog/thomas-vranas-steven-d-levitt/71bRoOZGOtL._AC_UF1000-2C1000_QL80_.jpg"

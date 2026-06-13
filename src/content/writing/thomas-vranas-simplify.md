@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Simplify : Ten Practices To Unclutter Your Soul - Bill Hybels @BillHybels"
+tags: ["bookshelf"]
 date: 2017-12-12
 slug: thomas-vranas-simplify
 heroImage: "/images/blog/thomas-vranas-simplify/Simplify.jpg"

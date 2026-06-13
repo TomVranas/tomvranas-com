@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Beyond Religion: Ethics for a Whole World -  Dalai Lama XIV"
+tags: ["bookshelf"]
 date: 2024-07-05
 slug: thomas-vranasdalai-lama-xiv
 heroImage: "/images/blog/thomas-vranasdalai-lama-xiv/714ZSQkERyL._AC_UF1000-2C1000_QL80_.jpg"

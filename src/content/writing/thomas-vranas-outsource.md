@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @amazonmturk ‏+ @FancyHands + @callruby + @WeWork"
+tags: ["notes"]
 date: 2017-06-25
 slug: thomas-vranas-outsource
 heroImage: "/images/blog/thomas-vranas-outsource/outsource.png"

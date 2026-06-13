@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : National MS Society - @mssociety"
+tags: ["notes"]
 date: 2017-08-24
 slug: ms-thomas-vranas
 heroImage: "/images/blog/ms-thomas-vranas/ms150logo.jpg"

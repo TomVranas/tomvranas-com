@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things : @squarespace"
+tags: ["notes"]
 date: 2018-01-21
 slug: tom-vranas-squarespace
 heroImage: "/images/blog/tom-vranas-squarespace/squarespace_logo.jpg"

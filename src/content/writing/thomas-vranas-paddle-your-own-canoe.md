@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living - Nick Offerman @Nick_Offerman ‏"
+tags: ["bookshelf"]
 date: 2018-02-06
 slug: thomas-vranas-paddle-your-own-canoe
 heroImage: "/images/blog/thomas-vranas-paddle-your-own-canoe/Paddle-Your-Own-Canoe.jpg"

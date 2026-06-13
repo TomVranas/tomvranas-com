@@ -1,5 +1,6 @@
 ---
 title: " Sunday's Strategic Saying"
+tags: ["notes"]
 date: 2019-05-12
 slug: tom-vranas-dont-tell-people-how-to-do-things-tell-them-what-to-do-and-let-them-surprise-you-with-their-results
 heroImage: "/images/blog/tom-vranas-dont-tell-people-how-to-do-things-tell-them-what-to-do-and-let-them-surprise-you-with-their-results/Leadership_Quote_084.jpg"

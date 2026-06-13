@@ -1,5 +1,6 @@
 ---
 title: "The New Ecology of Business: How Sustainability and Profit Can Coexist"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-new-ecology-of-business-how-sustainability-and-profit-can-coexist
 heroImage: "/images/blog/the-new-ecology-of-business-how-sustainability-and-profit-can-coexist/image-hero.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @ElevateLabs + @Lumosity + @peaklabs"
+tags: ["notes"]
 date: 2017-07-23
 slug: thomas-vranas-brain-training
 heroImage: "/images/blog/thomas-vranas-brain-training/brain-training.jpg"

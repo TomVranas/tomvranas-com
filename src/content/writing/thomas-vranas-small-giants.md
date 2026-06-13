@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Small Giants: Companies That Choose to Be Great Instead of Big - Bo Burlingham @BoBurlingham"
+tags: ["bookshelf"]
 date: 2017-08-29
 slug: thomas-vranas-small-giants
 heroImage: "/images/blog/thomas-vranas-small-giants/Small-Giants.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "The Art of Balancing Business and Personal Growth"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-art-of-balancing-business-and-personal-growth
 heroImage: "/images/blog/the-art-of-balancing-business-and-personal-growth/image-hero.jpg"

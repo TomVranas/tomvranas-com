@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things : $2 Bills"
+tags: ["notes"]
 date: 2017-08-06
 slug: thomas-vranas-2-dollars
 heroImage: "/images/blog/thomas-vranas-2-dollars/4344097357_9e6a5aabd4_bjpg.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Sierra Club - @SierraClub"
+tags: ["notes"]
 date: 2017-10-19
 slug: sierra-club-thomas-vranas
 heroImage: "/images/blog/sierra-club-thomas-vranas/02_verticalogo.png"

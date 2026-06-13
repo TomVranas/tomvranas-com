@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The Art of Racing in the Rain - Garth Stein @garthstein"
+tags: ["bookshelf"]
 date: 2017-10-24
 slug: thomas-vranas-the-art-of-racing-in-the-rain
 heroImage: "/images/blog/thomas-vranas-the-art-of-racing-in-the-rain/The-Art-of-Racing-in-the-Rain.jpg"

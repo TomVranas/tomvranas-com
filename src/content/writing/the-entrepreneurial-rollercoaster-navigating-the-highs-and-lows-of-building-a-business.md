@@ -1,5 +1,6 @@
 ---
 title: "The Entrepreneurial Rollercoaster: Navigating the Highs and Lows of Building a Business"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-entrepreneurial-rollercoaster-navigating-the-highs-and-lows-of-building-a-business
 heroImage: "/images/blog/the-entrepreneurial-rollercoaster-navigating-the-highs-and-lows-of-building-a-business/image-hero.jpg"

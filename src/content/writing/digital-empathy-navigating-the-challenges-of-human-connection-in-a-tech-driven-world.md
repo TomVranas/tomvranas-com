@@ -1,5 +1,6 @@
 ---
 title: "Digital Empathy: Navigating the Challenges of Human Connection in a Tech-Driven World"
+tags: ["notes"]
 date: 2024-08-12
 slug: digital-empathy-navigating-the-challenges-of-human-connection-in-a-tech-driven-world
 heroImage: "/images/blog/digital-empathy-navigating-the-challenges-of-human-connection-in-a-tech-driven-world/image-hero.jpg"

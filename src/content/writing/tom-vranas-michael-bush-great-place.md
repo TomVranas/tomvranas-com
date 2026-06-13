@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf - A Great Place to Work For All - Michael C. Bush"
+tags: ["bookshelf"]
 date: 2024-06-25
 slug: tom-vranas-michael-bush-great-place
 heroImage: "/images/blog/tom-vranas-michael-bush-great-place/michael-bush-tom-vranas.jpg"

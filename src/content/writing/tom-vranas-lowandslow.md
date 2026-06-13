@@ -1,5 +1,6 @@
 ---
 title: "Low &amp; Slow - It's Not Just For Grilling Meat."
+tags: ["essay", "personal"]
 date: 2019-01-16
 slug: tom-vranas-lowandslow
 heroImage: "/images/blog/tom-vranas-lowandslow/summer-garden-dinner-eating.jpg"

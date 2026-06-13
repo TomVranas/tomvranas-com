@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Simple Rules: How to Thrive in a Complex World - Donald Sull @simple_rules ‏"
+tags: ["bookshelf"]
 date: 2018-03-27
 slug: thomas-vranas-simple-rules
 heroImage: "/images/blog/thomas-vranas-simple-rules/Simple-Rules.jpg"

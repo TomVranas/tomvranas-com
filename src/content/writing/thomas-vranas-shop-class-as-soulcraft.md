@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Shop Class as Soulcraft: An Inquiry into the Value of Work - Matthew B. Crawford"
+tags: ["bookshelf"]
 date: 2018-01-02
 slug: thomas-vranas-shop-class-as-soulcraft
 heroImage: "/images/blog/thomas-vranas-shop-class-as-soulcraft/Shop-Class-as-Soulcraft.jpg"

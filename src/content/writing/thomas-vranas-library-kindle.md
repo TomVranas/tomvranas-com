@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @GlenPubLib + @waterfi"
+tags: ["notes"]
 date: 2017-09-03
 slug: thomas-vranas-library-kindle
 heroImage: "/images/blog/thomas-vranas-library-kindle/rsz_waterproof_surf_kindle_cropped-900x900.jpg"

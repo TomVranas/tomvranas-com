@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Choose Yourself! - James Altucher @jaltucher"
+tags: ["bookshelf"]
 date: 2017-12-19
 slug: thomas-vranas-choose-yourself
 heroImage: "/images/blog/thomas-vranas-choose-yourself/Choose-Yourself.jpg"

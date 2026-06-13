@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : The Subtle Art of Not Giving a F*ck - Mark Manson"
+tags: ["bookshelf"]
 date: 2024-08-23
 slug: tom-vranas-mark-manson
 heroImage: "/images/blog/tom-vranas-mark-manson/71QKQ9mwV7L._AC_UF1000-2C1000_QL80_.jpg"

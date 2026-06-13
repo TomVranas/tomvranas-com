@@ -1,5 +1,6 @@
 ---
 title: "Virtuous Working While Working Virtually"
+tags: ["essay", "operating"]
 date: 2020-12-02
 slug: tom-vranas-work-from-home
 heroImage: "/images/blog/tom-vranas-work-from-home/1.jpg"

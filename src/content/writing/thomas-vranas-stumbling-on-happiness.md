@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Stumbling On Happiness - Daniel Todd Gilbert @DanTGilbert"
+tags: ["bookshelf"]
 date: 2017-08-15
 slug: thomas-vranas-stumbling-on-happiness
 heroImage: "/images/blog/thomas-vranas-stumbling-on-happiness/Stumbling-On-Happiness-.jpg"

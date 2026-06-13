@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Enjoy Every Sandwich: Living Each Day as If It Were Your Last - Lee Lipsenthal @EESandwich"
+tags: ["bookshelf"]
 date: 2017-07-18
 slug: thomas-vranas-enjoy-every-sandwich
 heroImage: "/images/blog/thomas-vranas-enjoy-every-sandwich/Enjoy-Every-Sandwich.jpg"

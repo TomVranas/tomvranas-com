@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Northwestern - @NUforLife @NorthwesternCFS @NUCareerAdvance"
+tags: ["notes"]
 date: 2017-10-05
 slug: northwestern-thomas-vranas
 heroImage: "/images/blog/northwestern-thomas-vranas/300x300.jpg"

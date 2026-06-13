@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance @valleyhack ‏"
+tags: ["bookshelf"]
 date: 2017-11-28
 slug: thomas-vranas-elon-musk
 heroImage: "/images/blog/thomas-vranas-elon-musk/Elon-Musk.jpg"

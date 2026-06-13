@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Shoe Dog: A Memoir by the Creator of Nike - Phil Knight @NikeUnleash"
+tags: ["bookshelf"]
 date: 2017-08-01
 slug: thomas-vranas-shoe-dog
 heroImage: "/images/blog/thomas-vranas-shoe-dog/Shoe-Dog.jpg"

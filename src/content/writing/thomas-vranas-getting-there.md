@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Getting There : A Book Of Mentors - Gillian Zoe Segal @GillianZoeSegal ‏"
+tags: ["bookshelf"]
 date: 2017-07-04
 slug: thomas-vranas-getting-there
 heroImage: "/images/blog/thomas-vranas-getting-there/Getting-There.jpg"

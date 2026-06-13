@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The Last Lecture - Randy Pausch"
+tags: ["bookshelf"]
 date: 2018-04-17
 slug: thomas-vranas-the-last-lecture
 heroImage: "/images/blog/thomas-vranas-the-last-lecture/The-Last-Lecture.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst - Robert I. Sutton"
+tags: ["bookshelf"]
 date: 2018-03-13
 slug: thomas-vranas-good-boss-bad-boss
 heroImage: "/images/blog/thomas-vranas-good-boss-bad-boss/Good-Boss-2C-Bad-Boss.jpg"

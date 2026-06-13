@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Designing Your Life: Build a Life that Works for You - Bill Burnett"
+tags: ["bookshelf"]
 date: 2024-07-19
 slug: thomas-vranas-bill-burnett
 heroImage: "/images/blog/thomas-vranas-bill-burnett/51L5hQ2mFdL._AC_UF1000-2C1000_QL80_.jpg"

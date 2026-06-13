@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Deep Work: Rules for Focused Success in a Distracted World -  Cal Newport"
+tags: ["bookshelf"]
 date: 2024-07-09
 slug: thomas-vranas-cal-newport
 heroImage: "/images/blog/thomas-vranas-cal-newport/91nujEwIpYL._AC_UF1000-2C1000_QL80_.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Do The KIND Thing : Think Boundlessly, Work Purposefully, Live Passionately - Daniel Lubetzky @danlub ‏"
+tags: ["bookshelf"]
 date: 2018-01-09
 slug: thomas-vranas-do-the-kind-thing
 heroImage: "/images/blog/thomas-vranas-do-the-kind-thing/Do-the-Kind-thing.jpg"

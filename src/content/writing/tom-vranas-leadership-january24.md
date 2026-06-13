@@ -1,5 +1,6 @@
 ---
 title: "Thursday Leadership Lessons"
+tags: ["notes"]
 date: 2019-01-24
 slug: tom-vranas-leadership-january24
 heroImage: "/images/blog/tom-vranas-leadership-january24/Leadership_Quote_005.jpg"

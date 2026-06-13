@@ -1,5 +1,6 @@
 ---
 title: "Know Thyself"
+tags: ["essay", "operating"]
 date: 2019-02-06
 slug: tom-vranas-know-thyself
 heroImage: "/images/blog/tom-vranas-know-thyself/pexels-photo-735307.jpeg"

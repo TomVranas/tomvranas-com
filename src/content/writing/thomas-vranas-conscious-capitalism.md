@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Conscious Capitalism : Liberating The Heroic Spirit Of Business - John Mackey‏"
+tags: ["bookshelf"]
 date: 2017-11-21
 slug: thomas-vranas-conscious-capitalism
 heroImage: "/images/blog/thomas-vranas-conscious-capitalism/Conscious-Capitalism-.jpg"

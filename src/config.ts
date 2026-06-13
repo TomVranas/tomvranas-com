@@ -16,7 +16,7 @@ export const SITE = {
   // VERIFY these profile URLs before launch.
   linkedin: 'https://www.linkedin.com/in/tomvranas',
   medium: 'https://medium.com/@tomvranas',
-  goodreads: 'https://www.goodreads.com/TomVranas',
+  goodreads: 'https://www.goodreads.com/tomvranas',
 
   metaTitle:
     'Tom Vranas — COO, Chief of Staff & EOS Integrator | Operating Executive for Companies in Transition',

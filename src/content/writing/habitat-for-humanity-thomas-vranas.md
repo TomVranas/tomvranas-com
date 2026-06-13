@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Habitat for Humanity - @Habitat_org"
+tags: ["notes"]
 date: 2017-09-07
 slug: habitat-for-humanity-thomas-vranas
 heroImage: "/images/blog/habitat-for-humanity-thomas-vranas/hmptfgCQ.jpg"

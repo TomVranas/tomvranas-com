@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone @BradStone ‏"
+tags: ["bookshelf"]
 date: 2017-10-31
 slug: thomas-vranas-the-everything-store
 heroImage: "/images/blog/thomas-vranas-the-everything-store/The-Everything-Store.jpg"

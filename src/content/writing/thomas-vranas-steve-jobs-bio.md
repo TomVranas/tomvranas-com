@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Steve Jobs - Walter Isaacson @WalterIsaacson"
+tags: ["bookshelf"]
 date: 2017-10-03
 slug: thomas-vranas-steve-jobs-bio
 heroImage: "/images/blog/thomas-vranas-steve-jobs-bio/Steve-Jobs.jpg"

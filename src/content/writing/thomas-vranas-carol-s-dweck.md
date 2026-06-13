@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Mindset: The New Psychology of Success - Carol S. Dweck"
+tags: ["bookshelf"]
 date: 2024-08-02
 slug: thomas-vranas-carol-s-dweck
 heroImage: "/images/blog/thomas-vranas-carol-s-dweck/71wEDMAAnOL._AC_UF1000-2C1000_QL80_.jpg"

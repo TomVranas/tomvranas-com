@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Peak: How Great Companies Get Their Mojo from Maslow - Chip Conley @ChipConley ‏"
+tags: ["bookshelf"]
 date: 2017-07-11
 slug: thomas-vranas-peak
 heroImage: "/images/blog/thomas-vranas-peak/Peak.jpg"

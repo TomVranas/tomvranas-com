@@ -1,5 +1,6 @@
 ---
 title: "Honor. Celebrate. Remember. #MemorialDay"
+tags: ["essay", "personal"]
 date: 2017-05-29
 slug: memorial-day-vranas
 heroImage: "/images/blog/memorial-day-vranas/IMG_1534.JPG"

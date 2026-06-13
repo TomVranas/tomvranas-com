@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The 7 Habits of Highly Effective People - Stephen R. Covey @StephenRCovey"
+tags: ["bookshelf"]
 date: 2017-09-05
 slug: thomas-vranas-the-7-habits-of-highly-effective-people
 heroImage: "/images/blog/thomas-vranas-the-7-habits-of-highly-effective-people/The-7-Habits-of-Highly-Effective-People.jpg"

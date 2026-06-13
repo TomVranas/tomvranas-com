@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @AAAnews"
+tags: ["notes"]
 date: 2017-12-10
 slug: tom-vranas-aaa
 heroImage: "/images/blog/tom-vranas-aaa/brand.gif"

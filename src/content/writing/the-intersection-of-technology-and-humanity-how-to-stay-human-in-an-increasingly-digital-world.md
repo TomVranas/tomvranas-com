@@ -1,5 +1,6 @@
 ---
 title: "The Intersection of Technology and Humanity: How to Stay Human in an Increasingly Digital World"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-intersection-of-technology-and-humanity-how-to-stay-human-in-an-increasingly-digital-world
 heroImage: "/images/blog/the-intersection-of-technology-and-humanity-how-to-stay-human-in-an-increasingly-digital-world/image-hero.jpg"

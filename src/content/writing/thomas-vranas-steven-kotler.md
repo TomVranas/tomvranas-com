@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work - Steven Kotler"
+tags: ["bookshelf"]
 date: 2024-08-13
 slug: thomas-vranas-steven-kotler
 heroImage: "/images/blog/thomas-vranas-steven-kotler/814X5Qw5z0L._AC_UF1000-2C1000_QL80_.jpg"

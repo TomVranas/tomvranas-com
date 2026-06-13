@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Bad Blood: Secrets and Lies in a Silicon Valley Startup - John Carreyrou"
+tags: ["bookshelf"]
 date: 2024-07-02
 slug: thomas-vranas-john-carreyrou
 heroImage: "/images/blog/thomas-vranas-john-carreyrou/61SGSxikRUL._AC_UF1000-2C1000_QL80_.jpg"

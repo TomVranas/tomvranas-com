@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The Emperors of Chocolate: Inside the Secret World of Hershey and Mars - Joël Glenn Brenner"
+tags: ["bookshelf"]
 date: 2017-09-19
 slug: thomas-vranas-the-emperors-of-chocolate
 heroImage: "/images/blog/thomas-vranas-the-emperors-of-chocolate/The-Emperors-of-Chocolate.jpg"

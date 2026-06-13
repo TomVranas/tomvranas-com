@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : HOBY - @HOBY"
+tags: ["notes"]
 date: 2017-11-16
 slug: hoby-thomas-vranas
 heroImage: "/images/blog/hoby-thomas-vranas/BPfDwqKR.jpg"

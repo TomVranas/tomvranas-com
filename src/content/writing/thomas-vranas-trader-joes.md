@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @TraderJoesList"
+tags: ["notes"]
 date: 2017-10-29
 slug: thomas-vranas-trader-joes
 heroImage: "/images/blog/thomas-vranas-trader-joes/trader-joes.png"

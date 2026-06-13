@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : A Matter Of Principle - Conrad Black @ConradMBlack"
+tags: ["bookshelf"]
 date: 2018-01-16
 slug: a-matter-of-principle-thomas-vranas
 heroImage: "/images/blog/a-matter-of-principle-thomas-vranas/A-Matter-Of-Principle-.jpg"

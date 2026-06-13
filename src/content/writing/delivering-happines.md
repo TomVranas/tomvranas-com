@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh @Zappos"
+tags: ["bookshelf"]
 date: 2017-06-27
 slug: delivering-happines
 heroImage: "/images/blog/delivering-happines/Delivering-Happiness.jpg"

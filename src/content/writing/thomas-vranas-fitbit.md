@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @fitbit"
+tags: ["notes"]
 date: 2017-11-12
 slug: thomas-vranas-fitbit
 heroImage: "/images/blog/thomas-vranas-fitbit/Tk5cdz9f_400x400.png"

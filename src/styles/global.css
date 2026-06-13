@@ -28,6 +28,12 @@
   margin: 0;
 }
 
+/* The hidden attribute must always win — author `display` rules (grid,
+   inline-block) otherwise override the UA `[hidden] { display: none }`. */
+[hidden] {
+  display: none !important;
+}
+
 html {
   -webkit-text-size-adjust: 100%;
 }
@@ -1349,15 +1355,12 @@ mark.ph {
   line-height: 1.5;
 }
 
-/* ---- reading-now block (Writing page) ---- */
+/* ---- reading-now link (Writing page) ---- */
 
-.reading-now {
-  border: 1px solid var(--hairline);
-  padding: 1.5rem;
-  margin-top: 3.5rem;
-}
-
-.reading-now .eyebrow {
-  display: block;
-  margin-bottom: 0.75rem;
+.reading-now-link {
+  margin-top: 2.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  color: var(--slate);
 }

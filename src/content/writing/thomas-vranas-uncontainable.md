@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Uncontainable - Kip Tindell @ContainerStore"
+tags: ["bookshelf"]
 date: 2017-09-12
 slug: thomas-vranas-uncontainable
 heroImage: "/images/blog/thomas-vranas-uncontainable/Uncontainable.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Start with Why: How Great Leaders Inspire Everyone to Take Action - Simon Sinek @simonsinek"
+tags: ["bookshelf"]
 date: 2017-08-08
 slug: thomas-vranas-start-with-why
 heroImage: "/images/blog/thomas-vranas-start-with-why/Start-with-Why.jpg"

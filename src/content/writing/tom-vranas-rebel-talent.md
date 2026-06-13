@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Rebel Talent: Why It Pays to Break the Rules at Work and in Life - Francesca Gino"
+tags: ["bookshelf"]
 date: 2019-02-12
 slug: tom-vranas-rebel-talent
 heroImage: "/images/blog/tom-vranas-rebel-talent/51AVhk8NNWL.jpg"

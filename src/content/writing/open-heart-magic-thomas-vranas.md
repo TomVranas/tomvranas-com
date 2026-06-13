@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Open Heart Magic - @OpenHeartMagic"
+tags: ["notes"]
 date: 2017-09-21
 slug: open-heart-magic-thomas-vranas
 heroImage: "/images/blog/open-heart-magic-thomas-vranas/twitter-ICON.jpg"

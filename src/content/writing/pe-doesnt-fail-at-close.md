@@ -1,5 +1,6 @@
 ---
 title: "PE Doesn't Fail at Close."
+tags: ["essay", "integration"]
 date: 2026-06-10
 slug: pe-doesnt-fail-at-close
 excerpt: "The deal team goes home and the operating reality begins. First post in the weekly series — draft pending."

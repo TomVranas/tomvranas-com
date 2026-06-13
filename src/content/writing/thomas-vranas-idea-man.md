@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Idea Man: A Memoir by the Cofounder of Microsoft - Paul Allen @PaulGAllen ‏"
+tags: ["bookshelf"]
 date: 2018-01-30
 slug: thomas-vranas-idea-man
 heroImage: "/images/blog/thomas-vranas-idea-man/Idea-Man.jpg"

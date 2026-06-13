@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Harvest Food Pantry - @VCCE"
+tags: ["notes"]
 date: 2017-11-02
 slug: harvest-food-pantry-thomas-vranas
 heroImage: "/images/blog/harvest-food-pantry-thomas-vranas/Screen-Shot-2017-05-31-at-1.18.34-PM.png"

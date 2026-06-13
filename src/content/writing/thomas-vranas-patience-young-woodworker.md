@@ -1,5 +1,6 @@
 ---
 title: "Patience, Young Woodworker. How to Balance Drive and Moderation."
+tags: ["essay", "culture", "personal"]
 date: 2017-08-15
 slug: thomas-vranas-patience-young-woodworker
 heroImage: "/images/blog/thomas-vranas-patience-young-woodworker/HNzGpuGQZ6NvNJyV9dZl_nick-offerman-head-shot.jpg"

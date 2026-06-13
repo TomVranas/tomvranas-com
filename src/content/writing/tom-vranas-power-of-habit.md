@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg"
+tags: ["bookshelf"]
 date: 2019-03-23
 slug: tom-vranas-power-of-habit
 heroImage: "/images/blog/tom-vranas-power-of-habit/81ZjagjIv0L._AC_US218_..jpg"

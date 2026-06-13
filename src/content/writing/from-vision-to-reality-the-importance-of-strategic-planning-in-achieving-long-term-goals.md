@@ -1,5 +1,6 @@
 ---
 title: "From Vision to Reality: The Importance of Strategic Planning in Achieving Long-Term Goals"
+tags: ["notes"]
 date: 2024-08-12
 slug: from-vision-to-reality-the-importance-of-strategic-planning-in-achieving-long-term-goals
 heroImage: "/images/blog/from-vision-to-reality-the-importance-of-strategic-planning-in-achieving-long-term-goals/image-hero.jpg"

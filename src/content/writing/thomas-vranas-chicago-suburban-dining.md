@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things : Suburban Dining"
+tags: ["notes"]
 date: 2017-07-09
 slug: thomas-vranas-chicago-suburban-dining
 heroImage: "/images/blog/thomas-vranas-chicago-suburban-dining/635911703142030879-1326757472_6359108352604470341427528019_comm-map.png"

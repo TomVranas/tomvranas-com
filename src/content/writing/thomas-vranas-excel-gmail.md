@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @msexcel + @KiwiforGmail"
+tags: ["notes"]
 date: 2017-10-01
 slug: thomas-vranas-excel-gmail
 heroImage: "/images/blog/thomas-vranas-excel-gmail/mO_sPhvY_400x400.png"

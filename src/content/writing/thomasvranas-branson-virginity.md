@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Finding My Virginity — Sir Richard Branson"
+tags: ["bookshelf"]
 date: 2020-11-25
 slug: thomasvranas-branson-virginity
 heroImage: "/images/blog/thomasvranas-branson-virginity/81FpwK47vCL.jpg"

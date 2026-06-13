@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Goodman + Steppenwolf - @GoodmanTheatre + @SteppenwolfThtr "
+tags: ["notes"]
 date: 2017-08-10
 slug: goodman-steppenwolf-thomas-vranas
 heroImage: "/images/blog/goodman-steppenwolf-thomas-vranas/logos.png"

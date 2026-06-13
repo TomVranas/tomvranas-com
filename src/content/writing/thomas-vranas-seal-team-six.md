@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : SEAL Team Six: Memoirs of an Elite Navy SEAL Sniper - Howard E. Wasdin"
+tags: ["bookshelf"]
 date: 2018-03-20
 slug: thomas-vranas-seal-team-six
 heroImage: "/images/blog/thomas-vranas-seal-team-six/SEAL-Team-Six.jpg"

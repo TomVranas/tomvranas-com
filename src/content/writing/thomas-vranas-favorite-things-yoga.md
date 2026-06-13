@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things : #Yoga @CorePowerYoga"
+tags: ["notes"]
 date: 2017-06-08
 slug: thomas-vranas-favorite-things-yoga
 heroImage: "/images/blog/thomas-vranas-favorite-things-yoga/unnamed.jpg"

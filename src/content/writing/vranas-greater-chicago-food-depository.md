@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Greater Chicago Food Depository - @FoodDepository"
+tags: ["notes"]
 date: 2017-07-27
 slug: vranas-greater-chicago-food-depository
 heroImage: "/images/blog/vranas-greater-chicago-food-depository/05uZ73ir.jpg"

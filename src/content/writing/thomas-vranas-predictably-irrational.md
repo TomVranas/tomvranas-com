@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Predictably Irrational - Dan Ariely @danariely"
+tags: ["bookshelf"]
 date: 2018-02-13
 slug: thomas-vranas-predictably-irrational
 heroImage: "/images/blog/thomas-vranas-predictably-irrational/Predictably-Irrational.jpg"

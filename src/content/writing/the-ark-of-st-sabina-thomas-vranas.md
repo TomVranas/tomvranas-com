@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : The ARK of St. Sabina - @ARKofStSabina"
+tags: ["notes"]
 date: 2017-06-01
 slug: the-ark-of-st-sabina-thomas-vranas
 heroImage: "/images/blog/the-ark-of-st-sabina-thomas-vranas/1074898_432083046904066_935954053_o.jpg"

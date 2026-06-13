@@ -1,5 +1,6 @@
 ---
 title: "Embracing EOS: How the Entrepreneurial Operating System Transformed My Business"
+tags: ["notes"]
 date: 2024-08-12
 slug: embracing-eos-how-the-entrepreneurial-operating-system-transformed-my-business
 heroImage: "/images/blog/embracing-eos-how-the-entrepreneurial-operating-system-transformed-my-business/image-hero.jpg"

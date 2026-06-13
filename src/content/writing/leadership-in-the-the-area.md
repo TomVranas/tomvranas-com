@@ -1,5 +1,6 @@
 ---
 title: "In the Arena: Leadership in the Most Difficult Times"
+tags: ["essay", "leadership"]
 date: 2017-09-26
 slug: leadership-in-the-the-area
 heroImage: "/images/blog/leadership-in-the-the-area/Without-a-doubt-Gladiator-is-one-of-Ridley-Scotts-best-and-one-of-....jpg"

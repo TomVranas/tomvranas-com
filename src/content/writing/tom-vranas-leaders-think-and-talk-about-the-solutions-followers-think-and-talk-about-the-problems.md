@@ -1,5 +1,6 @@
 ---
 title: " Sunday's Strategic Saying"
+tags: ["notes"]
 date: 2019-03-31
 slug: tom-vranas-leaders-think-and-talk-about-the-solutions-followers-think-and-talk-about-the-problems
 heroImage: "/images/blog/tom-vranas-leaders-think-and-talk-about-the-solutions-followers-think-and-talk-about-the-problems/Leadership_Quote_070.jpg"

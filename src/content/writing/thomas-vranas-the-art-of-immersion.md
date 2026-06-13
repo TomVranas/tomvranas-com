@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The Art of Immersion: How the Digital Generation Is Remaking Hollywood, Madison Avenue, and the Way We Tell Stories - Frank Rose @frankrose ‏"
+tags: ["bookshelf"]
 date: 2017-10-10
 slug: thomas-vranas-the-art-of-immersion
 heroImage: "/images/blog/thomas-vranas-the-art-of-immersion/The-Art-of-Immersion.jpg"

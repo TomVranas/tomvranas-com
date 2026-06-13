@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Drive: The Surprising Truth About What Motivates Us - Daniel H. Pink"
+tags: ["bookshelf"]
 date: 2024-07-23
 slug: thomas-vranas-daniel-h-pink
 heroImage: "/images/blog/thomas-vranas-daniel-h-pink/51km6RPOvYL._AC_UF1000-2C1000_QL80_.jpg"

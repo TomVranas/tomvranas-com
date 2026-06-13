@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The Happiness Project - Gretchen Rubin @gretchenrubin"
+tags: ["bookshelf"]
 date: 2018-04-10
 slug: thomas-vranas-the-happiness-project
 heroImage: "/images/blog/thomas-vranas-the-happiness-project/The-Happiness-Project.jpg"

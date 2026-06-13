@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @TOTOUSA + @Charmin"
+tags: ["notes"]
 date: 2018-01-07
 slug: tom-vranas-bidet
 heroImage: "/images/blog/tom-vranas-bidet/brilliant-bathroom-custom-bathroom-signs-for-property-custom-made-bathroom-for-custom-bathroom-signs.gif"

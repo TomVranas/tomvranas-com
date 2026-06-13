@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Team in Training - @teamintraining"
+tags: ["notes"]
 date: 2017-06-29
 slug: team-in-training-thomas-vranas
 heroImage: "/images/blog/team-in-training-thomas-vranas/17098457_10154863405409892_141151834176241947_n.jpg"

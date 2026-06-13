@@ -1,5 +1,6 @@
 ---
 title: "Why I’m Trading \"Heroic Bursts\" for Boring Systems"
+tags: ["essay", "operating"]
 date: 2026-01-14
 slug: why-im-trading-heroic-bursts-for-boring-systems
 heroImage: "/images/blog/why-im-trading-heroic-bursts-for-boring-systems/unnamed.jpg"

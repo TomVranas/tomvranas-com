@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : PAWS Chicago - @PAWSChicago"
+tags: ["notes"]
 date: 2017-06-15
 slug: paws-chicago-thomas-vranas
 heroImage: "/images/blog/paws-chicago-thomas-vranas/an44jnta.jpg"

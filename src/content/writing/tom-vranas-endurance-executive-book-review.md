@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Endurance - Alfred Lancing"
+tags: ["bookshelf"]
 date: 2019-04-16
 slug: tom-vranas-endurance-executive-book-review
 heroImage: "/images/blog/tom-vranas-endurance-executive-book-review/Unknown.jpeg"

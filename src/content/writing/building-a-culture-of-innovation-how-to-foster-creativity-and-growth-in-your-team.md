@@ -1,5 +1,6 @@
 ---
 title: "Building a Culture of Innovation: How to Foster Creativity and Growth in Your Team"
+tags: ["notes"]
 date: 2024-08-12
 slug: building-a-culture-of-innovation-how-to-foster-creativity-and-growth-in-your-team
 heroImage: "/images/blog/building-a-culture-of-innovation-how-to-foster-creativity-and-growth-in-your-team/image-hero.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Why “Move Fast and Break Things” Eventually Just Breaks Things"
+tags: ["essay", "operating"]
 date: 2025-12-02
 slug: why-move-fast-and-break-things-eventually-just-breaks-things
 heroImage: "/images/blog/why-move-fast-and-break-things-eventually-just-breaks-things/1.png"

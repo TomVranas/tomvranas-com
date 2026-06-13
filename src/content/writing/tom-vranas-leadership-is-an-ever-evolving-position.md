@@ -1,5 +1,6 @@
 ---
 title: "Thursday Leadership Lessons"
+tags: ["notes"]
 date: 2019-02-07
 slug: tom-vranas-leadership-is-an-ever-evolving-position
 heroImage: "/images/blog/tom-vranas-leadership-is-an-ever-evolving-position/Leadership_Quote_007.jpg"

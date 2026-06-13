@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @GROHE_US + @Keurig + TASSIMO"
+tags: ["notes"]
 date: 2018-02-04
 slug: tom-vranas-home-beverages
 heroImage: "/images/blog/tom-vranas-home-beverages/Screen-Shot-2017-06-19-at-3.00.58-PM.png"

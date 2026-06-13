@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Bootstrapper: From Broke to Badass on a Northern Michigan Farm - Mardi Jo Link @mardilink"
+tags: ["bookshelf"]
 date: 2018-01-23
 slug: thomas-vranas-bootstrapper
 heroImage: "/images/blog/thomas-vranas-bootstrapper/Bootstrapper.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @TheEconomist"
+tags: ["notes"]
 date: 2017-11-26
 slug: thomas-vranas-economist
 heroImage: "/images/blog/thomas-vranas-economist/20170121_cuk400hires_0.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "From Setbacks to Success: Overcoming Challenges in Business and Life"
+tags: ["notes"]
 date: 2024-08-12
 slug: from-setbacks-to-success-overcoming-challenges-in-business-and-life
 heroImage: "/images/blog/from-setbacks-to-success-overcoming-challenges-in-business-and-life/image-hero.jpg"

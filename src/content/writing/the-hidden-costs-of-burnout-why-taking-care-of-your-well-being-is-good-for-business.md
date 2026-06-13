@@ -1,5 +1,6 @@
 ---
 title: "The Hidden Costs of Burnout: Why Taking Care of Your Well-being Is Good for Business"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-hidden-costs-of-burnout-why-taking-care-of-your-well-being-is-good-for-business
 heroImage: "/images/blog/the-hidden-costs-of-burnout-why-taking-care-of-your-well-being-is-good-for-business/image-hero.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Crucial Conversations Tools for Talking When Stakes Are High - Kerry Patterson"
+tags: ["bookshelf"]
 date: 2017-11-07
 slug: thomas-vranas-crucial-conversations
 heroImage: "/images/blog/thomas-vranas-crucial-conversations/Crucial-Conversations.jpg"

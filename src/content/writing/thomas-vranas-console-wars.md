@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Console Wars: Sega, Nintendo, and the Battle that Defined a Generation - Blake J. Harris @blakejharrisNYC ‏"
+tags: ["bookshelf"]
 date: 2017-11-14
 slug: thomas-vranas-console-wars
 heroImage: "/images/blog/thomas-vranas-console-wars/Console-Wars.jpg"

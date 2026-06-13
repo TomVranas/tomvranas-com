@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : Random Acts of Flowers - @RndmActsOfFlwrs"
+tags: ["notes"]
 date: 2017-12-28
 slug: random-acts-of-flowers-thomas-vranas
 heroImage: "/images/blog/random-acts-of-flowers-thomas-vranas/0IX_dcRR_400x400.jpg"

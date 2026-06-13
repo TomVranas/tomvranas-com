@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : City Year - @CityYear"
+tags: ["notes"]
 date: 2017-11-30
 slug: city-year-thomas-vranas
 heroImage: "/images/blog/city-year-thomas-vranas/NE35509LOGO.jpeg"

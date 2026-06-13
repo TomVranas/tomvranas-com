@@ -1,5 +1,6 @@
 ---
 title: "Copy of Tom's Favorite Things :  @msexcel + @KiwiforGmail"
+tags: ["notes"]
 date: 2017-10-01
 slug: fave-excel-kiwi-kk8r5-1jtaq
 heroImage: "/images/blog/fave-excel-kiwi-kk8r5-1jtaq/image-hero.jpg"

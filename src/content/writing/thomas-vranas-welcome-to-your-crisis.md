@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Welcome to Your Crisis: How to Use the Power of Crisis to Create the Life You Want - Laura Day @lauradayintuit"
+tags: ["bookshelf"]
 date: 2017-06-20
 slug: thomas-vranas-welcome-to-your-crisis
 heroImage: "/images/blog/thomas-vranas-welcome-to-your-crisis/Welcome-to-Your-Crisis.jpg"

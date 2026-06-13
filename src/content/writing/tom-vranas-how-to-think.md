@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : How to Think: A Survival Guide for a World at Odds - Alan Jacobs"
+tags: ["bookshelf"]
 date: 2019-02-05
 slug: tom-vranas-how-to-think
 heroImage: "/images/blog/tom-vranas-how-to-think/41Jb4-SKTJL._SX377_BO1-2C204-2C203-2C200_.jpg"

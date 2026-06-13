@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Presence - Amy Cuddy @amyjccuddy"
+tags: ["bookshelf"]
 date: 2017-07-25
 slug: thomas-vranas-presence
 heroImage: "/images/blog/thomas-vranas-presence/Presence-.jpg"

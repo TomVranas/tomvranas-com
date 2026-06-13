@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : The War of Art - Steven Pressfield @SPressfield ‏"
+tags: ["bookshelf"]
 date: 2018-04-24
 slug: thomas-vranas-the-war-of-art
 heroImage: "/images/blog/thomas-vranas-the-war-of-art/The-War-of-Art.jpg"

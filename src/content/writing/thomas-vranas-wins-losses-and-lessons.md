@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Wins, Losses, and Lessons: An Autobiography - Lou Holtz @ESPNDrLou ‏"
+tags: ["bookshelf"]
 date: 2017-06-27
 slug: thomas-vranas-wins-losses-and-lessons
 heroImage: "/images/blog/thomas-vranas-wins-losses-and-lessons/Wins-2C-Losses-2C-and-Lessons.jpg"

@@ -15,28 +15,40 @@ const all = (await getCollection('writing')).sort(
 // "Selected" strip: up to six posts Tom flags featured: true.
 const featured = all.filter((p) => p.data.featured).slice(0, 6);
 
-// Canonical tag set for the filter. Posts carry explicit `tags` in frontmatter
-// once Tom refines; until then we best-guess one from the title/excerpt so the
-// filter is usable on day one.
-const TAGS = ['operating', 'leadership', 'integration', 'culture', 'personal'] as const;
+// Tag pills for the archive filter. "Essays" is the default view (and the
+// reset); "Everything" shows the full unfiltered list. Tags live in each
+// post's frontmatter — every post stays published and in the sitemap; this
+// only curates which rows a human sees by default.
+const PILLS = [
+  { tag: 'essay', label: 'Essays' },
+  { tag: 'operating', label: 'Operating' },
+  { tag: 'leadership', label: 'Leadership' },
+  { tag: 'integration', label: 'Integration' },
+  { tag: 'culture', label: 'Culture' },
+  { tag: 'personal', label: 'Personal' },
+  { tag: 'bookshelf', label: 'Bookshelf' },
+  { tag: 'notes', label: 'Notes' },
+  { tag: 'all', label: 'Everything' },
+];
 
-function tagsFor(post: (typeof all)[number]): string[] {
-  if (post.data.tags?.length) return post.data.tags;
-  const t = `${post.data.title} ${post.data.excerpt ?? ''}`.toLowerCase();
-  const out = new Set<string>();
-  if (/integrat|acquisi|merger|m&a|post-close|due diligence|deal\b|pe\b|private equity/.test(t))
-    out.add('integration');
-  if (/operat|system|process|\beos\b|scorecard|rhythm|execution|productiv|workflow|efficien/.test(t))
-    out.add('operating');
-  if (/leader|manage|\bboss\b|\bteam\b|influence|mentor|delegat|decision/.test(t))
-    out.add('leadership');
-  if (/culture|happ|wellbeing|well-being|mindful|empath|burnout|values|purpose|balance|human/.test(t))
-    out.add('culture');
-  if (/bookshelf|book\b|reading|review|memoir|\blife\b|magician|porsche|personal|journey/.test(t))
-    out.add('personal');
-  if (out.size === 0) out.add('operating');
-  return [...out];
-}
+const tagsFor = (post: (typeof all)[number]): string[] => post.data.tags ?? [];
+
+// Server-render the default view (first 25 essays visible) so there's no
+// flash of the full archive before the deferred filter script runs — and so
+// the curated default still works with JavaScript disabled.
+const PAGE_SIZE = 25;
+let essaySeen = 0;
+const archiveRows = all.map((post) => {
+  const tags = tagsFor(post);
+  const isEssay = tags.includes('essay');
+  let hidden = !isEssay;
+  if (isEssay) {
+    hidden = essaySeen >= PAGE_SIZE;
+    essaySeen += 1;
+  }
+  return { post, tags, hidden };
+});
+const moreHidden = essaySeen <= PAGE_SIZE;
 
 const clean = (s: string) => s.replace(/&nbsp;| /g, ' ').trim();
 const fmtCard = (d: Date) =>
@@ -90,11 +102,15 @@ const fmtLedger = (d: Date) =>
   <section class="section">
     <div class="container">
       <div class="tag-filter" role="group" aria-label="Filter writing by tag">
-        <button class="pill" type="button" data-tag="all" aria-pressed="true">All</button>
         {
-          TAGS.map((tag) => (
-            <button class="pill" type="button" data-tag={tag} aria-pressed="false">
-              {tag}
+          PILLS.map((pill) => (
+            <button
+              class="pill"
+              type="button"
+              data-tag={pill.tag}
+              aria-pressed={pill.tag === 'essay' ? 'true' : 'false'}
+            >
+              {pill.label}
             </button>
           ))
         }
@@ -102,8 +118,8 @@ const fmtLedger = (d: Date) =>
 
       <ul class="archive" style="margin-top: 1.75rem;">
         {
-          all.map((post) => (
-            <li class="archive__row" data-tags={tagsFor(post).join(' ')}>
+          archiveRows.map(({ post, tags, hidden }) => (
+            <li class="archive__row" data-tags={tags.join(' ')} hidden={hidden}>
               <time class="archive__date" datetime={post.data.date.toISOString()}>
                 {fmtLedger(post.data.date)}
               </time>
@@ -118,16 +134,15 @@ const fmtLedger = (d: Date) =>
       <p class="archive__empty" hidden>No posts with that tag yet.</p>
 
       <div class="archive__more">
-        <button class="btn btn--ghost" type="button" id="load-more">Load more</button>
+        <button class="btn btn--ghost" type="button" id="load-more" hidden={moreHidden}>
+          Load more
+        </button>
       </div>
 
-      <aside class="reading-now">
-        <span class="eyebrow">Reading now</span>
-        <p>
-          The current shelf &mdash; what I&rsquo;m reading and what just came off it &mdash; lives on
-          <a href={SITE.goodreads} target="_blank" rel="noopener">Goodreads</a>.
-        </p>
-      </aside>
+      <p class="reading-now-link">
+        Reading now &mdash;
+        <a href={SITE.goodreads} target="_blank" rel="noopener">see the shelf on Goodreads &rarr;</a>
+      </p>
     </div>
   </section>
 
@@ -137,8 +152,8 @@ const fmtLedger = (d: Date) =>
         <div>
           <h2>Speaking</h2>
           <p style="margin-top: 1.2rem;">
-            I speak to leadership teams, PE portfolio gatherings, and industry groups on the same
-            themes I write about. Recent and recurring topics:
+            I speak to leadership teams, PE portfolio gatherings, and industry groups on the themes
+            I write about.
           </p>
           <ul class="topic-list">
             <li><Ph>[Topic 1 &mdash; e.g., Why PE doesn&rsquo;t fail at close]</Ph></li>
@@ -176,7 +191,7 @@ const fmtLedger = (d: Date) =>
 
   if (archive && moreBtn && empty) {
     const rows = Array.from(archive.querySelectorAll<HTMLElement>('.archive__row'));
-    let activeTag = 'all';
+    let activeTag = 'essay';
     let shown = PAGE;
 
     const matches = (row: HTMLElement) =>

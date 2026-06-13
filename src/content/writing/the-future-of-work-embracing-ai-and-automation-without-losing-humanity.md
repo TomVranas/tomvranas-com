@@ -1,5 +1,6 @@
 ---
 title: "The Future of Work: Embracing AI and Automation Without Losing Humanity"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-future-of-work-embracing-ai-and-automation-without-losing-humanity
 heroImage: "/images/blog/the-future-of-work-embracing-ai-and-automation-without-losing-humanity/image-hero.jpg"

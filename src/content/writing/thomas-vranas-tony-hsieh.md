@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Delivering Happiness: A Path to Profits, Passion, and Purpose -  Tony Hsieh"
+tags: ["bookshelf"]
 date: 2024-07-12
 slug: thomas-vranas-tony-hsieh
 heroImage: "/images/blog/thomas-vranas-tony-hsieh/91nujEwIpYL._AC_UF1000-2C1000_QL80_.jpg"

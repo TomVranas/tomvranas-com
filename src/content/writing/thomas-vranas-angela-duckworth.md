@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Grit: The Power of Passion and Perseverance - Angela Duckworth"
+tags: ["bookshelf"]
 date: 2024-07-30
 slug: thomas-vranas-angela-duckworth
 heroImage: "/images/blog/thomas-vranas-angela-duckworth/71gPBwjsEfL._AC_UF1000-2C1000_QL80_.jpg"

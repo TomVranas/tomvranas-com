@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance - Steven D. Levitt "
+tags: ["bookshelf"]
 date: 2017-10-17
 slug: thomas-vranas-superfreakonomics
 heroImage: "/images/blog/thomas-vranas-superfreakonomics/SuperFreakonomics.jpg"

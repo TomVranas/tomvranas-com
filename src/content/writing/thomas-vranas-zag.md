@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : ZAG: The #1 Strategy of High-Performance Brands - Marty Neumeier @MARTYneumeier ‏"
+tags: ["bookshelf"]
 date: 2017-06-06
 slug: thomas-vranas-zag
 heroImage: "/images/blog/thomas-vranas-zag/Zag.jpg"

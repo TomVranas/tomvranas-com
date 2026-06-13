@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @Sonos"
+tags: ["notes"]
 date: 2017-10-15
 slug: thomas-vranas-sonos
 heroImage: "/images/blog/thomas-vranas-sonos/ylYSnvYC_400x400.jpg"

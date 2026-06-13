@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Enlightenment Now: The Case for Reason, Science, Humanism, and Progress - Steven Pinker"
+tags: ["bookshelf"]
 date: 2024-07-26
 slug: thomas-vranas-steven-pinker
 heroImage: "/images/blog/thomas-vranas-steven-pinker/81TgCVpAgIL._AC_UF1000-2C1000_QL80_.jpg"

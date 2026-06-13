@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Principles: Life and Work - Ray Dalio"
+tags: ["bookshelf"]
 date: 2024-08-06
 slug: thomas-vranas-ray-dalio
 heroImage: "/images/blog/thomas-vranas-ray-dalio/61LKD6scbfL._AC_UF1000-2C1000_QL80_.jpg"

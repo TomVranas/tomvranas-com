@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Unbroken: A World War II Story of Survival, Resilience, and Redemption -  Laura Hillenbrand"
+tags: ["bookshelf"]
 date: 2024-08-27
 slug: tom-vranas-laura-hillenbrand
 heroImage: "/images/blog/tom-vranas-laura-hillenbrand/81EA3SkAzFL._AC_UF1000-2C1000_QL80_.jpg"

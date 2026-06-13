@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : 10% Happier - Dan Harris"
+tags: ["bookshelf"]
 date: 2019-01-14
 slug: tom-vranas-happier-harris
 heroImage: "/images/blog/tom-vranas-happier-harris/41ZddvIrPtL._AC_US218_.jpg"

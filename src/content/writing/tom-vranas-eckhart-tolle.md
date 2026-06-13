@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : The Power of Now: A Guide to Spiritual Enlightenment - Eckhart Tolle"
+tags: ["bookshelf"]
 date: 2024-08-20
 slug: tom-vranas-eckhart-tolle
 heroImage: "/images/blog/tom-vranas-eckhart-tolle/61Ij8nLooNL._AC_UF1000-2C1000_QL80_.jpg"

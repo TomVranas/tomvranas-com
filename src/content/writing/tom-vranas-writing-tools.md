@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things : Fancy Writing Tools"
+tags: ["notes"]
 date: 2018-02-18
 slug: tom-vranas-writing-tools
 heroImage: "/images/blog/tom-vranas-writing-tools/old03730.JPG"

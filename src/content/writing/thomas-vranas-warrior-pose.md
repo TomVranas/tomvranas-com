@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Warrior Pose: How Yoga (Literally) Saved My Life - Brad Willis @Bhava_Ram ‏"
+tags: ["bookshelf"]
 date: 2018-04-03
 slug: thomas-vranas-warrior-pose
 heroImage: "/images/blog/thomas-vranas-warrior-pose/Warrior-Pose.jpg"

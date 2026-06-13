@@ -1,5 +1,6 @@
 ---
 title: "Executive Bookshelf : Bullshit Jobs — David Graeber"
+tags: ["bookshelf"]
 date: 2020-03-10
 slug: thomas-vranas-bullshit-jobs
 heroImage: "/images/blog/thomas-vranas-bullshit-jobs/51WI7LXn1IL._SX329_BO1-2C204-2C203-2C200_.jpg"

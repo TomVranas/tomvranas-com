@@ -1,5 +1,6 @@
 ---
 title: "From Consumerism to Consciousness: Redefining Success in the 21st Century"
+tags: ["notes"]
 date: 2024-08-12
 slug: from-consumerism-to-consciousness-redefining-success-in-the-21st-century
 heroImage: "/images/blog/from-consumerism-to-consciousness-redefining-success-in-the-21st-century/image-hero.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @ASICSamerica"
+tags: ["notes"]
 date: 2017-08-20
 slug: thomas-vranas-asics-shoes
 heroImage: "/images/blog/thomas-vranas-asics-shoes/rsD6H6QO_400x400.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : American Sketches: Great Leaders, Creative Thinkers, and Heroes of a Hurricane - Walter Isaacson @WalterIsaacson"
+tags: ["bookshelf"]
 date: 2018-02-20
 slug: thomas-vranas-american-sketches
 heroImage: "/images/blog/thomas-vranas-american-sketches/American-Sketches.jpg"

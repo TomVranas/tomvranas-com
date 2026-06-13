@@ -1,5 +1,6 @@
 ---
 title: "The Power of Failure: How Embracing Mistakes Can Lead to Greater Success"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-power-of-failure-how-embracing-mistakes-can-lead-to-greater-success
 heroImage: "/images/blog/the-power-of-failure-how-embracing-mistakes-can-lead-to-greater-success/image-hero.jpg"

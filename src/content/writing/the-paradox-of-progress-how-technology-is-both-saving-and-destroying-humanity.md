@@ -1,5 +1,6 @@
 ---
 title: "The Paradox of Progress: How Technology is Both Saving and Destroying Humanity"
+tags: ["notes"]
 date: 2024-08-12
 slug: the-paradox-of-progress-how-technology-is-both-saving-and-destroying-humanity
 heroImage: "/images/blog/the-paradox-of-progress-how-technology-is-both-saving-and-destroying-humanity/image-hero.jpg"

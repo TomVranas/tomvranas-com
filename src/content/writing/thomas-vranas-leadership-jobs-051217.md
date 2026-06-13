@@ -1,5 +1,6 @@
 ---
 title: "Sunday Special Inspiration"
+tags: ["operating"]
 date: 2017-05-21
 slug: thomas-vranas-leadership-jobs-051217
 heroImage: "/images/blog/thomas-vranas-leadership-jobs-051217/Screen-Shot-2017-05-21-at-5.57.06-PM.png"

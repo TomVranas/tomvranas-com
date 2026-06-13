@@ -1,5 +1,6 @@
 ---
 title: "The Uber of...Crappy Ideas"
+tags: ["essay", "operating"]
 date: 2019-01-30
 slug: tom-vranas-uber-of-crappy-ideas
 heroImage: "/images/blog/tom-vranas-uber-of-crappy-ideas/light-bulb-current-light-glow-40889.jpeg"

@@ -1,5 +1,6 @@
 ---
 title: "Executive #Bookshelf : Screw Business As Usual: Turning Capitalism into a Force for Good - Richard Branson @richardbranson"
+tags: ["bookshelf"]
 date: 2017-12-05
 slug: thomas-vranas-screw-business-as-usual
 heroImage: "/images/blog/thomas-vranas-screw-business-as-usual/Screw-Business-As-Usual.jpg"

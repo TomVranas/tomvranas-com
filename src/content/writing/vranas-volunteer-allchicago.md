@@ -1,5 +1,6 @@
 ---
 title: "#Volunteer Spotlight : All Chicago - @AllChicago_MHH"
+tags: ["notes"]
 date: 2017-07-13
 slug: vranas-volunteer-allchicago
 heroImage: "/images/blog/vranas-volunteer-allchicago/plain_heart.jpg"

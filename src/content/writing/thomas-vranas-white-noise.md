@@ -1,5 +1,6 @@
 ---
 title: "Tom's Favorite Things :  @SeriousSleep"
+tags: ["notes"]
 date: 2017-09-17
 slug: thomas-vranas-white-noise
 heroImage: "/images/blog/thomas-vranas-white-noise/1b6340e8-b78d-4b27-b782-f95c6e9f8030_1.70442adbd98d08868016876ed043130d.jpg"

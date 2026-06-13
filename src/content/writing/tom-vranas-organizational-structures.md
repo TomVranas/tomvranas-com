@@ -1,5 +1,6 @@
 ---
 title: "Reinventing Organizations"
+tags: ["essay", "operating"]
 date: 2019-01-22
 slug: tom-vranas-organizational-structures
 heroImage: "/images/blog/tom-vranas-organizational-structures/ReinventingOrganizationsImage-1024.jpg"
