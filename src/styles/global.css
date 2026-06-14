@@ -597,17 +597,24 @@ mark.ph {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1.75rem 2.75rem;
+  gap: 1.5rem 2rem;
   flex-wrap: wrap;
-  margin-top: 1.75rem;
+  margin-top: 2rem;
 }
 
-/* Marks are pre-inked to one tone on transparent — no filter needed. On
-   pointer devices they sit at 60% and come up to full on hover; touch devices
-   skip the effect and show them at full strength. */
+/* Marks are pre-inked to one tone on transparent — no filter needed. Height
+   scales from ~28px on mobile to ~40-48px on desktop. */
 .logo-row__mark {
-  height: 1.75rem;
+  height: clamp(1.75rem, 0.5rem + 3.2vw, 3rem);
   width: auto;
+}
+
+/* Desktop: larger marks spread across the full content width, edge to edge. */
+@media (min-width: 700px) {
+  .logo-row {
+    justify-content: space-between;
+    gap: 2rem 2.5rem;
+  }
 }
 
 @media (hover: hover) {
