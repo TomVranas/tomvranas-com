@@ -2,24 +2,27 @@
 // "Companies & institutions I've worked with" logo row (Home page).
 // Each mark is pre-normalized to a single ink tone on a transparent ground
 // (see src/assets/logos/), so no grayscale/recolor filter is applied here —
-// they already read as one deliberate set. NBC has no usable mark (the color
-// peacock turns to mud in monochrome), so it renders as an Archivo wordmark.
+// they already read as one deliberate set. The NBC peacock is recolored to
+// the same flat ink (not desaturated) so it stays coherent with the row.
 import { Image } from 'astro:assets';
 import apple from '../assets/logos/apple.png';
+import nbc from '../assets/logos/nbc.png';
 import northwestern from '../assets/logos/northwestern-garage.png';
 import hbr from '../assets/logos/hbr.png';
 import mcPartners from '../assets/logos/mc-partners.png';
 import txi from '../assets/logos/txi.png';
+import inc from '../assets/logos/inc.png';
 import execClub from '../assets/logos/executives-club-chicago.png';
 import perScholas from '../assets/logos/per-scholas.png';
 
 const logos = [
   { src: apple, alt: 'Apple' },
-  { wordmark: 'NBC' },
+  { src: nbc, alt: 'NBC' },
   { src: northwestern, alt: 'Northwestern — The Garage' },
   { src: hbr, alt: 'Harvard Business Review' },
   { src: mcPartners, alt: 'MC Partners' },
   { src: txi, alt: 'TXI' },
+  { src: inc, alt: 'Inc.' },
   { src: execClub, alt: "Executives' Club of Chicago" },
   { src: perScholas, alt: 'Per Scholas' },
 ];
@@ -27,12 +30,8 @@ const logos = [
 
 <div class="logo-row">
   {
-    logos.map((logo) =>
-      logo.wordmark ? (
-        <span class="logo-row__wordmark">{logo.wordmark}</span>
-      ) : (
-        <Image class="logo-row__mark" src={logo.src!} alt={logo.alt!} height={28} loading="lazy" />
-      )
-    )
+    logos.map((logo) => (
+      <Image class="logo-row__mark" src={logo.src} alt={logo.alt} height={28} loading="lazy" />
+    ))
   }
 </div>

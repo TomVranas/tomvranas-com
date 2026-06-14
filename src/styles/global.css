@@ -610,24 +610,13 @@ mark.ph {
   width: auto;
 }
 
-.logo-row__wordmark {
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 1.45rem;
-  line-height: 1;
-  letter-spacing: 0.01em;
-  color: var(--ink);
-}
-
 @media (hover: hover) {
-  .logo-row__mark,
-  .logo-row__wordmark {
+  .logo-row__mark {
     opacity: 0.6;
     transition: opacity 0.2s ease;
   }
 
-  .logo-row__mark:hover,
-  .logo-row__wordmark:hover {
+  .logo-row__mark:hover {
     opacity: 1;
   }
 }
