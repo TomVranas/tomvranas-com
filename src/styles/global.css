@@ -999,6 +999,28 @@ mark.ph {
   }
 }
 
+/* Normalized grayscale company logo at the top of an expanded dossier.
+   Uniform optical height; the marks are pre-processed to one ink tone on a
+   transparent ground, so no filter or hover treatment is applied here. */
+.dossier__logo {
+  display: block;
+  height: 2.5rem;
+  width: auto;
+  margin: 0.4rem 0 1.4rem;
+}
+
+/* Xigent has no logo — its name stands in as an Archivo wordmark. */
+.dossier__logo-wordmark {
+  display: block;
+  margin: 0.4rem 0 1.4rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
 .dossier__dl {
   margin: 0;
 }
