@@ -1,49 +1,38 @@
 ---
-// Logo row. Tom supplies ~8 clean grayscale logo files into
-// src/assets/logos/ — the old site's logo images are NOT scraped (many are
-// screenshots). Real logos render grayscale at rest, full color on hover
-// (desktop); grayscale always on touch. Until files exist, named placeholder
-// boxes render in the agreed order so the row can't ship unnoticed.
-import type { ImageMetadata } from 'astro';
+// "Companies & institutions I've worked with" logo row (Home page).
+// Each mark is pre-normalized to a single ink tone on a transparent ground
+// (see src/assets/logos/), so no grayscale/recolor filter is applied here —
+// they already read as one deliberate set. NBC has no usable mark (the color
+// peacock turns to mud in monochrome), so it renders as an Archivo wordmark.
+import { Image } from 'astro:assets';
+import apple from '../assets/logos/apple.png';
+import northwestern from '../assets/logos/northwestern-garage.png';
+import hbr from '../assets/logos/hbr.png';
+import mcPartners from '../assets/logos/mc-partners.png';
+import txi from '../assets/logos/txi.png';
+import execClub from '../assets/logos/executives-club-chicago.png';
+import perScholas from '../assets/logos/per-scholas.png';
 
-const logos = Object.entries(
-  import.meta.glob<{ default: ImageMetadata }>('../assets/logos/*.{png,svg,jpg,jpeg,webp}', {
-    eager: true,
-  })
-).sort(([a], [b]) => a.localeCompare(b));
-
-const placeholderSlots = [
-  'Apple',
-  'NBC',
-  'The Princeton Review',
-  'CareerBuilder',
-  'US Cellular',
-  'Northwestern University',
-  'Zentro',
-  'Everywhere Wireless',
+const logos = [
+  { src: apple, alt: 'Apple' },
+  { wordmark: 'NBC' },
+  { src: northwestern, alt: 'Northwestern — The Garage' },
+  { src: hbr, alt: 'Harvard Business Review' },
+  { src: mcPartners, alt: 'MC Partners' },
+  { src: txi, alt: 'TXI' },
+  { src: execClub, alt: "Executives' Club of Chicago" },
+  { src: perScholas, alt: 'Per Scholas' },
 ];
 ---
 
-{
-  logos.length > 0 ? (
-    <div class="logo-row">
-      {logos.map(([path, mod]) => (
-        <img
-          src={mod.default.src}
-          alt={path
-            .split('/')
-            .pop()!
-            .replace(/\.[^.]+$/, '')
-            .replace(/[-_]/g, ' ')}
-          loading="lazy"
-        />
-      ))}
-    </div>
-  ) : (
-    <div class="logo-row logo-row--placeholder" aria-label="Logo placeholders pending final files">
-      {placeholderSlots.map((name) => (
-        <span class="logo-chip">{name}</span>
-      ))}
-    </div>
-  )
-}
+<div class="logo-row">
+  {
+    logos.map((logo) =>
+      logo.wordmark ? (
+        <span class="logo-row__wordmark">{logo.wordmark}</span>
+      ) : (
+        <Image class="logo-row__mark" src={logo.src!} alt={logo.alt!} height={28} loading="lazy" />
+      )
+    )
+  }
+</div>
