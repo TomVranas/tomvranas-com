@@ -705,6 +705,21 @@ mark.ph {
   }
 }
 
+/* Home hero: a larger, bottom-aligned landscape exhibit rather than a small
+   side thumbnail. The wide photo column keeps both Tom and the presentation
+   screen legible; on mobile it stacks full-width under the hero text. */
+@media (min-width: 821px) {
+  .figure-split--hero {
+    grid-template-columns: minmax(0, 1fr) minmax(360px, 46%);
+    gap: 3rem;
+    align-items: end;
+  }
+}
+
+.figure-split--hero .figure {
+  max-width: none;
+}
+
 /* ---- CTA band ---- */
 
 .cta-band {
