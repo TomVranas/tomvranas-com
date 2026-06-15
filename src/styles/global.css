@@ -881,6 +881,30 @@ mark.ph {
   margin-bottom: 0.4rem;
 }
 
+/* Outcomes list inside a case study — ledger-style markers. */
+.cs-list {
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0;
+}
+
+.cs-list li {
+  position: relative;
+  padding: 0.55rem 0 0.55rem 1.3rem;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.cs-list li:first-child {
+  border-top: 1px solid var(--hairline);
+}
+
+.cs-list li::before {
+  content: "›";
+  position: absolute;
+  left: 0;
+  color: var(--green);
+}
+
 /* ---- role dossiers (Work) ---- */
 
 .dossiers {
@@ -1136,6 +1160,15 @@ mark.ph {
     border-color: var(--green);
     transform: translateY(-2px);
   }
+}
+
+.case-card__meta {
+  margin: 0 0 0.45rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--green);
 }
 
 .case-card__title {
