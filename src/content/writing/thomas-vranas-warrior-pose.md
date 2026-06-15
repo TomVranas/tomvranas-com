@@ -10,8 +10,6 @@ excerpt: "Warrior Pose: How Yoga (Literally) Saved My Life Brad Willis"
 
 From covering the front lines of the Gulf War to investigating Colombian drug lords to living with freedom fighters in the mountains of Afghanistan, war correspondent Brad Willis was accustomed to risk. But when mortal danger came, it was from an unexpected direction.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-warrior-pose/image-0.jpg)
-
 At the pinnacle of his career, a broken back and failed surgery left Willis permanently disabled and condemned to life in a body brace. Then came a diagnosis of terminal, stage IV throat cancer.
 
 At his 50th birthday party, friends gathered around Willis, who was crippled, almost mute, depressed, strung out on narcotic medications, and dying. Halfway through the celebration Willis realized the party’s true purpose—his friends were there to say goodbye.

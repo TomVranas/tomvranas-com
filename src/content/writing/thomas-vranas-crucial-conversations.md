@@ -10,8 +10,6 @@ excerpt: "Executive #Bookshelf : Crucial Conversations Tools for Talking When St
 
 Perhaps once a decade, a book comes along that transforms people’s lives in a very real, measurable way. This is one of them.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-crucial-conversations/image-0.jpg)
-
 Crucial Conversations exploded onto the scene ten years ago and revolutionized the way people communicate when stakes are high, opinions vary, and emotions run strong. Since then, millions of people have learned how to hold effective crucial conversations and have dramatically improved their lives and careers thanks to the methods outlined in this book.
 
 Crucial Conversations gets you past the hard parts of dialogue and helps you achieve relationships that are real, productive, and that will enrich your life and career

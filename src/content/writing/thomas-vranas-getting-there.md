@@ -8,8 +8,6 @@ excerpt: "Getting There : A Book Of Mentors Gillian Zoe Segal"
 ---
 ## Synopsis
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-getting-there/image-0.jpg)
-
 The path to success is rarely easy or direct, and good mentors are hard to find. In Getting There, thirty leaders in diverse fields share their secrets to navigating the rocky road to the top. In an honest, direct, and engaging way, these role models describe the obstacles they faced, the setbacks they endured, and the vital lessons they learned. They dispense not only essential and practical career advice, but also priceless wisdom applicable to life in general. Getting There is for everyone—from students contemplating their futures to the vast majority of us facing challenges or seeking to reach our potential.
 
 * * *

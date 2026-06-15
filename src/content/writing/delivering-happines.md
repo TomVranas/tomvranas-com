@@ -10,8 +10,6 @@ excerpt: "Delivering Happiness: A Path to Profits, Passion, and Purpose Tony Hsi
 
 The visionary CEO of Zappos explains how an emphasis on corporate culture can lead to unprecedented success.
 
-![thomas vranas supes chicago](/images/blog/delivering-happines/image-0.jpg)
-
 Pay new employees $2000 to quit. Make customer service the entire company, not just a department. Focus on company culture as the #1 priority. Apply research from the science of happiness to running a business. Help employees grow both personally and professionally. Seek to change the world. Oh, and make money too.
 
 Sound crazy? It's all standard operating procedure at Zappos.com, the online retailer that's doing over $1 billion in gross merchandise sales every year.

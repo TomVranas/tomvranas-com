@@ -14,8 +14,6 @@ excerpt: "ZAG: The #1 Strategy of High-Performance Brands Marty Neumeier"
 
 ZAG follows the ultra-clear "whiteboard overview" style of the author’s first book, THE BRAND GAP, but drills deeper into the question of how brands can harness the power of differentiation. The author argues that in an extremely cluttered marketplace, traditional differentiation is no longer enough—today companies need “radical differentiation” to create lasting value for their shareholders and customers. In an entertaining 3-hour read you’ll learn:
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-zag/image-0.jpg)
-
 -   why me-too brands are doomed to fail
 -   how to "read" customer feedback on new products and messages
 -   the 17 steps for designing “difference” into your brand

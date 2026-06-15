@@ -10,8 +10,6 @@ excerpt: "A Matter Of Principle Conrad Black"
 
 In 1993, Conrad Black was the proprietor of London's Daily Telegraph and the head of one of the world's largest newspaper groups. He completed a memoir in 1992, A Life in Progress, and "great prospects beckoned." In 2004, he was fired as chairman of Hollinger International after he and his associates were accused of fraud. Here, for the first time, Black describes his indictment, four-month trial in Chicago, partial conviction, imprisonment, and largely successful appeal.
 
-![thomas vranas supes chicago](/images/blog/a-matter-of-principle-thomas-vranas/image-0.jpg)
-
 In this unflinchingly revealing and superbly written memoir, Black writes without reserve about the prosecutors who mounted a campaign to destroy him and the journalists who presumed he was guilty. Fascinating people fill these pages, from prime ministers and presidents to the social, legal, and media elite, among them: Margaret Thatcher, Tony Blair, George W. Bush, Jean Chrétien, Rupert Murdoch, Izzy Asper, Richard Perle, Norman Podhoretz, Eddie Greenspan, Alan Dershowitz, and Henry Kissinger.
 
 Woven throughout are Black's views on big themes: politics, corporate governance, and the U.S. justice system. He is candid about highly personal subjects, including his friendships - with those who have supported and those who have betrayed him - his Roman Catholic faith, and his marriage to Barbara Amiel. And he writes about his complex relations with Canada, Great Britain, and the United States, and in particular the blow he has suffered at the hands of that nation.

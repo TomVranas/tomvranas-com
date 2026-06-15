@@ -10,8 +10,6 @@ excerpt: "The Art of Racing in the Rain Garth Stein"
 
 Enzo knows he is different from other dogs: a philosopher with a nearly human soul (and an obsession with opposable thumbs), he has educated himself by watching television extensively, and by listening very closely to the words of his master, Denny Swift, an up-and-coming race car driver. 
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-the-art-of-racing-in-the-rain/image-0.jpg)
-
 Through Denny, Enzo has gained tremendous insight into the human condition, and he sees that life, like racing, isn't simply about going fast. Using the techniques needed on the race track, one can successfully navigate all of life's ordeals.
 
 On the eve of his death, Enzo takes stock of his life, recalling all that he and his family have been through: the sacrifices Denny has made to succeed professionally; the unexpected loss of Eve, Denny's wife; the three-year battle over their daughter, Zoë, whose maternal grandparents pulled every string to gain custody. In the end, despite what he sees as his own limitations, Enzo comes through heroically to preserve the Swift family, holding in his heart the dream that Denny will become a racing champion with Zoë at his side. Having learned what it takes to be a compassionate and successful person, the wise canine can barely wait until his next lifetime, when he is sure he will return as a man. 

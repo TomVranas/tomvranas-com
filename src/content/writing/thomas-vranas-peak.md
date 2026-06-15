@@ -10,8 +10,6 @@ excerpt: "Peak: How Great Companies Get Their Mojo from Maslow Chip Conley"
 
 After fifteen years of rising to the pinnacle of the hospitality industry, Chip Conley's company was suddenly undercapitalized and overexposed in the post-dot.com, post-9/11 economy. For relief and inspiration, Conley, the CEO and founder of Joie de Vivre Hospitality, turned to psychologist Abraham Maslow's iconic Hierarchy of Needs. This book explores how Conley's company "the second largest boutique hotelier in the world" overcame the storm that hit the travel industry by applying Maslow's theory to what Conley identifies as the key Relationship Truths in business with Employees, Customers and Investors. 
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-peak/image-0.jpg)
-
 Part memoir, part theory, and part application, the book tells of Joie de Vivre's remarkable transformation while providing real world examples from other companies and showing how readers can bring about similar changes in their work and personal lives. Conley explains how to understand the motivations of employees, customers, bosses, and investors, and use that understanding to foster better relationships and build an enduring and profitable corporate culture.
 
 * * *

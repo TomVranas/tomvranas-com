@@ -8,8 +8,6 @@ excerpt: "Executive Bookshelf : The Power of Habit: Why We Do What We Do in Life
 ---
 ## Synopsis
 
-![tom vranas](/images/blog/tom-vranas-power-of-habit/image-0.jpg)
-
 **In _The Power of Habit,_ award-winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.**
 
 Distilling vast amounts of information into engrossing narratives that take us from the boardrooms of Procter & Gamble to the sidelines of the NFL to the front lines of the civil rights movement, Duhigg presents a whole new understanding of human nature and its potential. At its core, _The Power of Habit_contains an exhilarating argument: The key to exercising regularly, losing weight, being more productive, and achieving success is understanding how habits work. As Duhigg shows, by harnessing this new science, we can transform our businesses, our communities, and our lives.

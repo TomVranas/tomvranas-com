@@ -17,8 +17,6 @@ The picture contains a select number of mementos from my ancestors that served i
 
 View fullsize
 
-![thomas vranas memorial day chicago](/images/blog/memorial-day-vranas/image-0.jpg)
-
 * * *
 
 ## An Irish Airman Foresees His Death  

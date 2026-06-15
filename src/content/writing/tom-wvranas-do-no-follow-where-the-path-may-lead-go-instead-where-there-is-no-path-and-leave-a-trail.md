@@ -6,4 +6,3 @@ slug: tom-wvranas-do-no-follow-where-the-path-may-lead-go-instead-where-there-is
 heroImage: "/images/blog/tom-wvranas-do-no-follow-where-the-path-may-lead-go-instead-where-there-is-no-path-and-leave-a-trail/Leadership_Quote_071.jpg"
 excerpt: "Do no follow where the path may lead. Go instead where there is no path and leave a trail."
 ---
-![tom vranas](/images/blog/tom-wvranas-do-no-follow-where-the-path-may-lead-go-instead-where-there-is-no-path-and-leave-a-trail/image-0.jpg)

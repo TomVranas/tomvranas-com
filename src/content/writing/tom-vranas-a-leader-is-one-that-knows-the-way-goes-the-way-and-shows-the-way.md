@@ -6,4 +6,3 @@ slug: tom-vranas-a-leader-is-one-that-knows-the-way-goes-the-way-and-shows-the-w
 heroImage: "/images/blog/tom-vranas-a-leader-is-one-that-knows-the-way-goes-the-way-and-shows-the-way/Leadership_Quote_036.jpg"
 excerpt: "A leader is one that knows the way, goes the way and shows the way."
 ---
-![tom vranas](/images/blog/tom-vranas-a-leader-is-one-that-knows-the-way-goes-the-way-and-shows-the-way/image-0.jpg)

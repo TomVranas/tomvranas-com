@@ -10,8 +10,6 @@ excerpt: "Screw Business As Usual: Turning Capitalism into a Force for Good Rich
 
 From the trailblazing founder and CEO of the Virgin Group, a powerful argument for using business to make a positive impact in the world.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-screw-business-as-usual/image-0.jpg)
-
 Richard Branson, one of the world’s most famous and admired business leaders, argues that it’s time to turn capitalism upside down—to shift our values from an exclusive focus on profit to also caring for people, communities and the planet.
 
 As he writes, “My message is a simple one: business as usual isn’t working. In fact, it’s ‘business as usual’ that’s wrecking our planet. Resources are being used up; the air, the sea, the land—are all heavily polluted. The poor are getting poorer. Many are dying of starvation or because they can’t afford a dollar a day for life-saving medicine. . . . Prophesying doom and gloom is simply not my style. . . . I think business can help fix things and create a more prosperous world for everyone. I happen to believe in business because I believe that business can be a force for good. By that I mean doing good is good for business.”

@@ -7,8 +7,6 @@ heroImage: "/images/blog/thomas-vranas-know-your-team/Event_3126.jpg"
 excerpt: "There are so many books and blogs on leadership- the sheer volume written is indicative of its importance in the workplace.  But It also shows that we keep failing our teams."
 featured: true
 ---
-![Don't be this guy.](/images/blog/thomas-vranas-know-your-team/image-0.jpg)
-
 _Don't be this guy._
 
 We’ve all seen the parodies of bad bosses.  Office Space and The Office should be required in any business course on leadership.  It’s easy to know how to not be the cliché "bad manager".  Yet, leaders these days are trying to avoid being that jerk while forgetting what it’s like to be a GREAT leader.

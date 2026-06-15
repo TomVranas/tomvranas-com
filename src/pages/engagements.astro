@@ -1,9 +1,5 @@
 ---
 import Base from '../layouts/Base.astro';
-import Ph from '../components/Ph.astro';
-import { SITE } from '../config';
-
-const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
 ---
 
 <Base
@@ -63,10 +59,7 @@ const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
             <li>The Corporate Fixer &mdash; why your hardest problems don&rsquo;t need a specialist.</li>
           </ul>
           <p style="margin-top: 1.25rem;">
-            <a class="btn" href={SITE.schedulingUrl} target="_blank" rel="noopener">
-              Book a conversation
-            </a>
-            {schedulingIsPlaceholder && <Ph>[Set SCHEDULING_URL in src/config.ts]</Ph>}
+            <a class="btn" href="/contact">Start a conversation</a>
           </p>
         </div>
       </div>

@@ -10,8 +10,6 @@ excerpt: "The Emperors of Chocolate: Inside the Secret World of Hershey and Mars
 
 Forrest Mars and Milton Hershey built business empires out of chocolate. In this long-awaited history of the candy business, over eight years in the making, former Washington Post reporter Joël Glenn Brenner tells a unique story that is like chocolate itself, a rich blend of many compelling ingredients--in this case, biography and cultural history, investigative reporting and literary journalism.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-the-emperors-of-chocolate/image-0.jpg)
-
 Along the way, Brenner takes us inside a world as mysterious as Willy Wonka's Chocolate Factory, where industrial spies jockey for inside information as paranoid executives fight an all-out war for America's sweet tooth.
 
 Forrest Mars, often called "the Howard Hughes of candy," was one of the most successful (and private) entrepreneurs in America, a brilliant autocrat who built a unique $20-billion-a-year empire. Milton Hershey was a dreamer who wanted to create not just a company but an industrial paradise, and after making an immense fortune, he promptly gave it all away. To this day, the Hershey company is controlled by a charitable trust and its profits fund the wealthiest orphanage in the world.

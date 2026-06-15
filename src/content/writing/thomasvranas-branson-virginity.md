@@ -8,8 +8,6 @@ excerpt: "Executive Bookshelf: Finding My Virginity Ricard Branson"
 ---
 ## Synopsis              
 
-![tom vranas supes chicago richard branson](/images/blog/thomasvranas-branson-virginity/image-0.jpg)
-
 Richard Branson’s _Losing My Virginity_ shared the outrageous tale of how he built Virgin from a student magazine into one of the greatest brands in history. No challenge was too daunting, no opportunity too outlandish to pursue. And each new adventure started with five simple words: “Screw it, let’s do it.”  
   
 Now, fifty years after starting his first business, Branson shares the candid details of a lifetime of triumphs and failures and what he really thinks about his unique life and career. _Finding My Virginity_ is an intimate look at his never-ending quest to push boundaries, break rules, and seek new frontiers—even after launching a dozen billion-dollar businesses and hundreds of other companies.  

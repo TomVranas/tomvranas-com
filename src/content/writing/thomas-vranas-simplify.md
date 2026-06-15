@@ -10,8 +10,6 @@ excerpt: "Simplify : Ten Practices To Unclutter Your Soul Bill Hybels"
 
 Exhausted. Overwhelmed. Overscheduled. Sound familiar? Today’s velocity of life can consume and control us . . . until our breakneck pace begins to feel normal and expected. That’s where the danger lies: When we spend our lives doing things that keep us busy but don’t really matter, we sacrifice the things that do.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-simplify/image-0.jpg)
-
 What if your life could be different? What if you could be certain you were living the life God called you to live—and building a legacy for those you love? If you crave a simpler life anchored by the priorities that matter most, roll up your sleeves: Simplified living requires more than just cleaning out your closets or reorganizing your desk drawer. It requires uncluttering your soul. By eradicating the stuff that leaves your spirit drained, you can stop doing what doesn’t matter—and start doing what does.
 
 In Simplify, bestselling author Bill Hybels identifies the core issues that lure us into frenetic living—and offers practical steps for sweeping the clutter from our souls.

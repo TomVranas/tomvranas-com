@@ -6,4 +6,3 @@ slug: tom-vranas-every-great-leader-can-take-you-back-to-a-defining-moment-when-
 heroImage: "/images/blog/tom-vranas-every-great-leader-can-take-you-back-to-a-defining-moment-when-they-decided-to-lead/Leadership_Quote_069.jpg"
 excerpt: "Every great leader can take you back to a defining moment when they decided to lead."
 ---
-![tom vranas](/images/blog/tom-vranas-every-great-leader-can-take-you-back-to-a-defining-moment-when-they-decided-to-lead/image-0.jpg)

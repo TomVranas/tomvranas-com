@@ -6,4 +6,3 @@ slug: tom-vranas-the-quality-of-a-leaders-is-reflected-in-the-standards-they-set
 heroImage: "/images/blog/tom-vranas-the-quality-of-a-leaders-is-reflected-in-the-standards-they-set-for-themselves/Leadership_Quote_059.jpg"
 excerpt: "The quality of a leaders is reflected in the standards they set for themselves."
 ---
-![tom vranas](/images/blog/tom-vranas-the-quality-of-a-leaders-is-reflected-in-the-standards-they-set-for-themselves/image-0.jpg)

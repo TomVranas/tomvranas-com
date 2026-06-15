@@ -10,8 +10,6 @@ excerpt: "Natural Born Heroes : How A Daring Band Of Misfits Mastered The Lost S
 
 The best-selling author of Born to Run now travels to the Mediterranean, where he discovers that the secrets of ancient Greek heroes are still alive and well on the island of Crete, and ready to be unleashed in the muscles and minds of casual athletes and aspiring heroes everywhere. 
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-natural-born-heroes/image-0.jpg)
-
 After running an ultramarathon through the Copper Canyons of Mexico, Christopher McDougall finds his next great adventure on the razor-sharp mountains of Crete, where a band of Resistance fighters in World War II plotted the daring abduction of a German general from the heart of the Nazi occupation. How did a penniless artist, a young shepherd, and a playboy poet believe they could carry out such a remarkable feat of strength and endurance, smuggling the general past thousands of Nazi pursuers, with little more than their own wits and courage to guide them? 
 
 McDougall makes his way to the island to find the answer and retrace their steps, experiencing firsthand the extreme physical challenges the Resistance fighters and their local allies faced. On Crete, the birthplace of the classical Greek heroism that spawned the likes of Herakles and Odysseus, McDougall discovers the tools of the hero—natural movement, extraordinary endurance, and efficient nutrition. All of these skills, McDougall learns, are still practiced in far-flung pockets throughout the world today.

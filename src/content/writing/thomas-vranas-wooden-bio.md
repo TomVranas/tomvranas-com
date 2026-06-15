@@ -18,8 +18,6 @@ Coach Wooden's remarkable 10 national basketball championships in 12 years at UC
 
 There are no complex ideas, just little beams of light filtered through anecdotes that project the kinds of simple, immutable truths that in the end touch nothing but net. Evoking days gone by when coaches were expected as much for their off-court performance as for their success on the court, this unique and intimate work presents the timeless wisdom of legendary basketball coach John Wooden.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-wooden-bio/image-0.jpg)
-
 In honest and telling passages about virtually every aspect of life, Coach shares his personal philosophy on family, achievement, success, and excellence. Raised on a small farm in south-central Indiana, he offers lessons and wisdom learned throughout his career at UCLA, and life as a dedicated husband, father, and teacher.
 
 These lessons, along with personal letters from Bill Walton, Denny Crum, Kareem Abdul-Jabbar, and Bob Costas, among others, have made Wooden: A Lifetime of Observations and Reflections on and off the Court an inspirational classic.

@@ -8,8 +8,6 @@ heroImage: "/images/blog/tom-vranas-ok-to-be-less-than-the-best/photo-1581792519
 excerpt: "We all find ourselves striving to be number one in everything we do. Is there some peace in accepting that sometimes, and more than we wish to admit, it's OK to just be OK? I think so."
 featured: true
 ---
-![tom vranas](/images/blog/tom-vranas-ok-to-be-less-than-the-best/image-0.jpg)
-
 2nd place. Even the sound of that word strikes fear in most a-type leaders. Who wants to be the best loser? Even worse than that, what motivated and competitive person wants to look weak or fail at something they are striving for? It’s a part of the human condition to strive for greatness and within leaders that desire to be the best is usually a great trait. Yet, sometimes it’s unneeded and unhealthy.
 
 I’m here to try and convince you that you don’t always have to the best at everything you do. We are programmed to ignore our weaknesses and focus solely on the things that are our strong traits.

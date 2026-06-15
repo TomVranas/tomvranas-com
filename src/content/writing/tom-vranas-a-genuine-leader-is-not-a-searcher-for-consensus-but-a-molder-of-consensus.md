@@ -6,4 +6,3 @@ slug: tom-vranas-a-genuine-leader-is-not-a-searcher-for-consensus-but-a-molder-o
 heroImage: "/images/blog/tom-vranas-a-genuine-leader-is-not-a-searcher-for-consensus-but-a-molder-of-consensus/Leadership_Quote_050.jpg"
 excerpt: "A genuine leader is not a searcher for consensus but a molder of consensus."
 ---
-![tom vranas](/images/blog/tom-vranas-a-genuine-leader-is-not-a-searcher-for-consensus-but-a-molder-of-consensus/image-0.jpg)

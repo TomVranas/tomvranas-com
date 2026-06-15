@@ -10,8 +10,6 @@ excerpt: "The 7 Habits of Highly Effective People Stephen R. Covey"
 
 The 7 Habits of Highly Effective People, first published in 1989, is a business and self-help book written by Stephen R. Covey. Covey presents an approach to being effective in attaining goals by aligning oneself to what he calls "true north" principles of a character ethic that he presents as universal and timeless.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-the-7-habits-of-highly-effective-people/image-0.jpg)
-
 Covey defines effectiveness as balancing obtaining desirable results with caring for that which produces the desirable results. He illustrates this by referring to the fable of the "Goose That Laid the Golden Eggs". He further claims that effectiveness can be expressed in terms of the P/PC ratio, where P refers to getting desired results and PC is caring for that which produces the results.
 
 Covey's best-known book has sold more than 25 million copies worldwide since its first publication in 1989. The audio version became the first non-fiction audio-book in U.S. publishing history to sell more than one million copies. Covey argues against what he calls "The Personality Ethic", something he sees as prevalent in many modern self-help books. He promotes what he labels "The Character Ethic": aligning one's values with so-called "universal and timeless" principles.

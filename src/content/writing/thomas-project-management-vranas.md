@@ -23,8 +23,6 @@ Let’s assume that this is not a typical humdrum project, but a key piece of in
 
 ## Step 1 : Take A Walk
 
-![Bring some friends on your walk if you want.](/images/blog/thomas-project-management-vranas/image-0.jpg)
-
 _Bring some friends on your walk if you want._
 
 That’s right, get up and take a walk. Bonus points if you can find a new route around the office or outside. Extra bonus points if you go to lunch at a restaurant you haven’t been to.

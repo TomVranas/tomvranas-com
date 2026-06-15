@@ -10,8 +10,6 @@ excerpt: "SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suic
 
 Superfreakonomics—the smash hit follow-up to the remarkable New York Times bestselling phenomenon Freakonomics—is back in a new full-color, fully illustrated and expanded edition. The brainchild of rogue economist Steven D. Levitt and Stephen J. Dubner that once again brilliantly challenges our view of the way the world really works is presented with a new, visual, superfreaky dimension added, enhancing the already provocative thinking about street prostitutes, hurricanes, heart attacks, and other seemingly mundane matters that made Freakonomics and Superfreakonomicspart of the national zeitgeist.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-superfreakonomics/image-0.jpg)
-
 The explanatory note states that the theme of the book explores the concept that we all work for a particular reward. The introduction states we should look at problems economically. The examples given include the preference for sons in India and the hardships Indian women face, as well as the horse manure issue at the turn of the 20th century.
 
 The first chapter explores prostitution and pimps in South Chicago, one high class escort, and real estate brokers. The pimps and brokers are compared based on the idea that they are helping to sell one's services to the larger market. Inequalities in pay grades for men and women are also covered in the chapter.

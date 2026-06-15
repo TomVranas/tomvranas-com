@@ -8,8 +8,6 @@ excerpt: "The Happiness Project Gretchen Rubin"
 ---
 ## Synopsis
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-the-happiness-project/image-0.jpg)
-
 Gretchen Rubin had an epiphany one rainy afternoon in the unlikeliest of places: a city bus. “The days are long, but the years are short,” she realized. “Time is passing, and I’m not focusing enough on the things that really matter.” In that moment, she decided to dedicate a year to her happiness project.
 
 In this lively and compelling account—now updated with new material by the author—Rubin chronicles her adventures during the twelve months she spent test-driving the wisdom of the ages, current scientific research, and lessons from popular culture about how to be happier. Among other things, she found that novelty and challenge are powerful sources of happiness; that money can help buy happiness, when spent wisely; that outer order contributes to inner calm; and that the very smallest of changes can make the biggest difference.

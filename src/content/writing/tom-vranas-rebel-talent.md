@@ -6,8 +6,6 @@ slug: tom-vranas-rebel-talent
 heroImage: "/images/blog/tom-vranas-rebel-talent/51AVhk8NNWL.jpg"
 excerpt: "Executive Bookshelf : Rebel Talent: Why It Pays to Break the Rules at Work and in Life Francesca Gino"
 ---
-![tom vranas chicago](/images/blog/tom-vranas-rebel-talent/image-0.jpg)
-
 ## Synopsis
 
 **Do you want to follow a script -- or write your own story?**  

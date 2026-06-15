@@ -10,8 +10,6 @@ excerpt: "Bootstrapper: From Broke to Badass on a Northern Michigan Farm Mardi J
 
 Poignant, irreverent, and hilarious: the memoir of a woman who, after ending her nineteen-year marriage, staves off a perpetually empty bank account, saves her century-old farmhouse from foreclosure with the help of her three young sons, and reclaims her life.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-bootstrapper/image-0.jpg)
-
 It's the summer of 2005, and Mardi Jo Link's dream of living the simple life has unraveled into debt, heartbreak, and perpetually ragged cuticles. Still, when she and her husband call it quits, leaving her more broke than ever, Link makes a seemingly impossible resolution: to hang on to her northern Michigan farm and continue to raise her boys on well water and wood chopping and dirt. Armed with an unfailing sense of humor and her three resolute accomplices, Link confronts blizzards and coyotes, learns about Zen divorce and the best way to butcher a hog, dominates a zucchini-growing contest and wins a year's supply of local bread, masters the art of bargain cooking, deals with rampaging poultry, and finds her way to a truly rich existence. Told with endless heart and candor, Bootstrapper is a story of motherhood and survival and self-discovery, of an indomitable woman who, against all the odds, holds on to what matters most.
 
 * * *

@@ -3,8 +3,6 @@ import Base from '../layouts/Base.astro';
 import Figure from '../components/Figure.astro';
 import { SITE } from '../config';
 import headshot from '../assets/photos/contact-headshot.png';
-
-const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
 ---
 
 <Base
@@ -21,18 +19,7 @@ const schedulingIsPlaceholder = SITE.schedulingUrl.startsWith('{{');
       </p>
 
       <p style="margin-top: 2rem;">
-        <a class="btn" href={SITE.schedulingUrl} target="_blank" rel="noopener" title="No deck required.">Schedule a call</a>
-        {
-          schedulingIsPlaceholder && (
-            <mark class="ph" style="margin-left: 0.75rem;">
-              [Set SCHEDULING_URL in src/config.ts — Calendly/SavvyCal]
-            </mark>
-          )
-        }
-      </p>
-
-      <p style="margin-top: 1.5rem;">
-        Or email directly: <strong><a href={`mailto:${SITE.email}`}>{SITE.email}</a></strong>
+        <a class="btn" href={`mailto:${SITE.email}`} title="No deck required.">Email me</a>
       </p>
 
       <div class="figure-split figure-split--narrow" style="margin-top: 2.5rem;">

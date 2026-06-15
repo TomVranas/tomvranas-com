@@ -14,8 +14,6 @@ For all my love of components and customizing my systems...I was done. No more t
 
 # I had enough. There had to be a better way.
 
-![](/images/blog/thomas-vranas-sonos/image-asset.jpeg)
-
 Around 2010, I discovered a growing company called SONOS what would forever change the way I consumed music. Sonos is a smart, connected, wireless speaker system. Sonos speakers are, well, speakers. What makes them different from old-fashioned wired speakers is that you don't need the wires. You just plug them into power and they work.
 
 SONOS streams our favorite music services - Pandora and Spotify are constantly on throughout our house thanks to SONOS.

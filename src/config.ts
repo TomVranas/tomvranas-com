@@ -6,9 +6,6 @@ export const SITE = {
   url: 'https://tomvranas.com',
   email: 'tom@tomvranas.com',
 
-  // PLACEHOLDER — replace with the real Calendly/SavvyCal URL before launch.
-  schedulingUrl: '{{SCHEDULING_URL}}',
-
   // PLACEHOLDER — Cloudflare Web Analytics token (Cloudflare dashboard →
   // Analytics & Logs → Web Analytics). Leave as-is and the snippet is omitted.
   analyticsToken: '{{ANALYTICS_TOKEN}}',
@@ -21,5 +18,5 @@ export const SITE = {
   metaTitle:
     'Tom Vranas — COO, Chief of Staff & EOS Integrator | Operating Executive for Companies in Transition',
   metaDescription:
-    'Second-seat operating executive and fixer for founders and PE-backed companies. Two exits, three integrations, every seat held. I fix what’s broken and work myself out of the job.',
+    'Second-seat operating executive and fixer for founders and PE-backed companies. Eight transactions, every seat held. I fix what’s broken and work myself out of the job.',
 };

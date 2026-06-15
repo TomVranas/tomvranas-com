@@ -6,4 +6,3 @@ slug: tom-vranas-management-is-doing-things-right-leadership-is-doing-the-right-
 heroImage: "/images/blog/tom-vranas-management-is-doing-things-right-leadership-is-doing-the-right-things/Leadership_Quote_041.jpg"
 excerpt: "Management is doing things right; leadership is doing the right things."
 ---
-![tom vranas](/images/blog/tom-vranas-management-is-doing-things-right-leadership-is-doing-the-right-things/image-0.jpg)

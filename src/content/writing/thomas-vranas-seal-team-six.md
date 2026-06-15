@@ -10,8 +10,6 @@ excerpt: "SEAL Team Six: Memoirs of an Elite Navy SEAL Sniper   Howard E. Wasdin
 
 The New York Times best selling book that takes you inside SEAL Team Six – the covert squad that killed Osama Bin Laden.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-seal-team-six/image-0.jpg)
-
 SEAL Team Six is a secret unit tasked with counterterrorism, hostage rescue, and counterinsurgency. In this dramatic, behind-the-scenes chronicle, Howard Wasdin takes readers deep inside the world of Navy SEALS and Special Forces snipers, beginning with the grueling selection process of Basic Underwater Demolition/SEAL (BUD/S)—the toughest and longest military training in the world. 
 
 After graduating, Wasdin faced new challenges. First there was combat in Operation Desert Storm as a member of SEAL Team Two. Then the Green Course: the selection process to join the legendary SEAL Team Six, with a curriculum that included practiced land warfare to unarmed combat. More than learning how to pick a lock, they learned how to blow the door off its hinges. Finally as a member of SEAL Team Six he graduated from the most storied and challenging sniper program in the country: The Marine's Scout Sniper School. Eventually, of the 18 snipers in SEAL Team Six, Wasdin became the best—which meant one of the best snipers on the planet. 

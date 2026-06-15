@@ -10,8 +10,6 @@ excerpt: "Choose Yourself James Altucher"
 
 The world is changing. Markets have crashed. Jobs have disappeared. Industries have been disrupted and are being remade before our eyes. Everything we aspired to for “security,” everything we thought was “safe,” no longer is: College. Employment. Retirement. Government. It’s all crumbling down. In every part of society, the middlemen are being pushed out of the picture. No longer is someone coming to hire you, to invest in your company, to sign you, to pick you. It’s on you to make the most important decision in your life: Choose Yourself.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-choose-yourself/image-0.jpg)
-
 New tools and economic forces have emerged to make it possible for individuals to create art, make millions of dollars and change the world without “help.” More and more opportunities are rising out of the ashes of the broken system to generate real inward success (personal happiness and health) and outward success (fulfilling work and wealth).
 
 This book will teach you to do just that. With dozens of case studies, interviews and examples–including the author, investor and entrepreneur James Altucher’s own heartbreaking and inspiring story–Choose Yourself illuminates your personal path to building a bright, new world out of the wreckage of the old.

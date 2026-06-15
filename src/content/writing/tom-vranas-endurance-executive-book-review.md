@@ -8,8 +8,6 @@ excerpt: "Executive Bookshelf : Endurance: Shackleton's Incredible Voyage Alfred
 ---
 ## Synopsis
 
-![tom vranas](/images/blog/tom-vranas-endurance-executive-book-review/image-0.jpg)
-
 In August 1914, explorer Ernest Shackleton and his crew set sail from England for Antarctica, where Shackleton hoped to be the first man to cross the uncharted continent on foot. Five months later, the Endurance - just a day's sail short of its destination - became locked in an island of ice, and its destiny and men became locked in history. For ten months the ice-moored Endurance drifted until it was finally crushed, and Shackleton and his crew made an 850-mile journey in a 20-foot craft through the South Atlantic's worst seas to reach an outpost of civilization. Inspired by the ordeal that Time magazine said "defined heroism," author Alfred Lansing conducted interviews with the crew's surviving members and pored over diaries and personal accounts to create his best-selling book on the miraculous voyage
 
 * * *

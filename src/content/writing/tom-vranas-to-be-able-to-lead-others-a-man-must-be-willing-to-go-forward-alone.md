@@ -6,4 +6,3 @@ slug: tom-vranas-to-be-able-to-lead-others-a-man-must-be-willing-to-go-forward-a
 heroImage: "/images/blog/tom-vranas-to-be-able-to-lead-others-a-man-must-be-willing-to-go-forward-alone/Leadership_Quote_040.jpg"
 excerpt: "To be able to lead others, a man must be willing to go forward alone."
 ---
-![tom vranas](/images/blog/tom-vranas-to-be-able-to-lead-others-a-man-must-be-willing-to-go-forward-alone/image-0.jpg)

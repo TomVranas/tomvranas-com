@@ -8,8 +8,6 @@ excerpt: "The Art of Immersion: How the Digital Generation Is Remaking Hollywood
 ---
 ## Synopsis
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-the-art-of-immersion/image-0.jpg)
-
 Not long ago we were spectators, passive consumers of mass media. Now, on YouTube and blogs and Facebook and Twitter, we are media. No longer content in our traditional role as couch potatoes, we approach television shows, movies, even advertising as invitations to participate—as experiences to immerse ourselves in at will. Frank Rose introduces us to the people who are reshaping media for a two-way world, changing how we play, how we communicate, and how we think.
 
 > “A broad and deep look at how electronic media are changing storytelling . . . . Completely fascinating.”

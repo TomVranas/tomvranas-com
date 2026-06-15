@@ -10,8 +10,6 @@ excerpt: "Start with Why: How Great Leaders Inspire Everyone to Take Action Simo
 
 In 2009, Simon Sinek started a movement to help people become more inspired at work, and in turn inspire their colleagues and customers. Since then, millions have been touched by the power of his ideas, including more than 28 million who’ve watched his TED Talk based on START WITH WHY -- the third most popular TED video of all time
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-start-with-why/image-0.jpg)
-
 Sinek starts with a fundamental question: Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over? 
 
 People like Martin Luther King Jr., Steve Jobs, and the Wright Brothers had little in common, but they all started with WHY. They realized that people won't truly buy into a product, service, movement, or idea until they understand the WHY behind it.  

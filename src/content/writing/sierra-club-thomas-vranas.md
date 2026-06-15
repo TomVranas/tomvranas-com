@@ -14,8 +14,6 @@ At one of my first jobs out of college, one of my colleagues mentioned he was do
 
 Sure, I helped clean up some trash, plant some flowers and dig some dirt - but that day mother nature gave me a gift of appreciation for the land we live on.
 
-![thomas vranas chicago](/images/blog/sierra-club-thomas-vranas/image-0.jpg)
-
 The cleanup was sponsored by Sierra Club and in the bus ride I got to learn more about the Club.
 
 Founded by legendary conservationist John Muir in 1892, the Sierra Club is now the nation's largest and most influential grassroots environmental organization -- with three million members and supporters. Their successes range from protecting millions of acres of wilderness to helping pass the Clean Air Act, Clean Water Act, and Endangered Species Act. More recently, they've made history by leading the charge to move away from the dirty fossil fuels that cause climate disruption and toward a clean energy economy.

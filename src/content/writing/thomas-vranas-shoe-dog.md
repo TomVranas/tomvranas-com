@@ -10,8 +10,6 @@ excerpt: "Shoe Dog: A Memoir by the Creator of Nike Phil Knight"
 
 In this candid and riveting memoir, for the first time ever, Nike founder and board chairman Phil Knight shares the inside story of the company’s early days as an intrepid start-up and its evolution into one of the world’s most iconic, game-changing, and profitable brands.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-shoe-dog/image-0.jpg)
-
 Young, searching, fresh out of business school, Phil Knight borrowed fifty dollars from his father and launched a company with one simple mission: import high-quality, low-cost running shoes from Japan. Selling the shoes from the trunk of his Plymouth Valiant, Knight grossed eight thousand dollars that first year, 1963. Today, Nike’s annual sales top $30 billion. In this age of start-ups, Knight’s Nike is the gold standard, and its swoosh is more than a logo. A symbol of grace and greatness, it’s one of the few icons instantly recognized in every corner of the world.
 
 But Knight, the man behind the swoosh, has always been a mystery. Now, in a memoir that’s surprising, humble, unfiltered, funny, and beautifully crafted, he tells his story at last. It all begins with a classic crossroads moment. Twenty-four years old, backpacking through Asia and Europe and Africa, wrestling with life’s Great Questions, Knight decides the unconventional path is the only one for him.

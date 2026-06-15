@@ -6,4 +6,3 @@ slug: tom-vranas-you-do-not-lead-by-hitting-people-over-the-head-thats-assault-n
 heroImage: "/images/blog/tom-vranas-you-do-not-lead-by-hitting-people-over-the-head-thats-assault-not-leadership/Leadership_Quote_068.jpg"
 excerpt: "You do not lead by hitting people over the head — that’s assault, not leadership."
 ---
-![tom vranas](/images/blog/tom-vranas-you-do-not-lead-by-hitting-people-over-the-head-thats-assault-not-leadership/image-0.jpg)

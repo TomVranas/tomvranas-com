@@ -10,8 +10,6 @@ excerpt: "Shop Class as Soulcraft: An Inquiry into the Value of Work Matthew B. 
 
 A philosopher / mechanic destroys the pretensions of the high- prestige workplace and makes an irresistible case for working with one's hands
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-shop-class-as-soulcraft/image-0.jpg)
-
 Shop Class as Soulcraft brings alive an experience that was once quite common, but now seems to be receding from society-the experience of making and fixing things with our hands. Those of us who sit in an office often feel a lack of connection to the material world, a sense of loss, and find it difficult to say exactly what we do all day.
 
 For anyone who felt hustled off to college, then to the cubicle, against their own inclinations and natural bents, Shop Class as Soulcraft seeks to restore the honor of the manual trades as a life worth choosing. 

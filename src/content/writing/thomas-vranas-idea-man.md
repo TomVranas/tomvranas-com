@@ -10,8 +10,6 @@ excerpt: "Idea Man: A Memoir by the Cofounder of Microsoft Paul Allen"
 
 By his early thirties, Paul Allen was a world-famous billionaire-and that was just the beginning. 
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-idea-man/image-0.jpg)
-
 In 2007 and 2008, Time named Paul Allen, the cofounder of Microsoft, one of the hundred most influential people in the world. Since he made his fortune, his impact has been felt in science, technology, business, medicine, sports, music, and philanthropy. His passion, curiosity, and intellectual rigor-combined with the resources to launch and support new initiatives-have literally changed the world. 
 
 In 2009 Allen discovered that he had lymphoma, lending urgency to his desire to share his story for the first time. In this long-awaited memoir, Allen explains how he has solved problems, what he's learned from his many endeavors-both the triumphs and the failures-and his compelling vision for the future. He reflects candidly on an extraordinary life. 

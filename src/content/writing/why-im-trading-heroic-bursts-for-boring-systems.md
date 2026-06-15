@@ -12,8 +12,6 @@ featured: true
 
 Every January, the “high performer” playbook looks exactly the same:
 
-![](/images/blog/why-im-trading-heroic-bursts-for-boring-systems/tv.png)
-
 -   We set 30 goals.
     
 -   We build elaborate spreadsheets.

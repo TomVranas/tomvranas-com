@@ -8,8 +8,6 @@ excerpt: "Welcome to Your Crisis: How to Use the Power of Crisis to Create the L
 ---
 ## Synopsis
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-welcome-to-your-crisis/image-0.jpg)
-
 In this inspirational new book, Laura Day identifies crisis as the most authentic version of self-transformation. She identifies several crisis types; those who respond to crisis with denial, with anxiety, with rage or with depression-and tells readers how to rethink each response. She gives practical and personalized tools for turning our darkest times into life’s greatest gifts. As Laura Day says, rock bottom can be the best place to start.
 
 * * *

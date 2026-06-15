@@ -16,8 +16,6 @@ Social scientist Brené Brown has ignited a global conversation on courage, vuln
 
 It is the rise from falling that Brown takes as her subject in Rising Strong. As a grounded theory researcher, Brown has listened as a range of people—from leaders in Fortune 500 companies and the military to artists, couples in long-term relationships, teachers, and parents—shared their stories of being brave, falling, and getting back up. She asked herself, What do these people with strong and loving relationships, leaders nurturing creativity, artists pushing innovation, and clergy walking with people through faith and mystery have in common? The answer was clear: They recognize the power of emotion and they’re not afraid to lean in to discomfort.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-rising-strong/image-0.jpg)
-
 Walking into our stories of hurt can feel dangerous. But the process of regaining our footing in the midst of struggle is where our courage is tested and our values are forged. Our stories of struggle can be big ones, like the loss of a job or the end of a relationship, or smaller ones, like a conflict with a friend or colleague. Regardless of magnitude or circumstance, the rising strong process is the same: We reckon with our emotions and get curious about what we’re feeling; we rumble with our stories until we get to a place of truth; and we live this process, every day, until it becomes a practice and creates nothing short of a revolution in our lives. Rising strong after a fall is how we cultivate wholeheartedness. It’s the process, Brown writes, that teaches us the most about who we are.  
  
 

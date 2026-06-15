@@ -8,8 +8,6 @@ excerpt: "Executive Bookshelf : Creative Confidence Tom &amp; David Kelley"
 ---
 ## Synopsis
 
-![tom vranas](/images/blog/tom-vranas-creative-confidence/image-0.jpg)
-
 **IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kelley, IDEO partner and the author of the bestselling _The Art of Innovation_, have written a powerful and compelling book on unleashing the creativity that lies within each and every one of us.**  
   
 Too often, companies and individuals assume that creativity and innovation are the domain of the "creative types."  But two of the leading experts in innovation, design, and creativity on the planet show us that each and every  one of us is creative.  In an incredibly entertaining and inspiring narrative that draws on countless stories from their work at IDEO, the Stanford d.school, and with many of the world's top companies, David and Tom Kelley identify the principles and strategies that will allow us to tap into our creative potential in our work lives, and in our personal lives, and allow us to innovate in terms of how we approach and solve problems.  It is a book that will help each of us be more productive and successful in our lives and in our careers.

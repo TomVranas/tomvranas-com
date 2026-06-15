@@ -10,8 +10,6 @@ excerpt: "Stumbling On Happiness Daniel Todd Gilbert"
 
 Bringing to life scientific research in psychology, cognitive neuroscience, philosophy, and behavioral economics, this bestselling book reveals what scientists have discovered about the uniquely human ability to imagine the future, and about our capacity to predict how much we will like it when we get there. 
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-stumbling-on-happiness/image-0.jpg)
-
 -   Why are lovers quicker to forgive their partners for infidelity than for leaving dirty dishes in the sink? 
 -   Why will sighted people pay more to avoid going blind than blind people will pay to regain their sight? 
 -   Why do dining companions insist on ordering different meals instead of getting what they really want? 

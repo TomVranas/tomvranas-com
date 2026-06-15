@@ -75,9 +75,6 @@ Frontmatter fields (`src/content.config.ts`): `title`, `date`, `slug`
 
 ## Config values (`src/config.ts`)
 
-- `schedulingUrl` — replace `{{SCHEDULING_URL}}` with the real
-  Calendly/SavvyCal URL. Until then the Contact page shows a highlighted
-  warning next to the button.
 - `analyticsToken` — Cloudflare dashboard → **Analytics & Logs → Web
   Analytics** → add site → copy the token. The beacon snippet is omitted
   automatically while the placeholder is in place. (Free, no cookie banner

@@ -8,8 +8,6 @@ excerpt: "American Sketches: Great Leaders, Creative Thinkers, and Heroes of a H
 ---
 ## Synopsis
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-american-sketches/image-0.jpg)
-
 In this collection of essays, Walter Isaacson reflects on the lessons to be learned from Benjamin Franklin, Albert Einstein, Bill Gates, Henry Kissinger, Ronald Reagan and Mikhail Gorbachev, Hillary Clinton and Bill Clinton, and various other interesting characters he has chronicled as a biographer and journalist. The people he writes about have an awesome intelligence, in most cases, but that is not the secret of their success. They had qualities that were even more rare, such as imagination and true curiosity. 
 
 Isaacson reflects on how he became a writer, the lessons he learned from various people he met, and the challenges he sees for journalism in the digital age. 

@@ -10,8 +10,6 @@ excerpt: "Pitch Anything Oren Klaff "
 
 When it comes to delivering a pitch, Oren Klaff has unparalleled credentials. Over the past 13 years, he has used his one-of-a- kind method to raise more than $400 million—and now, for the first time, he describes his formula to help you deliver a winning pitch in any business situation.
 
-![thomas vranas supes chicago](/images/blog/thomas-vranas-pitch-anything/image-0.jpg)
-
 Whether you’re selling ideas to investors, pitching a client for new business, or even negotiating for a higher salary, Pitch Anything will transform the way you position your ideas.
 
 According to Klaff, creating and presenting a great pitch isn’t an art—it’s a simple science. Applying the latest findings in the field of neuroeconomics, while sharing eye-opening stories of his method in action, Klaff describes how the brain makes decisions and responds to pitches. With this information, you’ll remain in complete control of every stage of the pitch process.

@@ -6,8 +6,6 @@ slug: tom-vranas-how-to-think
 heroImage: "/images/blog/tom-vranas-how-to-think/41Jb4-SKTJL._SX377_BO1-2C204-2C203-2C200_.jpg"
 excerpt: "Executive Bookshelf : How to Think: A Survival Guide for a World at Odds Alan Jacobs"
 ---
-![tom vranas](/images/blog/tom-vranas-how-to-think/image-0.jpg)
-
 ## Synopsis
 
 **_How to Think_ is a contrarian treatise on why we’re not as good at thinking as we assume—but how recovering this lost art can rescue our inner lives from the chaos of modern life.**  
