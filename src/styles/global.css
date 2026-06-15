@@ -593,13 +593,36 @@ mark.ph {
 
 /* ---- logo row ---- */
 
+/* Mobile: all nine marks flow as one centered, wrapping group (the line
+   wrappers collapse via display:contents) so rows fill evenly with no
+   left-aligned orphan. */
 .logo-row {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 1.5rem 2rem;
-  flex-wrap: wrap;
   margin-top: 2rem;
+}
+
+.logo-row__line {
+  display: contents;
+}
+
+/* Desktop: two balanced, centered lines (5 over 4) stacked vertically. */
+@media (min-width: 700px) {
+  .logo-row {
+    flex-direction: column;
+    gap: 1.75rem;
+  }
+
+  .logo-row__line {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem 2.5rem;
+  }
 }
 
 /* Marks are pre-inked to one tone on transparent — no filter needed. Height
@@ -607,14 +630,6 @@ mark.ph {
 .logo-row__mark {
   height: clamp(1.75rem, 0.5rem + 3.2vw, 3rem);
   width: auto;
-}
-
-/* Desktop: larger marks spread across the full content width, edge to edge. */
-@media (min-width: 700px) {
-  .logo-row {
-    justify-content: space-between;
-    gap: 2rem 2.5rem;
-  }
 }
 
 @media (hover: hover) {
@@ -712,7 +727,7 @@ mark.ph {
   .figure-split--hero {
     grid-template-columns: minmax(0, 1fr) minmax(360px, 46%);
     gap: 3rem;
-    align-items: end;
+    align-items: start;
   }
 }
 

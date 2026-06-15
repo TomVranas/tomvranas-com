@@ -1,9 +1,9 @@
 ---
 // "Companies & institutions I've worked with" logo row (Home page).
 // Each mark is pre-normalized to a single ink tone on a transparent ground
-// (see src/assets/logos/), so no grayscale/recolor filter is applied here —
-// they already read as one deliberate set. The NBC peacock is recolored to
-// the same flat ink (not desaturated) so it stays coherent with the row.
+// (see src/assets/logos/), so no grayscale/recolor filter is applied here.
+// Laid out as two balanced, centered lines (5 over 4) so no mark is orphaned;
+// the widest wordmark (Per Scholas) sits in the first line to even the widths.
 import { Image } from 'astro:assets';
 import apple from '../assets/logos/apple.png';
 import nbc from '../assets/logos/nbc.png';
@@ -15,23 +15,31 @@ import inc from '../assets/logos/inc.png';
 import execClub from '../assets/logos/executives-club-chicago.png';
 import perScholas from '../assets/logos/per-scholas.png';
 
-const logos = [
-  { src: apple, alt: 'Apple' },
-  { src: nbc, alt: 'NBC' },
-  { src: northwestern, alt: 'Northwestern — The Garage' },
-  { src: hbr, alt: 'Harvard Business Review' },
-  { src: mcPartners, alt: 'MC Partners' },
-  { src: txi, alt: 'TXI' },
-  { src: inc, alt: 'Inc.' },
-  { src: execClub, alt: "Executives' Club of Chicago" },
-  { src: perScholas, alt: 'Per Scholas' },
+const lines = [
+  [
+    { src: apple, alt: 'Apple' },
+    { src: nbc, alt: 'NBC' },
+    { src: northwestern, alt: 'Northwestern — The Garage' },
+    { src: hbr, alt: 'Harvard Business Review' },
+    { src: perScholas, alt: 'Per Scholas' },
+  ],
+  [
+    { src: mcPartners, alt: 'MC Partners' },
+    { src: txi, alt: 'TXI' },
+    { src: inc, alt: 'Inc.' },
+    { src: execClub, alt: "Executives' Club of Chicago" },
+  ],
 ];
 ---
 
 <div class="logo-row">
   {
-    logos.map((logo) => (
-      <Image class="logo-row__mark" src={logo.src} alt={logo.alt} height={96} loading="lazy" />
+    lines.map((line) => (
+      <div class="logo-row__line">
+        {line.map((logo) => (
+          <Image class="logo-row__mark" src={logo.src} alt={logo.alt} height={96} loading="lazy" />
+        ))}
+      </div>
     ))
   }
 </div>
