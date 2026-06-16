@@ -8,6 +8,7 @@
 /toms-world/*      /contact            301
 /home              /                   301
 /home-old          /                   301
+/sitemap.xml       /sitemap-index.xml  301
 
 /blog-vranas/tag/*       /writing       301
 /blog-vranas/category/*  /writing       301
