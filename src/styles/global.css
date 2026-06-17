@@ -491,6 +491,8 @@ mark.ph {
   font-size: 0.8rem;
   letter-spacing: 0.02em;
   color: var(--slate);
+  /* Safety net: never let a long acquirer name bleed past a narrow card. */
+  overflow-wrap: break-word;
 }
 
 .tombstone__year {
